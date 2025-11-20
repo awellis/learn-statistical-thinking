@@ -23,5 +23,4 @@ format:
 #   tidy: true
 #   tidy_opts:
 #     width.cutoff: 80
-# filters:
 #   - pyodide

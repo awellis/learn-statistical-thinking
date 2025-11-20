@@ -2,48 +2,32 @@
 title: "Ablauf"
 ---
 
-## Workshop-Ablauf: KI in der Lehre: Intermediate (3 Stunden)
+## Workshop-Ablauf: KI für Unterricht & Beratung (3 Stunden)
 
 | {{< bi clock-fill >}} Zeit | {{< bi collection-fill >}} Thema                                       | {{< bi hourglass-split >}} Dauer |
 |----------------------------|------------------------------------------------------------------------|----------------------------------|
 | **09:00 - 09:10**          | {{< bi collection-play >}} **Einstieg**                                |                                  |
-|                            | [Aktivierende Begrüssung](einstieg/index.qmd)                          | 10 min                           |
-| **09:10 - 10:10**          | {{< bi collection-play >}} **Teil 1: KI verstehen**                    |                                  |
-|                            | [Hauptpräsentation: KI & Agents](../01-ki-verstehen/index.qmd)         | 60 min                           |
-| **10:10 - 10:25**          | {{< bi cup-hot-fill >}} **Pause**                                |                                  |
-|                            | Kaffee                                                  | 15 min                           |
-| **10:25 - 10:45**          | {{< bi collection-play >}} **Teil 2: Lernen verstehen**                |                                  |
-|                            | [Wie Menschen lernen](../02-wie-menschen-lernen/index.qmd) | 20 min                           |
-| **10:45 - 11:45**          | {{< bi collection-play >}} **Teil 3: KI-gestütztes Lerndesign**        |                                  |
-|                            | [Think-Pair-Share: Agent-Design](../03-lernumgebungen/index.qmd)       | 60 min                           |
-| **11:45 - 12:00**          | {{< bi collection-play >}} **Transfer & Abschluss**                    |                                  |
-|                            | [Umsetzung & nächste Schritte](diskussion/index.qmd)                   | 15 min                           |
+|                            | [Begrüssung](einstieg/index.qmd)                          | 10 min                           |
+| **09:10 - 09:40**          | {{< bi collection-play >}} **Teil 1: KI verstehen**                    |                                  |
+|                            | [Grundlagen: KI, Chatbots & Agents](../01-ki-verstehen/index.qmd)                | 30 min                           |
+| **09:40 - 09:55**          | {{< bi collection-play >}} **Teil 2: Lernen verstehen**                |                                  |
+|                            | [Wie Menschen lernen](../02-wie-menschen-lernen/index.qmd)             | 15 min                           |
+| **09:55 - 10:10**          | {{< bi cup-hot-fill >}} **Pause**                                      |                                  |
+|                            | Kaffee                                                                 | 15 min                           |
+| **10:10 - 11:00**          | {{< bi collection-play >}} **Teil 3: KI im Unterricht**               |                                  |
+|                            | [KI-gestützte Lehrplanung](../03-lernumgebungen/index.qmd)             | 50 min                           |
+| **11:00 - 11:30**          | {{< bi collection-play >}} **Teil 4: KI in der Beratung**             |                                  |
+|                            | [Beratungsgespräche simulieren](../04-ki-in-beratung/index.qmd)        | 30 min                           |
+| **11:30 - 12:00**          | {{< bi collection-play >}} **Abschlussdiskussion & Transfer**          |                                  |
+|                            | [KI in der Praxis: Chancen, Grenzen & Ethik](diskussion/index.qmd)     | 30 min                           |
 
 
 ## Lernziele
 
 Am Ende des Workshops können die Teilnehmer:
 
-1. **KI verstehen**: Unterschied zwischen Tools und Agents erkennen
-2. **Lernen verstehen**: Wissenschaftlich etablierte Lernstrategien anwenden
-3. **Praxis umsetzen**: Einen Copilot Agent für ihr eigenes Lehrthema konzipieren
-4. **Transfer leisten**: Konkrete nächste Schritte für die eigene Lehre formulieren
-
-
-## Vorbereitung
-
-### Inhaltliche Vorbereitung (10 Min.)
-
-Wähle ein Thema aus deiner Lehre, das du im Workshop bearbeiten möchtest (z.B. ein schwieriges Konzept, ein Prüfungsthema, ein häufiges Verständnisproblem). 
-Überlege dir dazu:
-
-- Welche Hürden haben mein Studierende beim Lernen? 
-- Wie könnten KI-Tools dabei helfen?
-
-### Lektüre und Reflexion (15 Min.)
-Lies diesen [Blog Post](https://barbarageyer.substack.com/p/von-zetteln-zu-prompts) von Barbara Geyer zum Thema Künstliche Intelligenz und Lernstrategien.
-Notiere dir:
-
-- Welche der Strategien sind für deine Lehre spannend?
-- Wie wirken die gezeigten Prompting-Ansätze auf dich?
-- Was würdest du verbessern oder anders formulieren?
+1. **Sprachmodelle verstehen**: Grundlegende Funktionsweise und Grenzen von LLMs und Chatbots erklären
+2. **KI im Unterricht einsetzen**: Sprachmodelle gezielt zur Planung, Gestaltung und Reflexion von Lehrsituationen nutzen
+3. **KI in der Beratung einsetzen**: Beratungsgespräche mit Chatbot-Unterstützung vorbereiten und reflektieren
+4. **Verantwortungsvoll handeln**: Chancen, Grenzen und ethische Implikationen des Sprachmodell-Einsatzes reflektieren und in der Praxis berücksichtigen
+5. **Transfer leisten**: Konkrete Anwendungsideen für den eigenen Unterrichts- oder Beratungskontext entwickeln

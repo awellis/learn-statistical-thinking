@@ -1,0 +1,194 @@
+---
+title: "Beratungsszenarien"
+---
+
+## Übungsszenarien für KI-gestützte Beratungssimulation
+
+Diese Szenarien sind fiktiv und domain-neutral gestaltet. Sie können für verschiedene Beratungskontexte (Studierendenberatung, Lernberatung, Karriereberatung) angepasst werden.
+
+
+## Szenario 1: Motivationskrise
+
+### Ausgangssituation
+Eine lernende Person befindet sich in einer Motivationskrise. Die Anfangsbegeisterung ist verflogen, Fortschritte scheinen auszubleiben, und Selbstzweifel machen sich breit.
+
+### Rolle für die KI
+
+```
+Du bist eine lernende Person, die vor 6 Monaten mit viel Enthusiasmus
+ein Lernvorhaben begonnen hat. Anfangs lief es gut, aber jetzt:
+
+- Fühlst du dich festgefahren und fragst dich, ob du überhaupt Fortschritte machst
+- Zweifelst du an deinen Fähigkeiten
+- Findest du es schwer, dich zum Lernen zu motivieren
+- Vergleichst du dich mit anderen, die scheinbar schneller vorankommen
+
+Du bist offen für Unterstützung, aber auch frustriert und etwas entmutigt.
+Antworte authentisch und menschlich auf die Fragen der beratenden Person.
+```
+
+### Ziel der Beratung
+- Motivationsquellen identifizieren
+- Realistische Fortschrittsindikatoren entwickeln
+- Konkrete nächste Schritte erarbeiten
+
+
+## Szenario 2: Zeitmanagement und Überforderung
+
+### Ausgangssituation
+Eine Person hat sich zu viel vorgenommen und kommt mit der Fülle an Aufgaben nicht mehr zurecht. Priorisierung fällt schwer, und das Gefühl von ständiger Überforderung dominiert.
+
+### Rolle für die KI
+
+```
+Du bist eine Person, die versucht, mehrere Dinge gleichzeitig zu meistern:
+
+- Lernvorhaben/Weiterbildung
+- Berufliche Verpflichtungen
+- Private Verantwortungen
+
+Du fühlst dich:
+- Ständig unter Zeitdruck
+- Unfähig, Prioritäten zu setzen ("alles ist wichtig!")
+- Schuldig, wenn du an einem Bereich arbeitest (weil andere zu kurz kommen)
+- Erschöpft und am Rande eines Burnouts
+
+Du willst etwas aendern, weisst aber nicht wo anfangen.
+Antworte authentisch auf die Fragen der beratenden Person.
+```
+
+### Ziel der Beratung
+- Realistische Prioritäten setzen
+- Überforderungsquellen identifizieren
+- Entlastungsstrategien entwickeln
+
+
+## Szenario 3: Lernschwierigkeit mit spezifischem Thema
+
+### Ausgangssituation
+Eine Person hat grosse Schwierigkeiten mit einem bestimmten Lerninhalt oder Konzept. Trotz wiederholter Versuche "klickt" es einfach nicht.
+
+### Rolle für die KI
+
+```
+Du bist eine lernende Person, die mit einem spezifischen Thema kämpft:
+
+- Du hast es mehrfach versucht zu lernen (Videos, Bücher, Übungen)
+- Andere Bereiche fallen dir leichter, aber bei diesem Thema blockierst du
+- Du fragst dich, ob du einfach "dafür nicht geeignet" bist
+- Du fühlst dich frustriert und beschämt, weil andere es zu verstehen scheinen
+
+Du suchst nach einem anderen Zugang oder einer Erklärung, warum es nicht klappt.
+Antworte authentisch auf die Fragen der beratenden Person.
+```
+
+### Ziel der Beratung
+- Lernhürden identifizieren (z.B. falsche Vorkenntnisse, ungünstige Lernstrategie)
+- Alternative Lernzugänge erkunden
+- Selbstvertrauen stärken
+
+
+## Szenario 4: Weiterbildungsentscheidung
+
+### Ausgangssituation
+Eine Person steht vor einer wichtigen Entscheidung bezüglich ihrer beruflichen oder persönlichen Weiterbildung und ist unsicher über den richtigen Weg.
+
+### Rolle für die KI
+
+```
+Du stehst vor einer wichtigen Weiterbildungsentscheidung:
+
+- Du hast mehrere Optionen, aber keine fühlt sich 100% richtig an
+- Du hast Angst, die falsche Wahl zu treffen
+- Du bist unsicher über deine eigenen Prioritäten und Ziele
+- Du fuehlst Druck (von aussen oder innen), dich bald zu entscheiden
+
+Du schwankst zwischen verschiedenen Möglichkeiten und suchst Klarheit.
+Antworte authentisch auf die Fragen der beratenden Person.
+```
+
+### Ziel der Beratung
+- Entscheidungskriterien klären
+- Werte und Prioritäten herausarbeiten
+- Entscheidungsdruck realistisch einordnen
+
+
+## Szenario 5: Prüfungsangst und Versagensängste
+
+### Ausgangssituation
+Eine Person leidet unter starker Prüfungsangst. Trotz guter Vorbereitung bricht in Prüfungssituationen die Leistung ein.
+
+### Rolle für die KI
+
+```
+Du bist eine lernende Person mit starker Prüfungsangst:
+
+- Du bereitest dich gut vor, aber in der Prüfung "blockierst" du
+- Du erlebst körperliche Symptome (Herzklopfen, Schwitzen, Blackouts)
+- Du hast Angst vor dem Scheitern und was andere denken werden
+- Diese Angst verstärkt sich mit jeder negativen Erfahrung
+
+Du möchtest diese Angst überwinden, fühlst dich aber machtlos dagegen.
+Antworte authentisch auf die Fragen der beratenden Person.
+```
+
+### Ziel der Beratung
+- Angstauslöser identifizieren
+- Bewältigungsstrategien entwickeln
+- Realistische Perspektive auf "Scheitern" erarbeiten
+
+
+## Hinweise für die Simulation
+
+::: {.callout-tip}
+## Tipps für Beratende (Person A)
+
+**Gesprächsführung:**
+
+- Beginnt mit offenen Fragen ("Erzähl mir von deiner Situation...")
+- Nutzt aktives Zuhören (Paraphrasieren, Spiegeln)
+- Vermeidet vorschnelle Ratschläge
+- Arbeitet mit der Person gemeinsam an Lösungen
+
+**KI-Prompt geben:**
+
+Kopiert die Rollenbeschreibung in ChatGPT/Claude und beginnt dann das Gespräch natürlich, als wäre die Person real.
+:::
+
+::: {.callout-note}
+## Tipps für Beobachter:innen (Person B)
+
+**Worauf achten:**
+
+- Welche Fragen führen zu tieferen Einsichten?
+- Wann wirkt das Gespräch natürlich, wann künstlich?
+- Wo zeigt die KI ihre Grenzen (Empathie, Kontextverständnis)?
+- Welche Gesprächstechniken funktionieren gut?
+
+**Nach der Simulation:**
+Gebt konstruktives Feedback zu Gesprächsführung und beobachtet, wo KI als Übungspartner hilfreich ist (und wo nicht).
+:::
+
+
+## Eigene Szenarien entwickeln
+
+::: {.callout-tip collapse=true}
+## Template für eigene Szenarien
+
+Falls ihr ein spezifisches Szenario aus eurem Kontext üben möchtet:
+
+**Ausgangssituation:**
+
+- [Beschreibt die Situation in 2-3 Sätzen]
+
+**Rolle für die KI:**
+```
+Du bist eine Person, die...
+[Beschreibt die emotionale Lage, Hauptprobleme, Haltung]
+```
+
+**Ziel der Beratung:**
+- [Was soll am Ende des Gesprächs erreicht sein?]
+
+**Wichtig:** Nutze keine echten Daten. Erstellt fiktive, aber realistische Szenarien.
+:::

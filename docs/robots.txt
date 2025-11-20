@@ -1,1 +1,1 @@
-Sitemap: https://virtuelleakademie.github.io/ki-lehre-intermediate/sitemap.xml
+Sitemap: https://awellis.github.io/learn-statistical-thinking/sitemap.xml

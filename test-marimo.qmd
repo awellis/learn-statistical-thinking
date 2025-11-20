@@ -1,0 +1,18 @@
+---
+title: "Marimo Test"
+format: html
+filters:
+    - marimo-team/marimo
+---
+
+## Marimo Test
+
+```{.marimo}
+import marimo as mo
+x = mo.ui.text(value="Hello!")
+x
+```
+
+```{.marimo}
+mo.md(f"You typed: {x.value}")
+```

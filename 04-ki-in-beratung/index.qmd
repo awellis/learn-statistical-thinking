@@ -1,0 +1,144 @@
+---
+title: "KI in der Beratung"
+---
+
+## Beratungsgespräche mit Chatbots unterstützen (30 Min)
+
+Wie können Sprachmodelle in Beratungskontexten sinnvoll eingesetzt werden?
+
+
+## Anwendungen von Chatbots in der Beratung (5 Min)
+
+Sprachmodelle können Beratende in verschiedenen Phasen unterstützen:
+
+### 1. Vorbereitung von Beratungsgesprächen
+
+- **Strukturierung**: Chatbots helfen, Gesprächsleitfäden zu entwickeln
+- **Perspektivenwechsel**: Alternative Sichtweisen auf Beratungssituationen
+- **Ressourcen**: Zusammenstellung relevanter Informationen und Materialien
+
+### 2. Simulation und Rollenspiele
+
+- **Übungsgespräche**: Chatbots nehmen verschiedene Rollen ein (z.B. ratsuchende Person, kritischer Gesprächspartner)
+- **Gesprächstechniken**: Aktives Zuhören üben, Fragetechniken, lösungsorientiertem Vorgehen
+- **Sichere Umgebung**: Fehler machen und lernen ohne reale Konsequenzen
+
+### 3. Reflexion und Nachbereitung
+
+- **Gesprächsanalyse**: Chatbot als Reflexionspartner nach Beratungsgesprächen
+- **Dokumentation**: Unterstützung beim Erfassen wichtiger Gesprächspunkte
+- **Weiterentwicklung**: Identifikation von Mustern und Entwicklungsfeldern
+
+::: {.callout-warning}
+## Kritische Grenzen
+
+**Was Chatbots NICHT können und sollen:**
+
+- Vertrauliche Informationen von Klient:innen verarbeiten (Datenschutz!)
+- Professionelle Beurteilung und Verantwortung übernehmen
+- Ethische Dilemmata auflösen
+:::
+
+
+## Gruppenarbeit: Beratungssimulation mit Chatbot (20 Min)
+
+::: {.group}
+## Simulation von Beratungssituationen
+
+### Ablauf (20 Min)
+
+**Gruppengrösse**: 3-4 Personen
+
+**Schritt 1: Gruppenbildung & Szenario wählen (3 Min)**
+
+- Bildet Gruppen von 3-4 Personen
+- Wählt gemeinsam ein Beratungsszenario aus [den Beispielszenarien](szenario/)
+- Verteilt die Rollen:
+  - **1 Person**: Berater:in (führt das Gespräch mit KI)
+  - **2-3 Personen**: Beobachter:innen (achten auf verschiedene Aspekte)
+
+**Schritt 2: Rollen verteilen & vorbereiten (2 Min)**
+
+**Berater:in:**
+
+- Liest das Szenario durch
+- Überlegt sich den Einstieg ins Gespräch
+
+**Beobachter:innen verteilen Beobachtungsfokus:**
+
+- Person 1: Achtet auf **Gesprächsführung** (Fragetechniken, Struktur, Zuhören)
+- Person 2: Achtet auf **Beziehungsgestaltung** (Empathie, Wertschätzung, Rapport)
+- Person 3 (falls vorhanden): Achtet auf **Lösungsorientierung** (Ressourcen, Ziele, Handlungsschritte)
+
+**Schritt 3: Simulation durchführen (10 Min)**
+
+**Berater:in:**
+
+- Gibt dem Chatbot (ChatGPT/Claude) die Rolle aus dem Szenario
+- Führt das Beratungsgespräch (ca. 8-10 Min)
+- Versucht professionelle Gesprächstechniken anzuwenden
+
+**Beobachter:innen:**
+
+- Machen sich Notizen zu ihrem Beobachtungsfokus
+- Achten auch auf: Wo wirkt der Chatbot realistisch? Wo nicht?
+
+**Schritt 4: Reflexion in der Gruppe (5 Min)**
+
+Austausch im Gruppe:
+
+1. **Berater:in berichtet** (1 Min): Wie war das Gespräch? Was war schwierig?
+
+2. **Beobachter:innen geben Feedback** (3 Min):
+   - Was hat gut funktioniert?
+   - Wo waren die Grenzen des Chatbots spürbar?
+   - Welche Gesprächstechniken haben gut/nicht gut funktioniert?
+
+3. **Gemeinsame Einschätzung** (1 Min):
+   - Wo könnte dieses Übungsformat hilfreich sein?
+   - Was müsste man beachten beim Üben mit Chatbots?
+:::
+
+
+## Reflexion: Chatbots in der Beratungspraxis (10 Min)
+
+::: {.group}
+## Plenum-Diskussion
+
+### Erfahrungen aus der Simulation
+
+- **Was hat gut funktioniert?** Welche Aspekte der Simulation waren realistisch?
+- **Was fehlte?** Wo wurde die Künstlichkeit des Chatbots spürbar?
+- **Überraschungen?** Gab es unerwartete Wendungen im Gespräch?
+
+### Übertragung in die Praxis
+
+- **Wo sinnvoll?** In welchen Beratungssituationen könnte chatbot-gestütztes Üben helfen?
+  - Vorbereitung auf schwierige Gespräche?
+  - Training neuer Gesprächstechniken?
+  - Reflexion eigener Kommunikationsmuster?
+
+- **Wo problematisch?** Welche Risiken und Grenzen seht ihr?
+  - Datenschutz bei echten Fällen?
+  - Vereinfachung komplexer menschlicher Dynamiken?
+  - Abhängigkeit von Chatbot-Vorschlägen?
+
+### Ethische Fragen
+
+- Wann wird aus Unterstützung Abhängigkeit?
+- Wie bleibt professionelle Verantwortung gewahrt?
+- Was darf automatisiert werden, was nicht?
+:::
+
+
+## Vertiefende Ressourcen
+
+### Beispielszenarien
+
+- [Beratungsszenarien für die Simulation](szenario/): Verschiedene Übungssituationen
+
+::: {.callout-tip}
+## Praxis-Tipp
+
+Für den Einstieg: Beginnt mit fiktiven Szenarien, die keine echten Daten enthalten. Nutzt Chatbots nur für Übung und Reflexion, nicht für die Verarbeitung vertraulicher Informationen.
+:::

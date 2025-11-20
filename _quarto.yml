@@ -14,12 +14,13 @@ project:
     - 01-ki-verstehen/**/*.qmd
     - 02-wie-menschen-lernen/**/*.qmd
     - 03-lernumgebungen/**/*.qmd
+    - 04-ki-in-beratung/**/*.qmd
     - resources/**/*.qmd
     - slides/**/*.qmd
 
 website:
-  title: "KI in der Lehre: Intermediate"
-  site-url: https://virtuelleakademie.github.io/ki-lehre-intermediate/
+  title: "Learn Statistical Thinking"
+  site-url: https://awellis.github.io/learn-statistical-thinking/
   # repo-url: https://github.com/virtuelleakademie/cas-hochschuldidaktik/
   # repo-actions: [edit, issue]
   favicon: /assets/robot.png
@@ -47,7 +48,10 @@ website:
         text: "2: Lernen"
       - icon: marker-tip
         href: 03-lernumgebungen/index.qmd
-        text: "3: KI-gestütztes Lerndesign"
+        text: "3: KI im Unterricht"
+      - icon: chat-heart
+        href: 04-ki-in-beratung/index.qmd
+        text: "4: KI in der Beratung"
 
     right:
       - icon: file-slides
@@ -70,9 +74,9 @@ website:
       # - icon: github
       #   menu:
       #     - text: Source code
-      #       url:  https://github.com/virtuelleakademie/ki-lehre-intermediate/
+      #       url:  https://github.com/virtuelleakademie/ki-weiterbildung-ub-hafl/
       #     - text: Report an issue
-      #       url:  https://github.com/virtuelleakademie/ki-lehre-intermediate
+      #       url:  https://github.com/virtuelleakademie/ki-weiterbildung-ub-hafl
 
   sidebar:
     - title: "Workshop"
@@ -104,7 +108,7 @@ website:
         - 02-wie-menschen-lernen/index.qmd
         - 02-wie-menschen-lernen/kompetenz-erwerben/index.qmd
 
-    - title: "Teil 3: KI-gestütztes Lerndesign"
+    - title: "Teil 3: KI im Unterricht"
       style: "docked"
       search: true
       background: light
@@ -114,10 +118,19 @@ website:
         - 03-lernumgebungen/agent-beispiele/index.qmd
         - 03-lernumgebungen/produktive-anstrengung/index.qmd
 
+    - title: "Teil 4: KI in der Beratung"
+      style: "docked"
+      search: true
+      background: light
+      contents:
+        - 04-ki-in-beratung/index.qmd
+        - 04-ki-in-beratung/szenario/index.qmd
+        - 04-ki-in-beratung/ethik/index.qmd
+
 page-footer:
     right:
     - icon: github
-      href: https://github.com/virtuelleakademie/ki-lehre-intermediate/
+      href: https://github.com/virtuelleakademie/ki-weiterbildung-ub-hafl/
 
 format:
   html:
@@ -134,7 +147,7 @@ comments:
   hypothesis:
     theme: clean
   # utterances:
-    # repo: virtuelleakademie/ki-lehre-intermediate
+    # repo: virtuelleakademie/ki-weiterbildung-ub-hafl
 
 execute:
   cache: true
@@ -147,6 +160,7 @@ editor:
 revealjs-plugins:
   - attribution
 filters:
+  - marimo-team/marimo
   - timer
   - custom-callout
   # - linkate

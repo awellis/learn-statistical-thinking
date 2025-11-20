@@ -225,7 +225,7 @@ Der gefährlichste Fehler in der Bildung ist anzunehmen, dass Anfänger so lerne
 
 ### Warum Expertenmethoden Anfängern aktiv schaden
 
-Anfängern Expertenwerkzeuge zu geben, ist nicht nur ineffektiv – es ist **aktiv schädlich** für das Lernen:
+Anfängern Expertenwerkzeuge zu geben, ist nicht nur ineffektiv---es ist **aktiv schädlich** für das Lernen:
 
 #### 1. **Mismatch der kognitiven Belastung (cognitive load)**
 

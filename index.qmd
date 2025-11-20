@@ -22,11 +22,19 @@ about:
 ---
 
 
-{{< bi calendar-event >}} 19. September 2025
+{{< bi calendar-event >}} 12. November 2025
 
 {{< bi clock >}} 9:00–12:00 Uhr
 
-{{< bi map >}} S112 Seminarraum, Hallerstrasse 8, 3012 Bern
+<br>
+
+{{< bi calendar-event >}} 21. November 2025
+
+{{< bi clock >}} 13:00–16:00 Uhr
+
+<br>
+
+{{< bi map >}} B.2.61, HAFL Zollikofen
 
 <br>
 
@@ -36,4 +44,4 @@ about:
 
 ## Website
 
-{{< bi link >}} [virtuelleakademie.github.io/ki-lehre-intermediate/](https://virtuelleakademie.github.io/ki-lehre-intermediate/)
+{{< bi link >}} [virtuelleakademie.github.io/ki-weiterbildung-ub-hafl/](https://virtuelleakademie.github.io/ki-weiterbildung-ub-hafl/)

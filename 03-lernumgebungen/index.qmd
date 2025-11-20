@@ -1,179 +1,135 @@
 ---
-title: "KI-gestütztes Lerndesign"
-# filters:
-  # - linkate
+title: "KI im Unterricht"
 ---
 
-<!-- ## Aktive Verarbeitung -->
+## Chatbot-gestützte Lehrplanung (50 Min)
 
-::: {.active-processing}
-## Copilot Agent für effektives Lernen entwickeln (60 Min)
+Wie können Sprachmodelle konkret den Unterricht unterstützen, ohne die notwendige kognitive Anstrengung der Lernenden zu umgehen?
 
-Erstelle und teste einen **funktionsfähigen Copilot Agent**, der eine der 8 bewährten Lernstrategien aus "Make it Stick" für dein eigenes Lehrthema umsetzt.
 
-**Ziel**: Durch Prompting einen Agent bauen, der das Lernen **fördert**, nicht **ersetzt** - und dabei die praktischen Herausforderungen erleben.
+## Anwendungen von Chatbots im Unterricht (10 Min)
 
-**Format**: Think-Pair-Share mit Live-Testing und Padlet-Reflexion
+Sprachmodelle können Lehrende in verschiedenen Phasen unterstützen:
+
+### 1. Planung & Vorbereitung
+
+- **Lernzielanalyse**: Chatbots helfen, Lernziele zu konkretisieren und zu strukturieren
+- **Methodenauswahl**: Vorschläge für passende didaktische Ansätze
+- **Aufgabenentwicklung**: Erstellung von Übungen und Prüfungsfragen
+
+### 2. Materialerstellung
+
+- **Arbeitsblätter**: Generierung von strukturierten Übungsmaterialien
+- **Beispiele**: Entwicklung von Fallstudien und Anwendungsbeispielen
+- **Differenzierung**: Anpassung von Materialien für verschiedene Lernniveaus
+
+### 3. Reflexion & Verbesserung
+
+- **Chatbot als Reflexionspartner**: Feedback zu Unterrichtsplanung
+- **Kritische Begleitung**: Alternative Perspektiven auf didaktische Entscheidungen
+
+::: {.callout-warning}
+## Wichtig: Die Lernparadox-Falle
+
+Denkt an Teil 2: **Produktivität ≠ Lernen**
+
+- Sprachmodelle können **Lehrende** produktiver machen (Planung, Materialien)
+- Sprachmodelle sollten **Lernende** nicht von kognitiver Anstrengung entlasten
+- Die 8 Make-it-Stick-Strategien bleiben zentral: [Strategien im Detail](./handout-make-it-stick/)
 :::
 
 
-## Einführung: Die 8 Make it Stick Strategien (10 Min)
+## Gruppenarbeit: Unterrichtseinheit mit Chatbot planen (30 Min)
 
-### Die wissenschaftlich bewährten Lernstrategien:
+::: {.group}
+## Ablauf der Gruppenarbeit
 
-{{< bi book >}} **Vertiefung**: [Die 8 Make it Stick Strategien im Detail](./handout-make-it-stick/)
+**Gruppengrösse**: 3-4 Personen
 
-| Strategie | Kern-Prinzip | Warum effektiv? |
-|-----------|--------------|-----------------|
-| **1. Abrufpraxis** | Aktives Erinnern statt Wiederlesen | Stärkt neuronale Verbindungen |
-| **2. Verteiltes Lernen** | Über Zeit verteilen statt Pauken | Nutzt Vergessen als Lernhilfe |
-| **3. Abwechslung** | Verschiedene Aufgaben/Themen mischen | Trainiert flexible Anwendung |
-| **4. Variation** | In unterschiedlichen Kontexten üben | Fördert Transfer |
-| **5. Wünschenswerte Schwierigkeiten** | Fehler und Anstrengung nutzen | Vertieft Verständnis |
-| **6. Verstehen vs. Vertrautheit** | In eigenen Worten erklären | Echtes vs. oberflächliches Wissen |
-| **7. Feedback & Reflexion** | Korrektur und bewusstes Nachdenken | Selbstregulation |
-| **8. Anwendung** | Wissen in verschiedenen Kontexten | Transferfähigkeit |
+### Phase 1: Thema wählen & Planung starten (15 Min)
 
-::: {.active-processing}
-## Erinnerung
-Ihr habt als Vorbereitung ein **eigenes Lehrthema** mitgebracht---das ist euer Anwendungsbereich!
+**Aufgabe**: Wählt ein Unterrichtsthema aus eurem eigenen Lehrkontext und plant gemeinsam eine Unterrichtseinheit mit Chatbot-Unterstützung.
 
-{{< bi lightbulb >}}**Inspiration**: [Agent-Beispiele für jede Strategie](./agent-beispiele/)
+**Schritt für Schritt:**
+
+1. **Thema festlegen** (2 Min)
+   - Wählt ein konkretes Thema aus eurem Fachbereich
+   - Definiert die Zielgruppe (z.B. Studierende im 2. Semester)
+   - Legt grobe Lernziele fest
+
+2. **Chatbot zur Lernzielanalyse nutzen** (5 Min)
+   - Nutzt ChatGPT/Claude, um eure Lernziele zu konkretisieren
+   - Fragt nach: "Wie kann ich diese Lernziele messbarer formulieren?"
+   - Lasst euch Taxonomiestufen (Bloom) vorschlagen
+
+3. **Methodenauswahl mit Chatbot** (8 Min)
+   - Fragt den Chatbot nach didaktischen Methoden für euer Thema
+   - **Wichtig**: Filtert kritisch: Welche Methoden fördern produktive Anstrengung?
+   - Wählt 2-3 Methoden aus, die ihr vertiefen wollt
+
+**Tools**: ChatGPT, Claude, oder andere verfügbare Chatbots
+
+### Phase 2: Aufgabenentwicklung (10 Min)
+
+**Aufgabe**: Entwickelt mit dem Chatbot konkrete Lernaufgaben für eure Unterrichtseinheit.
+
+1. **Aufgaben generieren** (5 Min)
+   - Lasst den Chatbot Übungsaufgaben zu eurem Thema erstellen
+   - Variiert Schwierigkeitsgrade
+   - Fragt nach Aufgaben, die kognitive Anstrengung erfordern
+
+2. **Kritisch bewerten** (5 Min)
+   - Diskutiert: Fördern diese Aufgaben tiefes Lernen?
+   - Wo müssten die Aufgaben angepasst werden?
+   - Notiert eure wichtigsten Erkenntnisse
+
+### Phase 3: Vorbereitung Präsentation (5 Min)
+
+Bereitet eine 2-minütige Präsentation vor:
+
+- **Was** habt ihr geplant? (30 Sek)
+- **Wie** hat der Chatbot euch unterstützt? (30 Sek)
+- **Eine Erkenntnis**: Was hat überrascht? Wo waren Grenzen? (1 Min)
 :::
 
 
-## THINK Phase: Agent erstellen (25 Min)
+## Präsentation & Diskussion im Plenum (10 Min)
 
-::: {{.active-processing}
-## Schritt 1: Strategie wählen (5 Min)
+::: {.group}
+## Austausch der Gruppen
 
-**Aufgabe**: Wähle eine der 8 Strategien, die am besten zu deinem Lehrproblem passt.
+**Ablauf:**
 
-**Leitfragen:**
+- Jede Gruppe stellt ihre Unterrichtseinheit vor (2 Min pro Gruppe)
+- Kurze Rückfragen aus dem Plenum
 
-- Welches spezifische Problem haben meine Lernenden?
-- Welche Strategie könnte dieses Problem am besten lösen?
-- Bei welcher Strategie sehe ich das grösste Potenzial?
+**Leitfragen für die Diskussion:**
 
-**Notiere:**
+### Gemeinsame Muster
 
-- **Gewählte Strategie**: ________________________
-- **Mein Lehrthema**: ________________________
-- **Das spezifische Problem**: ________________________
-:::
+- Welche Chatbot-Unterstützung war besonders hilfreich?
+- Wo stiessen die Sprachmodelle an Grenzen?
+- Welche Prompting-Strategien haben gut funktioniert?
 
-::: {{.active-processing}
-## Schritt 2: Agent erstellen & testen (20 Min)
+### Kritische Reflexion
 
-**Erstelle deinen funktionsfähigen Copilot Agent:**
-
-#### Agent-Prompt entwickeln
-Verwende das Agent-Design-Template, um einen effektiven Prompt zu schreiben:
-
-**Template-Struktur:**
-
-- **Rolle & Mission**: "Du bist ein [Typ] Agent für [Lehrthema], der [spezifische Make-it-Stick-Strategie] fördert"
-- **Was der Agent TUT**: Konkrete Funktionen und Verhaltensweisen
-- **Was der Agent NICHT tut**: Grenzen setzen (keine direkten Antworten geben, etc.)
-- **Interaktionsstil**: Wie soll der Agent mit Lernenden kommunizieren?
-
-#### Testen
-
-- Teste deinen Agent mit einer typischen Lernsituation
-- Identifiziere Prompting-Herausforderungen
-- Verfeinere den Prompt basierend auf dem Test
-
-#### Qualitätskontrolle
-
-- **Strategie**: Fördert der Agent wirklich die gewählte Make-it-Stick-Strategie?
-- **Anstrengung**: Muss der Lernende noch selbst denken und arbeiten?
-- **Gefahr**: Wo nimmt der Agent dem Lernenden zu viel ab?
-- **Verbesserung**: Wo musst du den Prompt noch anpassen?
+- Wo besteht die Gefahr, dass Chatbots die kognitive Anstrengung der Lernenden reduzieren?
+- Wie können wir sicherstellen, dass Sprachmodelle uns als Lehrende unterstützen, ohne das Lernen zu behindern?
 :::
 
 
-## PAIR Phase: Agents testen & Erfahrungen teilen (20 Min)
+## Vertiefende Ressourcen
 
-### Partner finden (2 Min)
+Für diejenigen, die tiefer einsteigen möchten:
 
-- Suche dir einen Partner
-- Am besten jemand mit einer **anderen Strategie** oder **anderem Fachbereich**
+### Lernstrategien
+- [Die 8 Make it Stick Strategien im Detail](./handout-make-it-stick/) - Wissenschaftliche Grundlagen
+- [Produktive Anstrengung durch Design](./produktive-anstrengung/) - Wie Lernumgebungen gestaltet werden sollten
 
-### Agents teilen (3 Min)
+### Agent-Beispiele
+- [Agent-Beispiele für jede Strategie](./agent-beispiele/) - Konkrete Umsetzungen der 8 Strategien mit KI
 
-**Demo**: Wie ihr eure Copilot Agents miteinander teilt (wird demonstriert)
-
-### Gegenseitiges Agent-Testing (7 Min)
-
-::: {.active-processing}
-## Cross-Testing der Agents (parallel)
-**Beide Partner testen gleichzeitig (7 Min):**
-
-- **Person A** testet Agent von Person B
-- **Person B** testet Agent von Person A
-- **Parallel arbeiten** - jeder fokussiert auf den anderen Agent
-
-**Worauf achten:**
-
-- Verwende den Agent für eine typische Lernsituation aus dem Fachbereich deines Partners
-- Fördert der Agent wirklich die gewählte Strategie?
-- Notiere Herausforderungen und Überraschungen
+::: {.callout-note}
+## Weiterführende Workshops
+Diese Ressourcen sind besonders nützlich, wenn ihr nach diesem Workshop eigene Agents entwickeln möchtet. Der Workshop "KI in der Lehre: Intermediate" bietet eine 60-minütige hands-on Session zum Agent-Design.
 :::
-
-### Erfahrungen auf Padlet dokumentieren (8 Min)
-
-::: {.active-processing}
-## Padlet-Reflexion (via Moodle)
-**Teilt eure Erkenntnisse auf dem Kurs-Padlet:**
-
-**Dokumentiert:**
-
-- **Was funktioniert gut?** Welche Prompting-Strategien waren erfolgreich?
-- **Wo hakt es?** Welche Herausforderungen beim Agent-Design sind aufgetaucht?
-- **Überraschende Entdeckungen**: Was war anders als erwartet?
-- **Theorie vs. Praxis**: Wo klafft eine Lücke zwischen Konzept und Umsetzung?
-
-**Lest auch die Beiträge der anderen** und ergänzt mit Kommentaren oder Reactions.
-:::
-
-
-## SHARE Phase: Erkenntnisse aus der Praxis (15 Min)
-
-### Padlet-Review & Patterns (8 Min)
-
-**Gemeinsame Auswertung der Padlet-Beiträge:**
-
-- Welche **Prompting-Herausforderungen** tauchen wiederholt auf?
-- Wo war die **Theorie-Praxis-Lücke** am größten?
-- Welche **erfolgreichen Strategien** können wir identifizieren?
-- Was haben wir über **Agent-Verhalten vs. Agent-Intention** gelernt?
-
-### Synthese & Transfer (7 Min)
-
-**Von der Praxis zur Anwendung:**
-
-- **Reality Check**: Was ist realistisch umsetzbar in der eigenen Lehre?
-- **Prompting**: Welche Erkenntnisse nehmt ihr für zukünftige Agent-Entwicklung mit?
-- **Make-it-Stick und KI**: Wo funktioniert die Kombination gut, wo nicht?
-
-**Nächste Schritte:**
-
-- Wie könnt ihr das Gelernte in eurer Lehre einsetzen?
-
-::: {.pro-tip collapse=false}
-## Wichtiger Reminder
-Das Ziel war nicht, den perfekten Agent zu bauen, sondern durch praktisches Ausprobieren zu verstehen, wie KI die bewährten Lernstrategien **unterstützen** kann, und wo die Herausforderungen beim Prompting liegen.
-:::
-
-
-## Ressourcen
-
-### Handout
-
-[Die 8 Make it Stick Strategien](./handout-make-it-stick/)
-
-### Vertiefung
-[Produktive Anstrengung durch Design](./produktive-anstrengung/)
-
-### Beispiele
-[Agent-Beispiele für jede Strategie](./agent-beispiele/)

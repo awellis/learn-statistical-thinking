@@ -2,9 +2,9 @@
 title: "Wie Menschen lernen"
 ---
 
-## Lernpsychologie trifft KI (20 Min)
+## Lernpsychologie trifft KI (15 Min)
 
-Warum Anstrengung beim Lernen kein Bug ist---sondern das Feature.
+Warum Anstrengung beim Lernen kein Bug ist, sondern das Feature.
 
 ## {{< bi file-slides >}} Vom Wissen zum Können: Wie durch kognitive Anstrengung Expertise entsteht
 
@@ -18,11 +18,11 @@ Warum Anstrengung beim Lernen kein Bug ist---sondern das Feature.
 - **Cognitive Load ist essentiell**: Ohne kognitive Anstrengung keine Expertise-Entwicklung
 - **Gefühl ≠ Realität**: Was sich wie Lernen anfühlt, ist oft das Gegenteil
 
-**Unsere Aufgabe**: Lernumgebungen mit KI gestalten, die gezielt **lernrelevante kognitive Last** fördern---z.B. durch die 8 Strategien aus Make-it-Stick [@brownMakeItStick2014].
+**Unsere Aufgabe**: KI so einsetzen, dass sie **lernrelevante kognitive Last** fördert statt verhindert, z.B. durch die 8 Strategien aus Make-it-Stick [@brownMakeItStick2014].
 
 ::: {.callout-tip}
 ## Überleitung zur Praxis
-**Jetzt seid ihr dran**: Entwickelt einen Agent, der wissenschaftlich fundiert eine der 8 Strategien für euer Lehrthema umsetzt.
+**Jetzt schauen wir uns an**: Wie KI konkret im Unterricht und in der Beratung sinnvoll eingesetzt werden kann, ohne die notwendige kognitive Anstrengung zu umgehen.
 :::
 
 ---

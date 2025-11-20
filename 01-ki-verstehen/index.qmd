@@ -2,13 +2,27 @@
 title: "KI verstehen"
 ---
 
-In diesem ersten Teil des Workshops legen wir die Grundlagen für ein fundiertes Verständnis von Künstlicher Intelligenz im Bildungskontext. Wir beginnen mit einer klaren Einordnung, was KI ist und wie sie funktioniert – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting. 
+In diesem ersten Teil des Workshops (30 Min.) legen wir die Grundlagen für ein fundiertes Verständnis von **Sprachmodellen und Chatbots**.
 
-Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den didaktisch sinnvollen Einsatz von KI in deiner Lehre treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem für die Lehre relevanten Verständnis: Was kann KI leisten, was nicht, und was bedeutet das für das Lernen deiner Studierenden?
+## Was meinen wir mit "KI" in diesem Workshop?
+
+Künstliche Intelligenz (KI) ist ein breiter Begriff für viele verschiedene Technologien. In diesem Workshop konzentrieren wir uns auf:
+
+- **Large Language Models (LLMs)** wie GPT-5, Claude Sonnet 4.5 (die zugrundeliegenden Modelle)
+- **Textbasierte Chatbots** wie ChatGPT, Claude.ai, Gemini (Produkte, die LLMs nutzen)
+- **AI Agents** (Programme, die LLMs nutzen, um Aufgaben zu erledigen)
+
+**Nicht Thema** in diesem Workshop sind: Bilderkennung, Empfehlungssysteme, autonome Systeme, Robotik und andere KI-Technologien.
 
 
 
-## {{< bi file-slides >}} Was ist Künstliche Intelligenz
+Wir beginnen mit einer klaren Einordnung, was **Sprachmodelle** sind und wie sie funktionieren. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.
+
+Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den sinnvollen Einsatz von **Chatbots** in Unterricht und Beratung treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem praxisrelevanten Verständnis: Was können Sprachmodelle leisten, was nicht, und was bedeutet das für deine Arbeit mit Studierenden und Lernenden?
+
+
+
+## {{< bi file-slides >}} Was ist Künstliche Intelligenz (Optional)
 
 ::: {.callout-note appearance="minimal" collapse=true}
 ## Optional
@@ -16,12 +30,12 @@ Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen �
 :::
 
 
-## {{< bi file-slides >}} Wie funktionieren Chatbots?
+## {{< bi file-slides >}} Wie funktionieren Chatbots? (20 Min)
 
 {{< revealjs file="../slides/was-sind-chatbots/index.html" height="500px" class="ratio ratio-16x9" >}}
 
 
-## {{< bi megaphone >}} Aktive Verarbeitung
+## {{< bi megaphone >}} Aktive Verarbeitung (5 Min)
 
 ::: {.active-processing collapse=true}
 ## Wie funktionieren LLMs? (5 Min)
@@ -46,22 +60,10 @@ Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen �
 
 
 
-
-## {{< bi file-slides >}} Was sind Agents?
-
-{{< revealjs file="../slides/was-sind-agenten/index.html" height="500px" class="ratio ratio-16x9" >}}
-
-
-
-## {{< bi file-slides >}} Möglichkeiten und Grenzen
-
-{{< revealjs file="../slides/möglichkeiten-grenzen/index.html" height="500px" class="ratio ratio-16x9" >}}
-
-
-## {{< bi file-slides >}} Prompting Tipps
+## {{< bi file-slides >}} Prompting Tipps (5 Min)
 
 ::: {.callout-note appearance="minimal" collapse=true}
-## Optional
+## Schneller Überblick
 
 {{< revealjs file="../slides/prompting/index.html" height="500px" class="ratio ratio-16x9" >}}
 :::
@@ -74,3 +76,4 @@ Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen �
 - [KI in der Lehre: Advanced](https://virtuelleakademie.github.io/ki-lehre-advanced/workshop/)
 - [KI in der Lehre: Refresher](https://www.bfh.ch/de/weiterbildung/kurse/ki-in-der-lehre-refresher/)
 <!-- ## {{< bi file-slides >}} Bibliographie -->
+

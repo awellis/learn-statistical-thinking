@@ -1,28 +1,39 @@
 ---
-title: Aktivierende Einstieg
+title: Einstieg
 ---
 
 ## Kurze Vorstellungsrunde (5 Min)
 
 **Stelle dich kurz vor:**
 
-1. **Name & Institut**
-2. **KI-Erfahrung** (Skala 0-10)
-3. **Lehrthema** das du heute mitgebracht hast
+1. **Name & Fachbereich/Institut**
+2. **KI-Erfahrung** (Skala 0-10: 0 = noch nie benutzt, 10 = täglich im Einsatz)
+3. **Eine Erwartung** an den heutigen Workshop
 
 
-## Heute entwickeln wir gemeinsam (5 Min)
+## Überblick: Was uns heute erwartet (5 Min)
 
-**Unser Ziel**: Jeder entwickelt einen **wissenschaftlich fundierten Copilot Agent** für sein eigenes Lehrthema.
+### **Unser Ziel heute:**
 
-### **Was ihr mitgebracht habt:**
-- **Euer spezifisches Lehrthema** (aus der Vorbereitung)
-- **Konkrete Lernprobleme** eurer Studierenden
-- **Erste Ideen** für KI-Unterstützung
+Ihr lernt, wie **Sprachmodelle und Chatbots** (wie ChatGPT, Claude, Copilot) euch in **Unterricht und Beratung** konkret unterstützen können ---wissenschaftlich fundiert und verantwortungsvoll eingesetzt.
+
+::: {.callout-note}
+## Was meinen wir mit "KI" in diesem Workshop?
+
+In diesem Workshop fokussieren wir auf **Large Language Models (LLMs)** und **textbasierte Chatbots** wie ChatGPT, Claude und Copilot. Andere KI-Technologien (z.B. Bilderkennung, Empfehlungssysteme) sind nicht Thema.
+:::
 
 ### **Was ihr heute lernt:**
-- **Unterschied** zwischen Tools und Agents
-- **8 wissenschaftlich bewährte** Lernstrategien
-- **Praktisches Agent-Design** mit Think-Pair-Share
-- **Konkrete Umsetzung** für eure Lehre
+
+1. **KI verstehen**: Wie funktionieren Chatbots und Agents?
+2. **Lernpsychologie**: Wie lernen Menschen wirklich?
+3. **KI im Unterricht**: Hands-on Unterrichtsplanung mit Sprachmodellen
+4. **KI in der Beratung**: Simulation von Beratungsgesprächen
+5. **Ethik & Reflexion**: Verantwortungsvoller Einsatz von Sprachmodellen
+
+### **Was ihr mitnehmt:**
+
+- **Praktische Erfahrung** mit sprachmodellgestützter Lehr- und Beratungsplanung
+- **Konkrete Anwendungsideen** für euren eigenen Kontext
+- **Kritisches Verständnis** für Chancen und Grenzen von Sprachmodellen
 
