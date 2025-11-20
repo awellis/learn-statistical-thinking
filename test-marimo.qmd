@@ -13,6 +13,10 @@ x = mo.ui.text(value="Hello!")
 x
 ```
 
+add some text here to see how marimo handles it.
+
 ```{.marimo}
 mo.md(f"You typed: {x.value}")
 ```
+
+add some more text here to see how marimo handles it.
