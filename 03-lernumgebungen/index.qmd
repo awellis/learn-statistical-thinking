@@ -1,0 +1,179 @@
+---
+title: "KI-gestütztes Lerndesign"
+# filters:
+  # - linkate
+---
+
+<!-- ## Aktive Verarbeitung -->
+
+::: {.active-processing}
+## Copilot Agent für effektives Lernen entwickeln (60 Min)
+
+Erstelle und teste einen **funktionsfähigen Copilot Agent**, der eine der 8 bewährten Lernstrategien aus "Make it Stick" für dein eigenes Lehrthema umsetzt.
+
+**Ziel**: Durch Prompting einen Agent bauen, der das Lernen **fördert**, nicht **ersetzt** - und dabei die praktischen Herausforderungen erleben.
+
+**Format**: Think-Pair-Share mit Live-Testing und Padlet-Reflexion
+:::
+
+
+## Einführung: Die 8 Make it Stick Strategien (10 Min)
+
+### Die wissenschaftlich bewährten Lernstrategien:
+
+{{< bi book >}} **Vertiefung**: [Die 8 Make it Stick Strategien im Detail](./handout-make-it-stick/)
+
+| Strategie | Kern-Prinzip | Warum effektiv? |
+|-----------|--------------|-----------------|
+| **1. Abrufpraxis** | Aktives Erinnern statt Wiederlesen | Stärkt neuronale Verbindungen |
+| **2. Verteiltes Lernen** | Über Zeit verteilen statt Pauken | Nutzt Vergessen als Lernhilfe |
+| **3. Abwechslung** | Verschiedene Aufgaben/Themen mischen | Trainiert flexible Anwendung |
+| **4. Variation** | In unterschiedlichen Kontexten üben | Fördert Transfer |
+| **5. Wünschenswerte Schwierigkeiten** | Fehler und Anstrengung nutzen | Vertieft Verständnis |
+| **6. Verstehen vs. Vertrautheit** | In eigenen Worten erklären | Echtes vs. oberflächliches Wissen |
+| **7. Feedback & Reflexion** | Korrektur und bewusstes Nachdenken | Selbstregulation |
+| **8. Anwendung** | Wissen in verschiedenen Kontexten | Transferfähigkeit |
+
+::: {.active-processing}
+## Erinnerung
+Ihr habt als Vorbereitung ein **eigenes Lehrthema** mitgebracht---das ist euer Anwendungsbereich!
+
+{{< bi lightbulb >}}**Inspiration**: [Agent-Beispiele für jede Strategie](./agent-beispiele/)
+:::
+
+
+## THINK Phase: Agent erstellen (25 Min)
+
+::: {{.active-processing}
+## Schritt 1: Strategie wählen (5 Min)
+
+**Aufgabe**: Wähle eine der 8 Strategien, die am besten zu deinem Lehrproblem passt.
+
+**Leitfragen:**
+
+- Welches spezifische Problem haben meine Lernenden?
+- Welche Strategie könnte dieses Problem am besten lösen?
+- Bei welcher Strategie sehe ich das grösste Potenzial?
+
+**Notiere:**
+
+- **Gewählte Strategie**: ________________________
+- **Mein Lehrthema**: ________________________
+- **Das spezifische Problem**: ________________________
+:::
+
+::: {{.active-processing}
+## Schritt 2: Agent erstellen & testen (20 Min)
+
+**Erstelle deinen funktionsfähigen Copilot Agent:**
+
+#### Agent-Prompt entwickeln
+Verwende das Agent-Design-Template, um einen effektiven Prompt zu schreiben:
+
+**Template-Struktur:**
+
+- **Rolle & Mission**: "Du bist ein [Typ] Agent für [Lehrthema], der [spezifische Make-it-Stick-Strategie] fördert"
+- **Was der Agent TUT**: Konkrete Funktionen und Verhaltensweisen
+- **Was der Agent NICHT tut**: Grenzen setzen (keine direkten Antworten geben, etc.)
+- **Interaktionsstil**: Wie soll der Agent mit Lernenden kommunizieren?
+
+#### Testen
+
+- Teste deinen Agent mit einer typischen Lernsituation
+- Identifiziere Prompting-Herausforderungen
+- Verfeinere den Prompt basierend auf dem Test
+
+#### Qualitätskontrolle
+
+- **Strategie**: Fördert der Agent wirklich die gewählte Make-it-Stick-Strategie?
+- **Anstrengung**: Muss der Lernende noch selbst denken und arbeiten?
+- **Gefahr**: Wo nimmt der Agent dem Lernenden zu viel ab?
+- **Verbesserung**: Wo musst du den Prompt noch anpassen?
+:::
+
+
+## PAIR Phase: Agents testen & Erfahrungen teilen (20 Min)
+
+### Partner finden (2 Min)
+
+- Suche dir einen Partner
+- Am besten jemand mit einer **anderen Strategie** oder **anderem Fachbereich**
+
+### Agents teilen (3 Min)
+
+**Demo**: Wie ihr eure Copilot Agents miteinander teilt (wird demonstriert)
+
+### Gegenseitiges Agent-Testing (7 Min)
+
+::: {.active-processing}
+## Cross-Testing der Agents (parallel)
+**Beide Partner testen gleichzeitig (7 Min):**
+
+- **Person A** testet Agent von Person B
+- **Person B** testet Agent von Person A
+- **Parallel arbeiten** - jeder fokussiert auf den anderen Agent
+
+**Worauf achten:**
+
+- Verwende den Agent für eine typische Lernsituation aus dem Fachbereich deines Partners
+- Fördert der Agent wirklich die gewählte Strategie?
+- Notiere Herausforderungen und Überraschungen
+:::
+
+### Erfahrungen auf Padlet dokumentieren (8 Min)
+
+::: {.active-processing}
+## Padlet-Reflexion (via Moodle)
+**Teilt eure Erkenntnisse auf dem Kurs-Padlet:**
+
+**Dokumentiert:**
+
+- **Was funktioniert gut?** Welche Prompting-Strategien waren erfolgreich?
+- **Wo hakt es?** Welche Herausforderungen beim Agent-Design sind aufgetaucht?
+- **Überraschende Entdeckungen**: Was war anders als erwartet?
+- **Theorie vs. Praxis**: Wo klafft eine Lücke zwischen Konzept und Umsetzung?
+
+**Lest auch die Beiträge der anderen** und ergänzt mit Kommentaren oder Reactions.
+:::
+
+
+## SHARE Phase: Erkenntnisse aus der Praxis (15 Min)
+
+### Padlet-Review & Patterns (8 Min)
+
+**Gemeinsame Auswertung der Padlet-Beiträge:**
+
+- Welche **Prompting-Herausforderungen** tauchen wiederholt auf?
+- Wo war die **Theorie-Praxis-Lücke** am größten?
+- Welche **erfolgreichen Strategien** können wir identifizieren?
+- Was haben wir über **Agent-Verhalten vs. Agent-Intention** gelernt?
+
+### Synthese & Transfer (7 Min)
+
+**Von der Praxis zur Anwendung:**
+
+- **Reality Check**: Was ist realistisch umsetzbar in der eigenen Lehre?
+- **Prompting**: Welche Erkenntnisse nehmt ihr für zukünftige Agent-Entwicklung mit?
+- **Make-it-Stick und KI**: Wo funktioniert die Kombination gut, wo nicht?
+
+**Nächste Schritte:**
+
+- Wie könnt ihr das Gelernte in eurer Lehre einsetzen?
+
+::: {.pro-tip collapse=false}
+## Wichtiger Reminder
+Das Ziel war nicht, den perfekten Agent zu bauen, sondern durch praktisches Ausprobieren zu verstehen, wie KI die bewährten Lernstrategien **unterstützen** kann, und wo die Herausforderungen beim Prompting liegen.
+:::
+
+
+## Ressourcen
+
+### Handout
+
+[Die 8 Make it Stick Strategien](./handout-make-it-stick/)
+
+### Vertiefung
+[Produktive Anstrengung durch Design](./produktive-anstrengung/)
+
+### Beispiele
+[Agent-Beispiele für jede Strategie](./agent-beispiele/)

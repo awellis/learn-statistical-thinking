@@ -1,0 +1,210 @@
+---
+title: "Die 8 Make it Stick Strategien"
+# subtitle: "Handout für Workshop-Teilnehmer"
+---
+
+## Kernprinzip
+
+**Effortful Learning ist effektiver**---Anstrengung beim Lernen ist ein Feature, nicht ein Bug. Schwieriges Lernen führt zu tieferem, dauerhafterem Wissen [@brownMakeItStick2014].
+
+
+## Die 8 bewährten Lernstrategien
+
+### 1. Abrufpraxis (Retrieval Practice)
+
+**Prinzip**: Aktives Erinnern statt passives Wiederlesen
+
+**Warum effektiv?**
+
+- Jeder Abruf stärkt die neuronalen Verbindungen
+- **"Testing Effect"**: Abrufen verstärkt Gedächtnis mehr als erneutes Studieren
+
+**Praktische Umsetzung:**
+
+- Selbsttests, Karteikarten, Übungsfragen
+- Ohne Notizen erklären können
+- Frequent low-stakes quizzes
+
+::: {.agent-potential}
+Quiz-Generierung, Adaptive Fragenerstellung, Spaced Repetition
+:::
+
+### 2. Verteiltes Lernen (Spacing)
+
+**Prinzip**: Über Zeit verteilen statt Pauken
+
+**Warum effektiv?**
+
+- Grössere Anstrengung nach Vergessen als Lernhilfe
+- Gegen die Intuition: Schwieriger → Besser für Langzeitretention (Konsolidierung)
+
+**Praktische Umsetzung:**
+
+- Warten bis Vergessen eingesetzt hat, dann wiederholen
+- Verteilte Übung über Wochen/Monate
+- Spaced Repetition Systeme (z.B. [Anki](https://apps.ankiweb.net/))
+
+::: {.agent-potential}
+Intelligente Zeitplanung, Erinnerungen, Optimale Intervalle berechnen
+:::
+
+### 3. Abwechslung (Interleaving)
+
+**Prinzip**: Verschiedene Aufgaben/Themen mischen statt blockweise üben
+
+**Warum effektiv?**
+
+- Trainiert flexible Anwendung
+- Erhöht Anstrengung → Besserer Transfer zwischen Konzepten
+
+**Praktische Umsetzung:**
+
+- Verschiedene Aufgabentypen mischen
+- Beispiel Mathe: Addition, Multiplikation, Brüche durchmischen
+- Nicht alle gleichen Aufgaben hintereinander
+
+::: {.agent-potential}
+Intelligente Aufgabenmischung, Adaptive Sequenzierung
+:::
+
+
+### 4. Variation
+
+**Prinzip**: In unterschiedlichen Kontexten üben
+
+**Warum effektiv?**
+
+- Fördert Transfer auf neue Situationen
+- Macht Wissen weniger abhängig vom ursprünglichen Lernkontext
+
+**Praktische Umsetzung:**
+
+- Verschiedene Beispiele, Umgebungen, Anwendungen
+- Gleiche Konzepte in unterschiedlichen Situationen
+- Vielfältige Übungsformate
+
+::: {.agent-potential}
+Kontextvariation generieren, Neue Anwendungsszenarien erstellen
+:::
+
+### 5. Wünschenswerte Schwierigkeiten (Desirable Difficulties)
+
+**Prinzip**: Fehler, Anstrengung und Herausforderungen nutzen
+
+**Warum effektiv?**
+
+- Vertieft Verständnis durch kognitive Anstrengung
+- Kurzfristig schwieriger, langfristig mehr Retention
+
+**Praktische Umsetzung:**
+
+- Tests ohne Ankündigung
+- Variation in der Übung
+- _Forcing functions_[^1] die zum Nachdenken zwingen
+- Erst raten, dann lernen
+
+::: {.agent-potential}
+Adaptive Schwierigkeit, Challenge-Generierung, "Productive Struggle" fördern[^2]
+:::
+
+[^1]: Forcing Functions sind Design-Entscheidungen oder
+  Einschränkungen, die bestimmte Verhaltensweisen erzwingen und
+  unerwünschte Aktionen verhindern. Prinzip: Das System macht es unmöglich, einen Fehler zu machen.
+
+[^2]: Productive Struggle implementiert mehrere der 8 Strategien
+  gleichzeitig: Retrieval Practice, Elaboration, Generation, Reflection.
+  
+### 6. Verstehen vs. Vertrautheit
+
+**Prinzip**: In eigenen Worten erklären = echtes Verständnis
+
+**Warum effektiv?**
+
+- Unterscheidet echtes Wissen von **Fluency-Illusion**
+- Zwingt zu aktiver Verarbeitung und Verknüpfung
+
+**Praktische Umsetzung:**
+
+- Erklären, als ob man es jemand anderem beibringt
+- Verbindungen zu Vorwissen herstellen
+- Selbst Antworten generieren vor dem Lernen der Lösung
+
+::: {.agent-potential}
+Feynman-Technik[^3], Erklärungen bewerten, Verständnis testen
+:::
+
+[^3]: Eine Methode zum Test des eigenen
+  Verständnisses, benannt nach dem Physiker Richard Feynman. Die
+  Technik hat vier Schritte: (1) Wähle ein Konzept, (2) Erkläre
+  es in einfachster Sprache, als würdest du es einem Kind
+  beibringen, (3) Identifiziere Lücken und kehre zum
+  Quellmaterial zurück, (4) Vereinfache und verwende Analogien.
+  Der Kern: Wenn du etwas nicht einfach erklären kannst,
+  verstehst du es nicht wirklich. Die Technik funktioniert als
+  *Forcing Function*---sie zwingt zur Übersetzung von Fachwissen
+  in Alltagssprache und deckt dabei Verständnislücken
+  schonungslos auf.
+
+### 7. Feedback & Reflexion
+
+**Prinzip**: Korrektur und bewusstes Nachdenken
+
+**Warum effektiv?**
+
+- **Korrektes Feedback** sorgt dafür, dass richtige Informationen verankert werden
+- **Reflexion** fördert Metakognition und Selbstregulation
+
+**Praktische Umsetzung:**
+
+- Nach Lernsitzung fragen: "Was habe ich gelernt?"
+- Über Lernprozess und -strategien reflektieren
+- Regelmässiges, konstruktives Feedback holen
+
+::: {.agent-potential}
+Personalisiertes Feedback, Reflexions-Prompts, Lernprozess-Tracking
+:::
+
+
+### 8. Anwendung
+
+**Prinzip**: Wissen in verschiedenen Kontexten einsetzen
+
+**Warum effektiv?**
+
+- Entwickelt Transferfähigkeit
+- Macht abstraktes Wissen konkret anwendbar
+
+**Praktische Umsetzung:**
+
+- Real-world Probleme lösen
+- Wissen in neuen Situationen anwenden
+- Von Theorie zur Praxis
+
+::: {.agent-potential}
+Realitätsnahe Szenarien, Transfer-Aufgaben, Anwendungs-Coaching
+:::
+
+
+## KI-Tool Design Prinzipien
+
+### ✅ **Gute KI-Unterstützung:**
+- **Fördert** die 8 Strategien
+- **Erhält** lernrelevante Anstrengung
+- **Unterstützt** ohne zu ersetzen
+- **Personalisiert** den Lernprozess
+
+### ❌ **Problematische KI-Nutzung:**
+- **Eliminiert** kognitive Anstrengung
+- **Übernimmt** das Denken
+- **Erzeugt** Illusion of Knowing
+- **Macht** Lernen nur einfacher, nicht besser
+
+---
+
+## Leitfragen für Agent-Entwicklung
+
+1. **Welche der 8 Strategien wird gefördert?**
+2. **Was tut der Agent? Was tut der Lernende?**
+3. **Bleibt die gewünschte Schwierigkeit erhalten?**
+4. **Macht der Agent das Lernen besser oder nur einfacher?**
+5. **Wie wird echter Lernfortschritt messbar?**

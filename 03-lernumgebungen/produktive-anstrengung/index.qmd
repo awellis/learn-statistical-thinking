@@ -1,0 +1,301 @@
+---
+title: "Produktive Anstrengung durch Design"
+subtitle: "Lehren im Zeitalter der KI"
+author: 
+  - name: Andrew Ellis
+    url: https://github.com/awellis
+    affiliation: Virtuelle Akademie, Berner Fachhochschule
+    affiliation-url: https://virtuelleakademie.ch
+    orcid: 0000-0002-2788-936X
+citation: true
+---
+
+## Zentrales Prinzip
+
+Wie James Lang in *Cheating Lessons* [@langCheatingLessons2013] argumentiert, ist „Schummeln eine unangemessene Reaktion auf eine Lernumgebung, die für den Studierenden nicht funktioniert.“ Statt den Fokus auf das Verhalten der Studierenden zu richten, müssen wir Lernumgebungen so gestalten, dass **produktives Ringen** der lohnendste Weg ist.
+
+Forschung zu "desirable difficulties" [@bjorkMemoryMetamemoryConsiderations1994; @bjorkMakingThingsHard2011] zeigt, dass Lernen kognitive Anstrengung erfordert—wenn wir den "struggle" entfernen, entfernen wir das Lernen. Doch Studierende erhalten oft keinen Anreiz, sich auf anstrengende Verarbeitung einzulassen. Das Ziel ist es, Umgebungen zu schaffen, in denen Lernende sich bewusst auf diese Anstrengung einlassen, weil sie deren Notwendigkeit für tiefes Lernen verstehen.
+
+::: {.callout-important}
+## Das Paradox des Lernens
+
+Bedingungen, die die Leistung während des Trainings gut aussehen lassen, fördern häufig kein nachhaltiges Lernen. Die folgenden Schwierigkeiten erscheinen im Moment härter und weniger effizient, führen aber zu überlegenem Langzeitbehalten und besserem Transfer:
+
+- **Generationseffekt**: Lernende generieren (auch falsche) Antworten, bevor sie Informationen erhalten
+- **Spacing-Effekt**: Übung über die Zeit verteilen statt sie zu bündeln
+- **Testing-Effekt**: Wiederholtes Abrufen statt passivem Wiederholen nutzen
+- **Interleaving**: Verschiedene Aufgabentypen mischen statt zu blocken
+
+Diese „wünschenswerten Schwierigkeiten“ sind der eigentliche Lernmechanismus—nicht Hindernisse, die eliminiert werden sollten.
+:::
+
+## Evidenzbasierte Umweltgestaltung
+
+### 1. Prüfungen mit niedrigen Einsätzen [@langCheatingLessons2013]
+
+Ersetze Einzelprüfungen mit hohem Gewicht durch häufigere, weniger bedeutsame Bewertungen:
+
+::: {.callout-tip}
+## Forschungsbasierter Ansatz
+
+Statt einer Abschlussprüfung mit 50% Gewicht:
+
+- Fünf Prüfungen mit je 10%
+- Wöchentliche Reflexionsjournale
+- Mehrfache Möglichkeiten, Lernen zu zeigen
+
+Dies reduziert von Angst getriebene Abkürzungen und fördert das Behalten durch den **Testing-Effekt** [@roedigerTestenhancedLearningTaking2006].
+:::
+
+### 2. Gestaltung intrinsischer Motivation [@langCheatingLessons2013]
+
+Gestalte Kurse um bedeutungsvolle Probleme statt um reine Inhaltsabdeckung:
+
+**Inhaltsorientiert**: „Lies Kapitel 7 über Klimawandel“  
+**Problembasiert**: „Analysiere, wie sich das Klima in deinem Heimatort mit lokalen Wetterdaten verändert hat“
+
+Probleme, die im Umfeld der Studierenden wurzeln, können intrinsische Motivation ansprechen und sind weniger anfällig für KI-Generierung.
+
+### 3. Verteiltes Wiederholen [@cepedaDistributedPracticeVerbal2006]
+
+Verteile Übung über die Zeit statt sie zu bündeln:
+
+```
+Woche 1: Konzept A einführen
+Woche 3: Konzept A wiederholen und Konzept B lernen
+Woche 6: A & B in neuem Kontext anwenden
+Woche 10: A & B mit Konzept C verknüpfen
+```
+
+
+Forschung zeigt, dass verteilte Übung das Langzeitbehalten um 200–300% verbessert.
+
+### 4. Abrufübung [@roedigerTestenhancedLearningTaking2006]
+
+Nutze Tests als Lernwerkzeug, nicht nur zur Bewertung:
+
+::: {.callout-note}
+## Umsetzungsstrategie
+
+**Abruf mit geringem Risiko:**
+
+- Jede Sitzung mit einem 2-Minuten-Quiz zum Vorwissen starten
+- Wöchentliche „Brain Dumps“: alles aufschreiben, was man erinnert
+- Peer-Teaching-Übungen
+- Übungsaufgaben ohne Nachschlagen lösen
+
+Forschung zeigt, dass Abrufübung besseren Transfer als reines Wiederholen bringt.
+:::
+
+### 5. Vermischtes Üben [@rohrerInterleavingHelpsStudents2012]
+
+Mische verschiedene Aufgabentypen in Übungsaufgaben:
+
+Statt 20 Algebra- und dann 20 Geometrieaufgaben zu geben, mische sie:
+
+- Aufgaben 1, 4, 7: Algebra
+- Aufgaben 2, 5, 8: Geometrie  
+- Aufgaben 3, 6, 9: Textaufgaben mit beidem
+
+Interleaving verbessert die Unterscheidung ähnlicher Konzepte und das Langzeitbehalten.
+
+### 6. Kognitive Belastung steuern [@swellerDevelopmentCognitiveLoad2023]
+
+Gestalte Instruktion so, dass sie die Arbeitsgedächtniskapazität optimiert und produktives Ringen erhält:
+
+**Für Anfänger:**
+
+- Durchgearbeitete Beispiele vor eigenständiger Übung bereitstellen
+- Überflüssige Belastung reduzieren, aber die eigentliche Herausforderung erhalten
+
+**Für Fortgeschrittene:**
+
+- Elementinteraktivität schrittweise erhöhen
+- Produktives Ringen durch passende Schwierigkeitsgrade fördern
+- Fokus auf lernproduktive kognitive Belastung
+
+## Optimale Herausforderungs-Architektur
+
+Schaffe strukturierte Gelegenheiten für anstrengende Verarbeitung, indem du den optimalen Schwierigkeitsgrad findest:
+
+- **Zu leicht**: Lernende schalten ab; kein Lernen
+- **Zu schwer**: Überforderung, Arbeitsgedächtnis überlastet
+- **Genau richtig**: Produktives Ringen, Lernen findet statt
+
+**Gestaltungs-Implementierung:**
+
+- Beginne auf dem aktuellen Fähigkeitsniveau
+- Füge ein neues Element an Komplexität hinzu
+- Unterstützung für das Ringen, nicht dessen Beseitigung bieten
+- Ausreichend Zeit für anstrengende Verarbeitung lassen
+
+## Fächerübergreifende Anwendungen
+
+::: {.panel-tabset}
+## Mathematik
+
+**Interleaving anwenden:**
+
+- Aufgabentypen in Sets mischen
+- Zwischen mathematischen Verfahren wechseln
+- Textaufgaben einbeziehen, die Strategieauswahl erfordern
+
+**Durchgearbeitete Beispiele:**
+
+- Schritt-für-Schritt-Lösungen vor Eigenübung zeigen
+- Unterstützung allmählich abbauen, sobald Expertise wächst
+
+## Schreiben
+
+**Verteilte Überarbeitung implementieren:**
+
+- Entwurf → Woche Pause → Überarbeitung → Woche Pause → Endfassung
+- Mehrere Feedback-Schleifen mit niedrigen Einsätzen
+
+**Designbasiertes Lernen:**
+
+- Schreiben an reale Probleme binden
+- Echte Zielgruppen außerhalb des Unterrichts
+
+## Naturwissenschaften
+
+**Abrufübungen:**
+
+- Vorhersagen-Beobachten-Erklären-Zyklen mit verzögertem Feedback
+- Konzeptmapping aus dem Gedächtnis vor Nachschlagen
+
+**Wünschenswerte Schwierigkeiten:**
+
+- Hypothesen generieren vor Wissensvermittlung
+- Phänomene erklären, bevor der Mechanismus gelehrt wird  
+- Mit „gescheiterten“ Experimenten ringen, die Fehlvorstellungen aufdecken
+
+## Programmieren
+
+**Kognitive Belastung beachten:**
+
+- Durchgearbeitete Beispiele für Syntax, Problemlösen für Logik
+- Pair Programming als kognitive Meisterlehre
+- Anderen Code debuggen, um Mustererkennung aufzubauen
+:::
+
+## Umsetzungshilfe
+
+### Schwierigkeit für Lernende umdeuten
+
+Hilf Lernenden zu verstehen, dass kognitive Anstrengung kein Designfehler ist, sondern der eigentliche Lernmechanismus:
+
+::: {.callout-note}
+## Schwierigkeit umdeuten
+
+**Statt:** „Das ist zu schwer“  
+**Umdeuten als:** „Mein Gehirn arbeitet hart, um neue Verbindungen zu schaffen“
+
+**Statt:** „Ich verstehe es nicht“  
+**Umdeuten als:** „Ich bin in der produktiven Ringen-Zone, wo Lernen passiert“
+
+**Statt:** „Ich habe einen Fehler gemacht“  
+**Umdeuten als:** „Ich habe nützliche Information über meinen aktuellen Stand erzeugt“
+
+**Statt:** „Es sollte einfacher sein“  
+**Umdeuten als:** „Passende Schwierigkeit ist notwendig für Wachstum“
+:::
+
+### Dokumentation des Ringens
+
+::: {.callout-tip}
+## Lernprozess-Portfolio
+
+**Das Ringen dokumentieren, nicht nur die Lösung:**
+
+- **Verwirrungsprotokolle**: Was hat verwirrt, warum war das wertvoll?
+- **Fehleranalysebögen**: Systematische Reflexion über Fehler und Fehlkonzepte
+- **Zeitaufzeichnung fürs Ringen**: Produktive Ringen-Zeit protokollieren (und feiern!)
+- **„Aha!“-Momente dokumentieren**: Verknüpfe Ringen mit Durchbrüchen
+- **Methoden-Evolutionskarten**: Zeigen, wie Lösungswege sich verbessert haben
+:::
+
+### Fehler-positive Kultur aufbauen
+
+**Bewertungsgestaltung:**
+
+::: {.callout-note}
+## Fehlerfreundliche Benotung
+
+- **Fehler-Portfolio-Bonus**: Extra-Punkte für das Sammeln und Analysieren von Fehlern
+- **Wertvollster Fehler**: Lernende nominieren ihren lehrreichsten Fehler
+- **Fehlermuster-Erkennung**: Punkte für das Identifizieren wiederkehrender Fehler
+- **Lehre deinen Fehler**: Erkläre deinen Fehler, damit andere ihn vermeiden
+- **Fehler-zu-Kompetenz-Progression**: Notenverbesserung vom Fehler zur Korrektur
+:::
+
+**Veränderungen der Lernumgebung:**
+
+::: {.callout-important}
+## Veränderungen der Lernumgebung
+
+**Visuelle Umgebung:**
+
+- **„Schöne Fehler“-Wand**: Lehrreiche Fehler mit Analyse ausstellen
+- **Ringen-Tracker-Diagramme**: Fortschritt durch schwierige Konzepte sichtbar machen  
+- **Problemlöse-Reisekarten**: Zeigen den „unordentlichen“ Weg zum Verständnis
+
+**Sprachliche Umgebung:**
+
+- **„Ich bin verwirrt und das ist perfekt“**: Verwirrung als Lernen normalisieren
+- **„Was für ein schöner Fehler!“**: Fehler feiern, die Denken offenbaren
+- **„Das Ringen ist dein Gehirn, das wächst“**: Anstrengung mit Wachstum verbinden
+- **„Fehler sind Daten“**: Fehler als Information, nicht als Versagen rahmen
+
+**Aktivitätsumgebung:**
+
+- **Tägliches Ringen teilen**: 2-Minuten-Reflexion zu produktiven Schwierigkeiten
+- **Fehler des Tages**: Gemeinsame Analyse wertvoller Fehler
+- **Verwirrungskonferenzen**: 1:1 Gespräche über Schwierigkeiten
+- **Fehler-Wettbewerbe**: Fehlerproduktion und -analyse spielerisch machen
+:::
+
+### Strukturierte Lernaktivitäten
+
+**Vor dem Lernen (Generationseffekt):**
+
+- Probleme vor der Instruktion versuchen
+- Lösungen zu unbekannten Herausforderungen generieren  
+- Ergebnisse vor Demonstrationen vorhersagen
+- Fragen zum neuen Stoff entwickeln
+
+**Während des Lernens:**
+
+- **Think-Pair-Share Verwirrung**: Unklares teilen, gemeinsam daran arbeiten
+- **Fehler-Speed-Dating**: Durch häufige Fehler rotieren und diskutieren
+- **Produktive Scheiter-Challenges**: Absichtlich Aufgaben leicht über dem Niveau stellen
+- **Erklären-vor-dem-Wissen**: Vor der Antwort Erklärungen versuchen
+
+**Nach dem Lernen:**
+
+- **Transfer-Aufgaben**: Konzepte auf neue Situationen anwenden
+- **Fehlerdiagnose**: Fehler in Beispielarbeiten erkennen
+- **Peer-Coaching**: Anderen durch deren produktives Ringen helfen
+
+### Unterstützungs-Systeme für das Ringen
+
+**Struggle Support Ladder (Unterstützungsleiter):**
+
+1. **Eigenständiger Versuch** (mindestens 5–10 Minuten)
+2. **Austausch mit Peers** (Schwierigkeiten teilen, keine Lösungen)
+3. **Zugang zu Ressourcen** (strategische Hinweise, keine Komplettlösungen)
+4. **Lehrer-Coaching** (Denken leiten, nicht lösen)
+5. **Kollaboratives Problemlösen** (gemeinsam letzte Hürden nehmen)
+
+**Strategisches Hinweis-System:**
+
+- **Prozesshinweise** (keine Inhalte): „Was für ein Aufgabentyp ist das?“
+- **Strategievorschläge**: „Was hat bei ähnlichen Problemen geholfen?“
+- **Fehleralarme**: „Überprüfe Schritt drei“ (ohne Lösung zu geben)
+- **Metakognitive Impulse**: „Was denkst du gerade?“
+
+## Die Lernumgebungs-Perspektive
+
+Das Ziel ist nicht, den "Struggle" zu beseitigen, sondern Lernumgebungen so zu gestalten, dass produktives "Struggling" der lohnendste und unterstützte Weg zum gewünschten Ergebnis ist: den Aufbau von tiefem Verständnis und Expertise.
+
+

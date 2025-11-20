@@ -1,0 +1,76 @@
+---
+title: "KI verstehen"
+---
+
+In diesem ersten Teil des Workshops legen wir die Grundlagen für ein fundiertes Verständnis von Künstlicher Intelligenz im Bildungskontext. Wir beginnen mit einer klaren Einordnung, was KI ist und wie sie funktioniert – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting. 
+
+Dieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den didaktisch sinnvollen Einsatz von KI in deiner Lehre treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem für die Lehre relevanten Verständnis: Was kann KI leisten, was nicht, und was bedeutet das für das Lernen deiner Studierenden?
+
+
+
+## {{< bi file-slides >}} Was ist Künstliche Intelligenz
+
+::: {.callout-note appearance="minimal" collapse=true}
+## Optional
+{{< revealjs file="../slides/was-ist-ki/index.html" class="ratio ratio-16x9" >}}
+:::
+
+
+## {{< bi file-slides >}} Wie funktionieren Chatbots?
+
+{{< revealjs file="../slides/was-sind-chatbots/index.html" height="500px" class="ratio ratio-16x9" >}}
+
+
+## {{< bi megaphone >}} Aktive Verarbeitung
+
+::: {.active-processing collapse=true}
+## Wie funktionieren LLMs? (5 Min)
+
+**Aufgabe:** Erkläre deinem Nachbarn in eigenen Worten:
+
+**Phase 1 (2 Min):** Partner A erklärt Partner B:
+
+- Wie "lernt" ein LLM aus Texten?
+- Was bedeutet "Vorhersage des nächsten Wortes"?
+
+**Phase 2 (2 Min):** Partner B erklärt Partner A:
+
+- Was können LLMs?
+- Was können sie nicht?
+
+**Phase 3 (1 Min):** Gemeinsam identifizieren:
+
+- Was sind die Implikationen für das Lernen eurer Studierenden?
+
+:::
+
+
+
+
+## {{< bi file-slides >}} Was sind Agents?
+
+{{< revealjs file="../slides/was-sind-agenten/index.html" height="500px" class="ratio ratio-16x9" >}}
+
+
+
+## {{< bi file-slides >}} Möglichkeiten und Grenzen
+
+{{< revealjs file="../slides/möglichkeiten-grenzen/index.html" height="500px" class="ratio ratio-16x9" >}}
+
+
+## {{< bi file-slides >}} Prompting Tipps
+
+::: {.callout-note appearance="minimal" collapse=true}
+## Optional
+
+{{< revealjs file="../slides/prompting/index.html" height="500px" class="ratio ratio-16x9" >}}
+:::
+
+
+## {{< bi book>}} Weiterführende Kurse
+
+- [KI in der Lehre: Beginner](https://virtuelleakademie.github.io/ki-lehre-beginner/workshop/)
+- [KI in der Lehre: Intermediate](https://virtuelleakademie.github.io/ki-lehre-intermediate/workshop/)
+- [KI in der Lehre: Advanced](https://virtuelleakademie.github.io/ki-lehre-advanced/workshop/)
+- [KI in der Lehre: Refresher](https://www.bfh.ch/de/weiterbildung/kurse/ki-in-der-lehre-refresher/)
+<!-- ## {{< bi file-slides >}} Bibliographie -->

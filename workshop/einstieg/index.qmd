@@ -1,0 +1,28 @@
+---
+title: Aktivierende Einstieg
+---
+
+## Kurze Vorstellungsrunde (5 Min)
+
+**Stelle dich kurz vor:**
+
+1. **Name & Institut**
+2. **KI-Erfahrung** (Skala 0-10)
+3. **Lehrthema** das du heute mitgebracht hast
+
+
+## Heute entwickeln wir gemeinsam (5 Min)
+
+**Unser Ziel**: Jeder entwickelt einen **wissenschaftlich fundierten Copilot Agent** für sein eigenes Lehrthema.
+
+### **Was ihr mitgebracht habt:**
+- **Euer spezifisches Lehrthema** (aus der Vorbereitung)
+- **Konkrete Lernprobleme** eurer Studierenden
+- **Erste Ideen** für KI-Unterstützung
+
+### **Was ihr heute lernt:**
+- **Unterschied** zwischen Tools und Agents
+- **8 wissenschaftlich bewährte** Lernstrategien
+- **Praktisches Agent-Design** mit Think-Pair-Share
+- **Konkrete Umsetzung** für eure Lehre
+

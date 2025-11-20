@@ -1,0 +1,195 @@
+---
+title: "Prompting: Eine Einführung"
+callout-appearance: minimal
+---
+
+## Was ist ein Prompt?
+
+<br> <br>
+![](../../assets/images/unlock-llm.png)
+
+- Ein Prompt ist ein Text (Anweisung), das einem generativen KI-Modell gegeben wird, um bestimmte Informationen zu generieren oder zu verstehen.
+- Prompts dienen als Startpunkt beispielsweise für die Generierung von Ideen, Texten, Übersetzungen und Antworten auf Fragen. 
+
+
+
+## Wie wird Text (Output) erzeugt?
+
+<br> <br>
+![](../../assets/images/once-upon-a-time.png)
+
+
+
+## Wie kann ich den Output beeinflussen?
+
+
+![](../../assets/images/output-beeinflussen.png)
+
+
+
+
+## Prompting: Grundlagen
+
+1. Sei klar und präzise
+2. Fange einfach an und verbessere
+3. Verwende Beispiele und Kontext
+4. Leite den Denkprozess
+5. Nutze ChatGPT/Copilots "Wissen"
+6. Verwende Rollenspieltechniken
+
+
+
+## 1. Sei klar und präzise
+
+
+- Formuliere deine Aufgabe oder Frage präzise
+- Gib relevanten Kontext und Details an
+- Unterteile komplexe Aufgaben in kleinere Schritte
+
+::: {.callout-tip title="❌"}
+Beschreibe, wie KI in der Musikproduktion eingesetzt wird.
+:::
+::: {.callout-tip title="✅"}
+Beschreibe in etwa 200 Wörter, wie Künstliche Intelligenz zur Analyse und zum Arrangement von Jazz-Kompositionen verwendet werden kann. Gib konkrete Beispiele für Algorithmen oder Werkzeuge an, die in der Musikproduktion genutzt werden, um Muster zu erkennen und Vorschläge für Harmonievariationen zu generieren.
+:::
+
+
+
+## 2. Fange einfach an und verbessere {.smaller}
+
+Beispiel 1:
+
+::: {.callout-tip title="❌"}
+Entwickle ein vollständiges Regiekonzept für eine moderne Adaption von Shakespeares Hamlet, einschliesslich Bühnenbild, Kostümgestaltung, Lichtdesign und einer Analyse der Charaktere.
+:::
+
+::: {.callout-tip title="✅"}
+Erstelle drei zentrale Ideen, wie eine moderne Version von Hamlet durch Bühnenbild und Kostüme visuell vermittelt werden könnte.
+:::
+
+- Wichtig: Dies ist nur der Ausgangspunkt. Basierend auf der Antwort solltest du weitere Fragen stellen oder um Erklärungen bitten. Zum Beispiel:
+  + "Kannst du ein Beispiel für ein spezifisches Kostümdetail geben, das moderne Elemente einbezieht?"
+  + "Wie könnte das Bühnenbild die Stimmung oder den inneren Konflikt der Charaktere widerspiegeln?"
+
+
+## 2. Fange einfach an und verbessere {.smaller}
+
+Beispiel 2:
+
+
+::: {.callout-tip title="❌"}
+Erstelle einen umfassenden, mehrstufigen Behandlungsplan für einen Patienten mit chronischer Hypertonie, einschließlich Medikamentenregime, Lebensstiländerungen, Nachsorgezeitplan und möglichen Komplikationen.
+:::
+
+::: {.callout-tip title="✅"}
+Schlage drei wichtige Lebensstiländerungen für einen Patienten vor, bei dem kürzlich eine leichte Hypertonie diagnostiziert wurde.
+:::
+
+- Wichtig: Dies ist nur der Ausgangspunkt. Basierend auf der Antwort solltest du weitere Fragen stellen oder um Erklärungen bitten. Zum Beispiel:
+  + "Kannst du mehr Details zu einer dieser Änderungen geben?"
+  + "Welche Auswirkungen hätte jede dieser Änderungen auf den Blutdruck?"
+  + "Gibt es mögliche Herausforderungen bei der Umsetzung dieser Änderungen?"
+
+
+
+## 3. Verwende Beispiele und Kontext
+
+Beschreibe, welche Art von Output du erwartest
+Gib ein Muster vor, wenn du ein bestimmtes Format oder einen Stil wünschst
+
+::: {.callout-tip title="❌"}
+Erkläre, wie man eine Skulptur restauriert.
+:::
+
+::: {.callout-tip title="✅"}
+Erkläre, wie man eine Marmorskulptur mit sichtbaren Rissen restauriert. Berücksichtige dabei Schritte wie:
+
+  + Sichtung und Dokumentation des Schadens
+  + Auswahl und Testen geeigneter Materialien zur Rissfüllung
+  + Anwendung und Glättung des Füllmaterials
+
+Gib Details zu den Werkzeugen, Materialien und Techniken an, die für jeden Schritt notwendig sind.
+:::
+
+## 4. Leite den Denkprozess {.smaller}
+
+Bitte ChatGPT/Copilot, "Schritt für Schritt" zu denken oder seine Überlegungen zu erklären. Dies führt oft zu genaueren und detaillierteren Antworten.
+
+
+::: {.callout-tip title="❌"}
+Restauriere ein beschädigtes Ölgemälde mit mehreren Rissen und Farbverlusten.
+:::
+
+::: {.callout-tip title="✅"}
+Lass uns die Restaurierung eines beschädigten Ölgemäldes mit Rissen und Farbverlust Schritt für Schritt angehen:
+
+  1. Zuerst beschreibe die Art und das Ausmass der Schäden.
+  2. Welche Faktoren könnten für die Schäden verantwortlich sein (z.B. Alterung, Lagerungsbedingungen)?
+  3. Welche Materialien und Techniken könnten zur Stabilisierung der Risse verwendet werden?
+  4. Welche Farbpigmente und Fixiermittel könnten zur Ausbesserung des Farbverlustes geeignet sein?
+  5. Welche Tests könnten vorher an kleinen Stellen des Gemäldes durchgeführt werden, um die Wirkung der Materialien zu prüfen?
+
+  Beginne mit Schritt 1.
+:::
+
+## 5. Nutze ChatGPT/Copilots "Wissen" {.smaller}
+
+- LLMs verfügen über breites Wissen
+- Frage nach Erklärungen oder Hintergrundinformationen
+- Gib relevanten Kontext an, damit ChatGPT/Copilot gezielter antworten kann
+
+::: {.callout-tip title="❌"}
+Erkläre, wie ein Orchester funktioniert.
+:::
+
+::: {.callout-tip title="✅"}
+Erkläre, wie ein Sinfonieorchester funktioniert, als würdest du Musikstudierenden im ersten Semester eine Einführung geben. 
+
+Vergleiche dabei die Struktur eines Orchesters mit einem gut koordinierten Team, bei dem jede Gruppe eine spezifische Aufgabe übernimmt. 
+
+Erkläre die Rolle der verschiedenen Instrumentengruppen (Streicher, Bläser, Schlagwerk) und die des Dirigenten und zeige, wie sie zusammenarbeiten, um ein harmonisches Ganzes zu erzeugen.
+:::
+
+## 5. Nutze ChatGPT/Copilots "Wissen"
+
+<br> <br>
+
+::: {.callout-caution title="Achtung" appearance="default"}
+Immer den Output eines LLM anhand externer Quellen überprüfen. **Sprachmodelle sind keine Nachschlagewerke**.
+:::
+
+## 6. Verwende Rollenspieltechniken {.smaller}
+
+
+- Bitte ChatGPT/Copilot, eine bestimmte Rolle oder Perspektive einzunehmen
+- Dies kann zu spezifischeren und relevanteren Antworten führen
+
+::: {.callout-tip title="❌"}
+Gib Tipps zur Verbesserung der Bühnenpräsenz.
+:::
+
+::: {.callout-tip title="✅"}
+Du bist eine erfahrene Theaterregisseurin, die seit über 15 Jahren mit Schauspielstudierenden arbeitet. 
+
+Was sind deine drei wichtigsten Tipps für junge Schauspieler, um ihre Bühnenpräsenz zu stärken? 
+
+Berücksichtige dabei Aspekte wie Körperhaltung, Stimme und Interaktion mit dem Publikum und gib konkrete Übungen oder Techniken an, die die Schauspieler ausprobieren können.
+:::
+
+## Bonustips
+<br> <br>
+
+::: {.callout-tip}
+- **Mentales Modell**: Ein LLM wie einen "Junior Assistant" behandeln.
+- **Struktierten Output** verlangen (Tabellen, Listen, etc.)
+- **Input strukturieren** (LLMs können diesen besser "verstehen")
+- Ein **LLM (z.B. ChatGPT/Copilot) nach Prompting Tips fragen**. LLMs sind nicht auf dem neuesten Stand, aber haben sehr wahrscheinlich die bis vor kurzem aktuelle Literatur "gelesen".
+- **ChatGPT Tip**: Anweisen, **Python** zu benutzen. Python ist eine Programmiersprache, die ChatGPT sehr gut beherrscht. Mit Python kann ChatGPT Daten analysieren, Grafiken erstellen, Word/Excel/Powerpoint Dateien erstellen.
+:::
+
+<!-- ## Questions / Discussion {{< bi chat-dots >}} -->
+<!-- 
+## References {background-color="#D8DEE9"}
+
+::: {#refs}
+::: -->

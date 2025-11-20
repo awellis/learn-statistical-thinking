@@ -1,0 +1,37 @@
+---
+title: "Wie Menschen lernen"
+---
+
+## Lernpsychologie trifft KI (20 Min)
+
+Warum Anstrengung beim Lernen kein Bug ist---sondern das Feature.
+
+## {{< bi file-slides >}} Vom Wissen zum Können: Wie durch kognitive Anstrengung Expertise entsteht
+
+{{< revealjs file="../slides/wie-menschen-lernen/index.html" height="500px" class="ratio ratio-16x9" >}}
+
+## Die zentrale Erkenntnis
+
+**Das Lernparadox verstehen:**
+
+- **Produktivität ≠ Lernen**: KI macht uns produktiver, aber verhindert oft echtes Lernen
+- **Cognitive Load ist essentiell**: Ohne kognitive Anstrengung keine Expertise-Entwicklung
+- **Gefühl ≠ Realität**: Was sich wie Lernen anfühlt, ist oft das Gegenteil
+
+**Unsere Aufgabe**: Lernumgebungen mit KI gestalten, die gezielt **lernrelevante kognitive Last** fördern---z.B. durch die 8 Strategien aus Make-it-Stick [@brownMakeItStick2014].
+
+::: {.callout-tip}
+## Überleitung zur Praxis
+**Jetzt seid ihr dran**: Entwickelt einen Agent, der wissenschaftlich fundiert eine der 8 Strategien für euer Lehrthema umsetzt.
+:::
+
+---
+
+## Vertiefende Ressourcen
+
+- [Die 8 Make it Stick Strategien im Detail](../03-lernumgebungen/handout-make-it-stick/)
+- [Agent-Beispiele für jede Strategie](../03-lernumgebungen/agent-beispiele/)
+
+### Für das Selbststudium:
+- [Wie man Kompetenzen erwirbt](./kompetenz-erwerben/) - Wissenschaftliche Grundlagen der Expertise-Entwicklung
+

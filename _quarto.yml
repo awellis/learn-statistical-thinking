@@ -1,0 +1,294 @@
+project:
+  type: website
+  resources:
+    - assets/*
+    - assets/images/*
+    - assets/pdfs/*
+  preview:
+    port: 8800
+    browser: false
+  output-dir: docs
+  render:
+    - index.qmd
+    - workshop/**/*.qmd
+    - 01-ki-verstehen/**/*.qmd
+    - 02-wie-menschen-lernen/**/*.qmd
+    - 03-lernumgebungen/**/*.qmd
+    - resources/**/*.qmd
+    - slides/**/*.qmd
+
+website:
+  title: "KI in der Lehre: Intermediate"
+  site-url: https://virtuelleakademie.github.io/ki-lehre-intermediate/
+  # repo-url: https://github.com/virtuelleakademie/cas-hochschuldidaktik/
+  # repo-actions: [edit, issue]
+  favicon: /assets/robot.png
+  open-graph: true
+  search:
+    location: navbar
+    type: overlay
+
+  reader-mode: false
+  page-navigation: true
+  back-to-top-navigation: true
+
+
+  navbar:
+    background: light
+    left:
+      - icon: card-list
+        href: workshop/index.qmd
+        text: Workshop
+      - icon: motherboard
+        href: 01-ki-verstehen/index.qmd
+        text: "1: KI verstehen"
+      - icon: person-gear
+        href: 02-wie-menschen-lernen/index.qmd
+        text: "2: Lernen"
+      - icon: marker-tip
+        href: 03-lernumgebungen/index.qmd
+        text: "3: KI-gestütztes Lerndesign"
+
+    right:
+      - icon: file-slides
+        text: "Dokumente" # {{< fa person-chalkboard >}}
+        menu:
+          - text: "Begleitdokument: KI Weiterbildung"
+            file: assets/pdfs/Begleitdokument.pdf
+          - text: "Begleitdokument: KI Policy (PDF)"
+            file: assets/pdfs/KI-Policy_BFH_FHL7Mai25_verabschiedet-1.pdf
+          - text: "Begleitdokument: Orientierungshilfe"
+            file: resources/resources.qmd
+          - text: "Begleitdokument: Orientierungshilfe (PDF)"
+            file: assets/pdfs/Orientierungshilfe.pdf
+
+    tools:
+      - icon: lightbulb-fill
+        text: Knowledge Base
+        href: https://virtuelleakademie.ch/knowledge-base/
+
+      # - icon: github
+      #   menu:
+      #     - text: Source code
+      #       url:  https://github.com/virtuelleakademie/ki-lehre-intermediate/
+      #     - text: Report an issue
+      #       url:  https://github.com/virtuelleakademie/ki-lehre-intermediate
+
+  sidebar:
+    - title: "Workshop"
+      style: "docked"
+      search: true
+      background: light
+      contents:
+        - workshop/index.qmd
+        - workshop/einstieg/index.qmd
+        # - 01-ki-verstehen/index.qmd
+        # - 02-wie-menschen-lernen/index.qmd
+        # - 03-lernumgebungen/index.qmd
+        - workshop/diskussion/index.qmd
+
+    # - title: "Teil 1: KI verstehen"
+    #   style: "docked"
+    #   search: true
+    #   background: light
+    #   contents:
+    #     - 01-ki-verstehen/index.qmd
+    #     # - 01-ki-verstehen/selbststudium/index.qmd
+
+
+    - title: "Teil 2: Wie Menschen lernen "
+      style: "docked"
+      search: true
+      background: light
+      contents:
+        - 02-wie-menschen-lernen/index.qmd
+        - 02-wie-menschen-lernen/kompetenz-erwerben/index.qmd
+
+    - title: "Teil 3: KI-gestütztes Lerndesign"
+      style: "docked"
+      search: true
+      background: light
+      contents:
+        - 03-lernumgebungen/index.qmd
+        - 03-lernumgebungen/handout-make-it-stick/index.qmd
+        - 03-lernumgebungen/agent-beispiele/index.qmd
+        - 03-lernumgebungen/produktive-anstrengung/index.qmd
+
+page-footer:
+    right:
+    - icon: github
+      href: https://github.com/virtuelleakademie/ki-lehre-intermediate/
+
+format:
+  html:
+    theme:
+      light: simplex
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+    anchor-sections: true
+    smooth-scroll: true
+    linkcolor: "#9A4665"
+
+comments:
+  hypothesis:
+    theme: clean
+  # utterances:
+    # repo: virtuelleakademie/ki-lehre-intermediate
+
+execute:
+  cache: true
+  freeze: auto
+  execute-dir: project
+
+editor:
+  render-on-save: true
+
+revealjs-plugins:
+  - attribution
+filters:
+  - timer
+  - custom-callout
+  # - linkate
+
+custom-callout:
+  active-processing:
+    icon-symbol: "📝"
+    collapse: false
+    color: "#9A4665"
+
+  agent-potential:
+    title: "Agent-Potential"
+    icon-symbol: "🤖"
+    collapse: false
+    color: "#9A4665"
+
+  # thumbs-up:
+  #   title: "Great job!"
+  #   icon-symbol: "👍🏼"
+  #   color: "steelblue"
+
+
+  # Activity Types
+  individual:
+    title: "Individual Work"
+    icon-symbol: "💻"
+    color: "steelblue"
+    collapse: false
+
+  pair:
+    title: "Pair Work"
+    icon-symbol: "👥"
+    color: "forestgreen"
+    collapse: false
+
+  group:
+    title: "Group Work"
+    icon-symbol: "👥"
+    color: "purple"
+    collapse: false
+
+  # screens-down:
+  #   title: "Screens Down"
+  #   icon-symbol: "🔽"
+  #   color: "orange"
+  #   collapse: false
+
+  # screens-up:
+  #   title: "Screens Up"
+  #   icon-symbol: "🔼"
+  #   color: "green"
+  #   collapse: false
+
+  # # Learning Process
+  # try:
+  #   title: "Try It"
+  #   icon-symbol: "🔄"
+  #   color: "blue"
+  #   collapse: false
+
+  reflect:
+    title: "Reflection"
+    icon-symbol: "💭"
+    color: "purple"
+    collapse: false
+
+  # feedback:
+  #   title: "Feedback"
+  #   icon-symbol: "📝"
+  #   color: "teal"
+  #   collapse: true
+
+  # caution:
+  #   title: "Watch Out"
+  #   icon-symbol: "⚠️"
+  #   color: "orange"
+  #   collapse: true
+
+  pro-tip:
+    title: "Pro Tip"
+    icon-symbol: "💡"
+    color: "gold"
+    collapse: true
+
+  # # Technical Elements
+  # prompt-example:
+  #   title: "Example Prompt"
+  #   icon-symbol: "👩🏼‍🔧"
+  #   color: "steelblue"
+  #   collapse: false
+
+  # output-example:
+  #   title: "Output Example"
+  #   icon-symbol: "📄"
+  #   color: "purple"
+  #   collapse: true
+
+  # prompt-template:
+  #   title: "Prompt Template"
+  #   icon-symbol: "📋"
+  #   color: "indigo"
+  #   collapse: true
+
+  # testing:
+  #   title: "Test Your Prompt"
+  #   icon-symbol: "🧪"
+  #   color: "green"
+  #   collapse: false
+
+  # export:
+  #   title: "Export"
+  #   icon-symbol: "📤"
+  #   color: "brown"
+  #   collapse: true
+
+  # # Workshop Flow
+  # setup:
+  #   title: "Setup"
+  #   icon-symbol: "⚙️"
+  #   color: "gray"
+  #   collapse: true
+
+  # timing:
+  #   title: "Time Check"
+  #   icon-symbol: "⏱️"
+  #   color: "red"
+  #   collapse: false
+
+  # break:
+  #   title: "Break Time"
+  #   icon-symbol: "☕"
+  #   color: "yellow"
+  #   collapse: false
+
+  # checkpoint:
+  #   title: "Checkpoint"
+  #   icon-symbol: "🎯"
+  #   color: "purple"
+  #   collapse: false
+
+  # schedule:
+  #   title: "Schedule"
+  #   icon-symbol: "⏰︎"
+  #   color: "steelblue"
+  #   collapse: false

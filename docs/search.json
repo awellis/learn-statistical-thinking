@@ -1,0 +1,1448 @@
+[
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#ki-kann-uns-produktiver-machen",
+    "href": "slides/wie-menschen-lernen/index.html#ki-kann-uns-produktiver-machen",
+    "title": "Wie Menschen lernen",
+    "section": "KI kann uns produktiver machen",
+    "text": "KI kann uns produktiver machen\n\nWichtige Erkenntnisse aus der Forschung:\n\nDell’Acqua et al. (2023) erforschen die Möglichkeiten, mit KI-Unterstützung kognitive Aufgaben zu verbessern. Fazit: KI kann Produktivität und Qualität steigern, aber auch neue Herausforderungen ergeben.\nToner-Rodgers (2025) diskutiert die Implikationen von KI für die Forschung und betont die Balance zwischen menschlicher und maschineller Intelligenz.\nCui et al. (2024) analysieren die Auswirkungen von generativer KI auf Software Engineering und hebt sowohl Chancen als auch Herausforderungen hervor.\n\nErkenntnisse:\n\nAutomatisierung von routinemässigen kognitiven Aufgaben ist möglich\nUnterstützung kreativer Arbeit ist möglich\nDeskilling: Gefahr, bei ständiger KI-Unterstützung eigene Fähigkeiten zu verlieren\nOhne Training: KI-Tools werden oft für ungeeignete Aufgaben eingesetzt"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#section",
+    "href": "slides/wie-menschen-lernen/index.html#section",
+    "title": "Wie Menschen lernen",
+    "section": "",
+    "text": "Aber halt…\n🤔\n\nSollten Lernende überhaupt produktiver sein?\n\n\nWas ist, wenn Anstrengung beim Lernen wichtig ist als das Ergebnis?"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#warum-existieren-schulen",
+    "href": "slides/wie-menschen-lernen/index.html#warum-existieren-schulen",
+    "title": "Wie Menschen lernen",
+    "section": "Warum existieren Schulen?",
+    "text": "Warum existieren Schulen?\nWir unterscheiden zwischen:\n\n\nBiologisch primärem Wissen:\n\nWofür wir evolutionär angepasst sind\nLernen geschieht mühelos und automatisch\nBeispiele: Sprechen lernen, Gesichter erkennen, soziale Interaktion\n\n\nBiologisch sekundärem Wissen:\n\nKulturelle Errungenschaften ohne evolutionäre Anpassung\nErfordert bewusste Anstrengung und Instruktion\nBeispiele: Lesen, Schreiben, Mathematik, Programmieren\n\n\n\n\n\nPrimäres Wissen kann durch natürliche Entdeckung (discovery) erlernt werden, während akademische Fähigkeiten explizite Anleitung und strukturiertes Üben erfordern."
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#experten-vs.-anfänger",
+    "href": "slides/wie-menschen-lernen/index.html#experten-vs.-anfänger",
+    "title": "Wie Menschen lernen",
+    "section": "Experten vs. Anfänger",
+    "text": "Experten vs. Anfänger\n\n\n\n\n\nExperten haben eine neuronale Architektur, die Anfänger erst entwickeln müssen.\n\n\n\n\n\n\n\n\n\n\nZwei verschiedene Betriebssysteme\n\n\n\n\n\n\n\n\nDimension\nAnfänger\nExperten\n\n\n\n\nSehen\n• Einzelne Teile\n• Bedeutungsvolle Muster\n\n\nVerarbeiten\n• Schritt-für-Schritt-Denken• Deliberativ• Bewusste Anstrengung\n• Automatische Prozeduren• Intuitiv• Unbewusst\n\n\nNeural\n• Schwache Verbindungen• Bahnen noch im Aufbau\n• Myelinisierte neuronale Bahnen• Tausende Stunden geübt"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#cognitive-load-theory",
+    "href": "slides/wie-menschen-lernen/index.html#cognitive-load-theory",
+    "title": "Wie Menschen lernen",
+    "section": "Cognitive Load Theory",
+    "text": "Cognitive Load Theory\nWarum Anfänger anders lernen müssen als Experten\n\n\nArbeitsgedächtnis\n\nBegrenzt: Wenige Elemente gleichzeitig\nFlüchtig: Sekunden bis Minuten\nBottleneck: Hier findet aktives Lernen statt\nProblem: Schnell überlastet bei komplexen Aufgaben\n\n\nLangzeitgedächtnis\n\nUnbegrenzt: Keine bekannte Obergrenze\nDauerhaft: Jahre bis lebenslang\nOrganisiert: Schemata und Chunks\nLösung: Automatisierte Prozesse belasten Arbeitsgedächtnis nicht\n\n\n\n\n\n\nKernprinzip: Lernen = Transfer vom Arbeits- ins Langzeitgedächtnis durch Schemabildung (Wissensstrukturen)"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#die-drei-arten-kognitiver-belastung",
+    "href": "slides/wie-menschen-lernen/index.html#die-drei-arten-kognitiver-belastung",
+    "title": "Wie Menschen lernen",
+    "section": "Die drei Arten kognitiver Belastung",
+    "text": "Die drei Arten kognitiver Belastung\n\n\n\n\n\n\n\n\n\nArt\nDefinition\nBeispiel\nGestaltbar?\n\n\n\n\nIntrinsisch\nKomplexität des Lernstoffs selbst\nQuantenphysik hat höhere intrinsische Last als Addition\n❌ Nur durch Sequenzierung\n\n\nExtrinsisch\nWie Material präsentiert wird\nText und Grafik getrennt vs. integriert\n✅ Durch gutes Design minimierbar\n\n\nLernrelevant\nMentaler Aufwand für Schemabildung\nVerbindungen herstellen, Muster erkennen\n✅ Sollte maximiert werden\n\n\n\n\n\n\n\nDas Lerndilemma:\n\nGesamtlast darf Arbeitsgedächtnis nicht überfordern\nAber: Lernrelevanter cognitive load ist essentiell für Expertise-Entwicklung\nLösung: Extrinsische Last minimieren, um Raum für lernrelevante Last zu schaffen"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#clt-prinzipien-für-effektives-lernen",
+    "href": "slides/wie-menschen-lernen/index.html#clt-prinzipien-für-effektives-lernen",
+    "title": "Wie Menschen lernen",
+    "section": "CLT-Prinzipien für effektives Lernen",
+    "text": "CLT-Prinzipien für effektives Lernen\n\n\n\n\n\n\n\n\n\nPrinzip\nFür Anfänger\nFür Fortgeschrittene\nImplikation\n\n\n\n\nWorked Examples\n✅ Reduziert kognitive Last durch Beispiele\n❌ Langweilt und hemmt\nScaffolding anpassen\n\n\nProblem Solving\n❌ Überfordert das Arbeitsgedächtnis\n✅ Fördert Schemabildung\nTiming ist kritisch\n\n\nSplit-Attention\nText + Bild integriert präsentieren\nWeniger relevant\nKlare Darstellung wählen\n\n\n\n\n\n\n\nDer Expertise Reversal Effect\n\n\nWas Experten hilft, kann Anfängern schaden – und umgekehrt. Lernumgebungen müssen sich an das Niveau anpassen.\n\n\n\nPraktische Regel: Beginne mit hoher Unterstützung (Scaffolding) und reduziere sie graduell mit wachsender Expertise."
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#clt-und-ki-cognitive-offloading",
+    "href": "slides/wie-menschen-lernen/index.html#clt-und-ki-cognitive-offloading",
+    "title": "Wie Menschen lernen",
+    "section": "CLT und KI: Cognitive Offloading",
+    "text": "CLT und KI: Cognitive Offloading\nDas Lernparadox: KI optimiert für Produktion statt Lernen\n\n\n\n\n\n\n\n\n\nKognitive Last\nOhne KI\nMit KI\nKonsequenz\n\n\n\n\nIntrinsisch\nBleibt konstant\nScheint reduziert\nKomplexität wird versteckt, nicht bewältigt\n\n\nExtrinsisch\nVariabel\n✅ Minimiert\nGut für Effizienz\n\n\nLernrelevant\nWird aufgebracht\n❌ Eliminiert\nKeine Schemabildung"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#clt-und-ki-cognitive-offloading-1",
+    "href": "slides/wie-menschen-lernen/index.html#clt-und-ki-cognitive-offloading-1",
+    "title": "Wie Menschen lernen",
+    "section": "CLT und KI: Cognitive Offloading",
+    "text": "CLT und KI: Cognitive Offloading\nDrei kritische Lernmechanismen werden ausgeschaltet:\n\n\n\n\n\n\n\n\nMechanismus\nNormal\nMit KI-Offloading\n\n\n\n\nVorhersagefehler\nLücke zwischen Erwartung & Realität = Lernsignal\nKeine Erwartungen → kein Lernen\n\n\nGedächtniskonsolidierung\nAktive Verarbeitung → Speicherung\nPassive Konsumption → Vergessen\n\n\nProzedurale Entwicklung\nTausende Wiederholungen → Automatismen\nÜberspringen → keine Expertise\n\n\n\n\n\n\nDie CLT-Perspektive: Schwierigkeit ist kein Bug – sie ist das zentrale Feature für Expertise-Entwicklung"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#wie-expertise-entwickelt-wird",
+    "href": "slides/wie-menschen-lernen/index.html#wie-expertise-entwickelt-wird",
+    "title": "Wie Menschen lernen",
+    "section": "Wie Expertise entwickelt wird",
+    "text": "Wie Expertise entwickelt wird\nVon Fakten zu automatisierten Prozeduren\n\n\n\n\n\n\n\n\n\nGedächtnissystem\nBeschreibung\nEigenschaften\nBeispiel\n\n\n\n\nDeklaratives Gedächtnis\n“Wissen dass”\n• Fakten, Regeln • Bewusst, langsamer Abruf\n“Um \\(3x + 5 = 20\\) zu lösen, \\(5\\) von beiden Seiten subtrahieren.”\n\n\nProzedurales Gedächtnis\n“Wissen wie”\n• Automatisierte Prozesse• Schnelle, mühelose Ausführung\n\\(3x + 5 = 20\\) sehen → direkt wissen: \\(x = 5\\)\n\n\n\n\n\n\nDer Weg zur Expertise\nDeklarative Fakten → Tausende Übungszyklen → Prozedurale Automatismen\n\n\n\n\nAbbildung von Scott H Young"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#das-lernparadox-gefühl-realität",
+    "href": "slides/wie-menschen-lernen/index.html#das-lernparadox-gefühl-realität",
+    "title": "Wie Menschen lernen",
+    "section": "Das Lernparadox: Gefühl ≠ Realität",
+    "text": "Das Lernparadox: Gefühl ≠ Realität\n\n\n\n\n\n\n\n\n\nSituation\nWie es sich anfühlt\nWas tatsächlich passiert\nDer Trugschluss\n\n\n\n\nBeim Kämpfen mit einem Problem\n• Frustration 😣 • “Ich kann das nicht”• Langsamer Fortschritt• Unsicherheit\n• Neue neuronale Verbindungen entstehen• Tiefes Verständnis bildet sich• Langzeitgedächtnis wird aktiviert• Echtes Lernen 🧠\n“Wenn es schwer ist, lerne ich nicht” ❌\n\n\nBeim Produzieren mit KI-Hilfe\n• Erfolgsgefühl 😊 • “Ich bin produktiv”• Schnelle Ergebnisse• Selbstvertrauen\n• Oberflächliche Verarbeitung• Keine neuen Verbindungen• Arbeitsgedächtnis nur kurz aktiv• Illusion des Lernens 🃏\n“Wenn ich etwas produziere, lerne ich” ❌\n\n\n\n\n\n\n\nDie gefährliche Umkehrung\n\n\nUnser Gehirn belügt uns: Was sich wie Lernen anfühlt (mühelose Produktion) ist oft das Gegenteil von Lernen.\nDie Wahrheit: Echter Lernfortschritt fühlt sich wie Scheitern an.\n\n\n\n\n\nMerksatz: “Cognitive effort isn’t a bug—it’s the feature.”"
+  },
+  {
+    "objectID": "slides/wie-menschen-lernen/index.html#bibliographie",
+    "href": "slides/wie-menschen-lernen/index.html#bibliographie",
+    "title": "Wie Menschen lernen",
+    "section": "Bibliographie",
+    "text": "Bibliographie\n\n\nCui, Zheyuan (Kevin), Mert Demirer, Sonia Jaffe, Leon Musolff, Sida Peng, and Tobias Salz. 2024. “The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers.” SSRN Scholarly Paper. Rochester, NY. September 3, 2024. https://doi.org/10.2139/ssrn.4945566.\n\n\nDell’Acqua, Fabrizio, Edward McFowland, Ethan R. Mollick, Hila Lifshitz-Assaf, Katherine Kellogg, Saran Rajendran, Lisa Krayer, François Candelon, and Karim R. Lakhani. 2023. “Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4573321.\n\n\nToner-Rodgers, Aidan. 2025. “Artificial Intelligence, Scientific Discovery, and Product Innovation.” May 20, 2025. https://doi.org/10.48550/arXiv.2412.17866."
+  },
+  {
+    "objectID": "slides/was-sind-agenten/index.html#der-paradigmenwechsel",
+    "href": "slides/was-sind-agenten/index.html#der-paradigmenwechsel",
+    "title": "Was sind Agents?",
+    "section": "Der Paradigmenwechsel",
+    "text": "Der Paradigmenwechsel\nVon reaktiven Tools zu proaktiven Partnern\n\n\nTraditional Chatbot\nBenutzer: “Plane eine Reise nach Paris”\nChatbot:\n\n“Hier sind 5 Hotels in Paris…”\n“Diese Flüge sind verfügbar…”\n“Sehenswürdigkeiten: Eiffelturm…”\nDu musst alles selbst buchen\n\n\nAI Agent\nBenutzer: “Plane eine Reise nach Paris”\nAgent:\n\nCheckt deinen Kalender\nBucht Flug und Hotel\nErstellt Reiseroute\nSendet Bestätigungen\nErledigt die komplette Aufgabe\n\n\n\n\n\nDer Unterschied: Ein Chatbot beantwortet die nächste Frage. Ein Agent arbeitet das Problem, bis der Job erledigt ist."
+  },
+  {
+    "objectID": "slides/was-sind-agenten/index.html#was-sind-ai-agents",
+    "href": "slides/was-sind-agenten/index.html#was-sind-ai-agents",
+    "title": "Was sind Agents?",
+    "section": "Was sind AI Agents?",
+    "text": "Was sind AI Agents?\nLLM + Gedächtnis + Werkzeuge + Entscheidungsschleife\n\n\nDie Grundformel\nLLM-basierte Agenten =\n\nLLM (GPT-5, Claude, …) für Reasoning\n+ Gedächtnis (Kurz- & Langzeit)\n+ Werkzeuge (APIs, Datenbanken, Code)\n+ Entscheidungsschleife (kontinuierlich)\n\n\nDer Agent-Zyklus\n\nWahrnehmung - Input/Umgebung\nPlanung - LLM überlegt Schritte\nHandlung - Tools/APIs verwenden\nFeedback - Ergebnisse bewerten\n\n\n\n\n\nAgents verwandeln passive Sprachmodelle in aktive, handelnde Systeme durch kontinuierliche Wahrnehmung-Planung-Handlung-Zyklen."
+  },
+  {
+    "objectID": "slides/was-sind-agenten/index.html#von-chatbot-zu-agent-unterschiedie",
+    "href": "slides/was-sind-agenten/index.html#von-chatbot-zu-agent-unterschiedie",
+    "title": "Was sind Agents?",
+    "section": "Von Chatbot zu Agent: Unterschiedie",
+    "text": "Von Chatbot zu Agent: Unterschiedie\nZwei verschiedene Paradigmen\n\n\n\n\n\n\n\n\nDimension\nChatbot\nAI Agent\n\n\n\n\nVerhalten\n• Reaktiv: Antwortet nur auf Anfragen\n• Proaktiv: Arbeitet kontinuierlich zum Ziel\n\n\nAufgaben\n• Einzelne Antworten• Session-basiert\n• Komplette Workflows• End-to-End Execution\n\n\nGedächtnis\n• Nur während Konversation (im Kontext)• Kein Lernen\n• Persistent über Zeit• Lernt aus Interaktionen (speichert “Memories”)\n\n\nTools\n• Keine externen Integrationen\n• APIs, Datenbanken, Apps• Real-time Integration\n\n\nPlanung\n• Keine Strategieentwicklung\n• Multi-step Planning• Selbstkorrektur"
+  },
+  {
+    "objectID": "slides/was-sind-agenten/index.html#chatgpt-gpts",
+    "href": "slides/was-sind-agenten/index.html#chatgpt-gpts",
+    "title": "Was sind Agents?",
+    "section": "ChatGPT: GPTs",
+    "text": "ChatGPT: GPTs"
+  },
+  {
+    "objectID": "slides/was-sind-agenten/index.html#copilot-agents",
+    "href": "slides/was-sind-agenten/index.html#copilot-agents",
+    "title": "Was sind Agents?",
+    "section": "Copilot Agents",
+    "text": "Copilot Agents"
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte",
+    "href": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Rechtliche Aspekte",
+    "text": "Rechtliche Aspekte\nZwei wichtige Aspekte, welche bei der Benutzung von LLMs beachtet werden müssen:\n \n\n\nRechtliche Aspekte \n\nWer besitzt die Rechte an den von LLMs generierten Inhalten?\nRisiko von Plagiaten und Urheberrechtsverletzungen\nRichtlinien für den Umgang mit generierten Inhalten\n\n\nDatenschutz \n\nSchutz personenbezogener Daten\nEinhaltung von Datenschutzbestimmungen"
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte-1",
+    "href": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte-1",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Rechtliche Aspekte",
+    "text": "Rechtliche Aspekte\n\nKI-Modelle können mit Inhalten trainiert sein, an denen Dritte Urheberrechte haben—dies kann bei der Verwendung der Modelle zu Urheberrechtsverletzungen führen.\nDer Input (Prompt) kann geschützte Inhalte Dritter enthalten, deren Nutzung ohne rechtliche Grundlage Urheberrechte verletzt.\nDer von der KI generierte Output kann zufällig geschützte Inhalte Dritter enthalten."
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte-2",
+    "href": "slides/möglichkeiten-grenzen/index.html#rechtliche-aspekte-2",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Rechtliche Aspekte",
+    "text": "Rechtliche Aspekte\n\nAnbieter von KI-Plattformen können sich Rechte an generierten Inhalten vorbehalten, was ebenfalls rechtliche Herausforderungen mit sich bringen kann.\nOpenAI-Nutzungsbedingungen: die Rechte an generierten Inhalten abgetreten, OpenAI behält sich aber Nutzungsrechte vor.\nNutzende sind in der Verantwortung, die rechtlichen Anforderungen einzuhalten."
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#empfehlung",
+    "href": "slides/möglichkeiten-grenzen/index.html#empfehlung",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Empfehlung",
+    "text": "Empfehlung\nKI-Policy: Geben Sie deutlich an, dass der Inhalt von einer KI erstellt wurde, sodass kein Nutzer dies übersehen oder missverstehen kann:\n\n\n\n\nDeklaration\n\n\nDer/die Autor*in hat diesen Text teilweise mit [Modell] erstellt. Nach der Erstellung des Entwurfs hat der/die Autor*in den Text überprüft, bearbeitet und nach eigenem Ermessen angepasst und übernimmt die volle Verantwortung für den Inhalt dieser Veröffentlichung.\n\n\n\n\nZitieren Sie das verwendete Modell in ähnlicher Weise, wie Sie Software zitieren würden."
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#datenschutz",
+    "href": "slides/möglichkeiten-grenzen/index.html#datenschutz",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Datenschutz",
+    "text": "Datenschutz\nDatenschutz allgemein bedeutet:\n\nsicherzustellen, dass keine persönlichen Daten der Lehrenden oder Lernenden ohne deren Zustimmung gesammelt, gespeichert oder weiterverarbeitet werden, um ihre Privatsphäre und Sicherheit zu gewährleisten.\nTransparenz darüber, welche Daten erhoben und wie sie verwendet werden.\nsicherzustellen, dass Daten nicht für andere Zwecke als die ursprünglich angegebenen verwendet werden\nRecht der Betroffenen auf Auskunft, Berichtigung, Löschung und Widerspruch\nEinhaltung von Datenschutzgesetzen und -vorschriften\n\n\n\n\nLehrpersonen müssen Datenschutz beim Einsatz von (digitalen) Tools immer beachten."
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#datensicherheit",
+    "href": "slides/möglichkeiten-grenzen/index.html#datensicherheit",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Datensicherheit",
+    "text": "Datensicherheit\nDies bedeutet:\n\nDaten so zu speichern, dass sie nicht verloren gehen\nDaten nicht manipuliert werden können\nTechnische und organisatorische Massnahmen zum Schutz vor unbefugtem Zugriff auf Daten"
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#schutzmassnahmen",
+    "href": "slides/möglichkeiten-grenzen/index.html#schutzmassnahmen",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Schutzmassnahmen",
+    "text": "Schutzmassnahmen\n\n\n\nKeine persönlichen Daten in die Eingabe von ChatGPT einfliessen lassen (nur anonymisierte Informationen)\nKeine Eingabe von sensiblen oder vertraulichen Informationen (Informationen über gesundheitliche, finanzielle oder private Angelegenheiten)\n\n\nEinstellungen im Konto für Datenkontrolle:"
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#copilot-verwenden",
+    "href": "slides/möglichkeiten-grenzen/index.html#copilot-verwenden",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Copilot verwenden",
+    "text": "Copilot verwenden\n\n\nMicrosoft Copilot garantiert BFH-Mitarbeitenden, dass Benutzerdaten gesichert sind:\n Schutz von Unternehmensdaten\n\nBenutzerdaten sind durch Verschlüsselung, Sicherheitskontrollen und Datenisolation (gleich wie bei E-Mails in Exchange und Dateien in SharePoint) geschützt.\nMicrosoft verwendet Daten nicht ohne Anweisung des Benutzers."
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#api-oder-lokale-ki-modelle-verwenden",
+    "href": "slides/möglichkeiten-grenzen/index.html#api-oder-lokale-ki-modelle-verwenden",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "API oder lokale KI-Modelle verwenden",
+    "text": "API oder lokale KI-Modelle verwenden\n\njan.ai: Eine Open-Source ChatGPT-Alternative\nlmstudio.ai: Lokale LLMs installieren"
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#detektion-von-ki-generiertem-inhalt",
+    "href": "slides/möglichkeiten-grenzen/index.html#detektion-von-ki-generiertem-inhalt",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Detektion von KI-generiertem Inhalt",
+    "text": "Detektion von KI-generiertem Inhalt\n\n\nHeuristiken:\n\nDurch Verwendung spezifischer Vokabeln und Phrasen: “delve”, “vibrant”, “embark”, “it’s important to note”, “based on the data provided”.\nDurch Verwendung des in der Schweiz unüblichen scharfen S (ß).\n\n\nDetektion anhand vom Schreibstil und Inhalt:\n\nErkennungswerkzeuge sind nicht sehr nützlich und können leicht umgangen werden.\nErkennungs-Illusion: Lehrkräfte überschätzen ihre Erkennungsfähigkeiten (Fleckenstein et al. 2024)."
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#fragen",
+    "href": "slides/möglichkeiten-grenzen/index.html#fragen",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "Fragen",
+    "text": "Fragen\n\n\n\n\n\n?"
+  },
+  {
+    "objectID": "slides/möglichkeiten-grenzen/index.html#references",
+    "href": "slides/möglichkeiten-grenzen/index.html#references",
+    "title": "Möglichkeiten und Grenzen",
+    "section": "References",
+    "text": "References\n\n\nFleckenstein, Johanna, Jennifer Meyer, Thorben Jansen, Stefan D. Keller, Olaf Köller, and Jens Möller. 2024. “Do Teachers Spot AI? Evaluating the Detectability of AI-generated Texts Among Student Essays.” Computers and Education: Artificial Intelligence 6 (June): 100209. https://doi.org/10.1016/j.caeai.2024.100209."
+  },
+  {
+    "objectID": "resources/prompting/index.html",
+    "href": "resources/prompting/index.html",
+    "title": "Effective Prompting Strategies in Education",
+    "section": "",
+    "text": "Large Language Models (LLMs) can greatly enhance education by providing explanations, examples, and instant feedback. However, employing effective prompting techniques is critical. This affects whether LLMs support meaningful learning or potentially allow students to bypass learning altogether. Thoughtfully constructed prompts use principles from cognitive science, promoting active student engagement and deeper understanding."
+  },
+  {
+    "objectID": "resources/prompting/index.html#overview",
+    "href": "resources/prompting/index.html#overview",
+    "title": "Effective Prompting Strategies in Education",
+    "section": "",
+    "text": "Large Language Models (LLMs) can greatly enhance education by providing explanations, examples, and instant feedback. However, employing effective prompting techniques is critical. This affects whether LLMs support meaningful learning or potentially allow students to bypass learning altogether. Thoughtfully constructed prompts use principles from cognitive science, promoting active student engagement and deeper understanding."
+  },
+  {
+    "objectID": "resources/prompting/index.html#key-principles-for-educational-prompting",
+    "href": "resources/prompting/index.html#key-principles-for-educational-prompting",
+    "title": "Effective Prompting Strategies in Education",
+    "section": "Key Principles for Educational Prompting",
+    "text": "Key Principles for Educational Prompting\n\n1. Retrieval Practice\nEncourage recall of learned information to strengthen memory.\n\nQuiz me on three key points from the organic chemistry lecture on reaction kinetics [provided as PDF].\n\n\n\n2. Scaffolding\nBreak complex tasks into smaller steps to guide students gradually.\n\nFirst, give the balanced equation for this [chemical] reaction. Now, what are the initial concentrations?\n\n\n\n3. Metacognition\nPromote self-reflection and justification of reasoning.\n\nExplain why you chose this method for determining equilibrium. Are there assumptions you’ve made?\n\n\n\n4. Cognitive Load Management\nChunk information clearly to prevent overload.\n\nDefine entropy briefly. Next, explain how entropy differs from enthalpy."
+  },
+  {
+    "objectID": "resources/prompting/index.html#effective-prompting-techniques",
+    "href": "resources/prompting/index.html#effective-prompting-techniques",
+    "title": "Effective Prompting Strategies in Education",
+    "section": "Effective Prompting Techniques",
+    "text": "Effective Prompting Techniques\n\nSet Clear Roles and Contexts\nProvide explicit roles to guide the LLM’s responses.\n\nYou are an organic chemistry tutor helping a first-year student.\n\n\n\nSpecify Tasks and Formats Clearly\nBe specific to ensure precise responses.\n\nExplain ionic bonding using a real-world analogy suitable for freshmen.\n\n\n\nUse Examples or Templates\nDemonstrate the desired output.\n\nProvide a solution formatted as follows: First state the concept, then illustrate with a concrete chemistry example.\n\n\n\nChain-of-Thought and Reasoning\nAsk the LLM to detail its reasoning or provide multiple approaches.\n\nStep-by-step, explain how to identify the limiting reagent in this reaction.\n\n\n\n\n\n\n\nTip✅\n\n\n\nInstruct the LLM to think first: “Explain your reasoning first, then state the answer.”\n\n\n\n\n\n\n\n\nWarning❌\n\n\n\nInstruct the LLM to give the answer first: “State the answer first, then explain your reasoning.”\n\n\n\n\nIterative Refinement\nTreat prompting as an interactive process, refining outputs through conversation.\n\nSimplify the previous explanation and provide a metaphor.\n\n\n\nUse Markdown Formatting\nUse Markdown formatting to make the prompt more readable (e.g. lists, bold, italics, etc.).\n\n\n\n\n\n\nTipBasic Markdown Formatting\n\n\n\n\n\n# Heading level 1\n## Heading level 2\n### Heading level 3\n\n**Bold text**\n\n*Italic text*\n\n1. List item 1\n2. List item 2\n3. List item 3\nUse delimiters (e.g. ---, \"\"\") to indicate different roles or parts of a prompt."
+  },
+  {
+    "objectID": "resources/prompting/index.html#example-teaching-activities",
+    "href": "resources/prompting/index.html#example-teaching-activities",
+    "title": "Effective Prompting Strategies in Education",
+    "section": "Example Teaching Activities",
+    "text": "Example Teaching Activities\n\nIllustrative Analogies\n\nCreate an everyday analogy to illustrate Le Châtelier’s principle.\n\n\n\nPractice Questions Generation\n\nCreate three practice questions on acid-base titrations at varying difficulty levels.\n\n\n\n\n\n\n\nNote that the task of generating practice questions is a complex task that requires a good understanding of the topic. It will be necessary to provide the LLM with a template for the questions, and to provide examples of how to format the questions. Additionally, you will need to consider how to define task difficulty very carefully.\n\n\n\n\n\nLesson Planning\n\nOutline a 50-minute lesson plan on the ideal gas law with an interactive demonstration.\n\n\n\nInteractive Problem Solving\n\nGuide me through solving a galvanic cell problem, providing hints without revealing the solution immediately."
+  },
+  {
+    "objectID": "resources/prompting/index.html#example-student-activities",
+    "href": "resources/prompting/index.html#example-student-activities",
+    "title": "Effective Prompting Strategies in Education",
+    "section": "Example Student Activities",
+    "text": "Example Student Activities\n\nClarifying Concepts\n\nSimplify and explain the concept of electrons behaving as waves.\n\n\n\nCreating Study Guides\n\nSummarize thermodynamics laws and generate two review questions for each.\n\n\n\nSelf-Explanation and Reflection\n\nEvaluate my explanation of buffer solutions and ask a clarifying follow-up question.\n\n\n\nError-Checking Practice\n\nReview my solution to this equilibrium problem, identify mistakes, and guide me in correcting them.\n\n\n\nBrainstorming Project Ideas\n\nSuggest three practical applications of electrochemistry suitable for a student project."
+  },
+  {
+    "objectID": "03-lernumgebungen/learning-environment/index.html",
+    "href": "03-lernumgebungen/learning-environment/index.html",
+    "title": "Productive Struggle by Design",
+    "section": "",
+    "text": "As James Lang argues in Cheating Lessons (Lang 2013), “cheating is an inappropriate response to a learning environment that’s not working for the student.” Rather than focusing on student behavior, we must design learning environments that make productive struggle the most rewarding path.\nResearch on “desirable difficulties” (R. A. Bjork 1994; E. L. Bjork and Bjork 2011) shows that learning requires cognitive effort—when we remove struggle, we remove learning. Yet students are often not given incentives to engage with effortful processing. The goal is creating environments where students choose to engage in this effortful processing because they understand its necessity for deep learning.\n\n\n\n\n\n\nImportantThe Paradox of Learning\n\n\n\nConditions that make performance look good during training often fail to support learning. The following difficulties feel harder and less efficient in the moment, but produce superior long-term retention and transfer:\n\nGeneration Effect: Having students generate answers (even incorrect ones) before receiving information\nSpacing Effect: Distributing practice over time rather than massing it\nTesting Effect: Using retrieval practice instead of passive review\nInterleaving: Mixing different types of problems instead of blocking them\n\nThese “desirable difficulties” are the very mechanism of learning, not obstacles to be eliminated."
+  },
+  {
+    "objectID": "03-lernumgebungen/learning-environment/index.html#core-principle",
+    "href": "03-lernumgebungen/learning-environment/index.html#core-principle",
+    "title": "Productive Struggle by Design",
+    "section": "",
+    "text": "As James Lang argues in Cheating Lessons (Lang 2013), “cheating is an inappropriate response to a learning environment that’s not working for the student.” Rather than focusing on student behavior, we must design learning environments that make productive struggle the most rewarding path.\nResearch on “desirable difficulties” (R. A. Bjork 1994; E. L. Bjork and Bjork 2011) shows that learning requires cognitive effort—when we remove struggle, we remove learning. Yet students are often not given incentives to engage with effortful processing. The goal is creating environments where students choose to engage in this effortful processing because they understand its necessity for deep learning.\n\n\n\n\n\n\nImportantThe Paradox of Learning\n\n\n\nConditions that make performance look good during training often fail to support learning. The following difficulties feel harder and less efficient in the moment, but produce superior long-term retention and transfer:\n\nGeneration Effect: Having students generate answers (even incorrect ones) before receiving information\nSpacing Effect: Distributing practice over time rather than massing it\nTesting Effect: Using retrieval practice instead of passive review\nInterleaving: Mixing different types of problems instead of blocking them\n\nThese “desirable difficulties” are the very mechanism of learning, not obstacles to be eliminated."
+  },
+  {
+    "objectID": "03-lernumgebungen/learning-environment/index.html#evidence-based-environmental-design",
+    "href": "03-lernumgebungen/learning-environment/index.html#evidence-based-environmental-design",
+    "title": "Productive Struggle by Design",
+    "section": "Evidence-Based Environmental Design",
+    "text": "Evidence-Based Environmental Design\n\n1. Lower-Stakes Assessment (Lang 2013)\nReplace high-stakes single assessments with frequent, lower-stakes evaluations:\n\n\n\n\n\n\nTipResearch-Based Approach\n\n\n\nInstead of a final exam worth 50%, use:\n\nFive tests worth 10% each\nWeekly reflection journals\nMultiple opportunities to demonstrate learning\n\nThis reduces anxiety-driven shortcuts while improving retention through the testing effect (Roediger and Karpicke 2006).\n\n\n\n\n2. Intrinsic Motivation Design (Lang 2013)\nBuild courses around meaningful problems rather than content coverage:\nCoverage-Based: “Read Chapter 7 on climate change”\nProblem-Based: “Analyze how climate patterns in your hometown have changed using local weather data”\nProblems rooted in students’ environments may tap intrinsic motivation and therefore be less prone to AI generation.\n\n\n3. Spaced Repetition (Cepeda et al. 2006)\nDistribute practice across time rather than massing it:\nWeek 1: Introduce concept A\nWeek 3: Review concept A while learning B  \nWeek 6: Apply concepts A & B to new context\nWeek 10: Connect A & B to concept C\nResearch shows spaced practice improves long-term retention by 200-300%.\n\n\n4. Retrieval Practice (Roediger and Karpicke 2006)\nUse testing as a learning tool, not just assessment:\n\n\n\n\n\n\nNoteImplementation Strategy\n\n\n\nLow-stakes retrieval opportunities:\n\nStart each class with a 2-minute quiz on previous material\nWeekly “brain dumps” where students write everything they remember\nPeer teaching exercises\nPractice problems without looking at notes first\n\nResearch shows retrieval practice produces better transfer than repeated studying.\n\n\n\n\n5. Interleaved Practice (Rohrer 2012)\nMix different types of problems within assignments:\nInstead of 20 algebra problems, then 20 geometry problems, mix them:\n\nProblems 1, 4, 7: Algebra\nProblems 2, 5, 8: Geometry\n\nProblems 3, 6, 9: Word problems requiring both\n\nInterleaving improves discrimination between similar concepts and long-term retention.\n\n\n6. Cognitive Load Management (Sweller 2023)\nDesign instruction to optimize working memory capacity while preserving productive struggle:\nFor Novices:\n\nProvide worked examples before independent practice\nReduce extraneous cognitive load while maintaining intrinsic challenge\n\nFor Advanced Learners:\n\nIncrease element interactivity gradually\nEncourage productive struggle through appropriately difficult tasks\nFocus on germane (learning-productive) cognitive load"
+  },
+  {
+    "objectID": "03-lernumgebungen/learning-environment/index.html#optimal-challenge-design",
+    "href": "03-lernumgebungen/learning-environment/index.html#optimal-challenge-design",
+    "title": "Productive Struggle by Design",
+    "section": "Optimal Challenge Design",
+    "text": "Optimal Challenge Design\nCreate structured opportunities for effortful processing by finding the optimal difficulty level for learning:\n\nToo Easy: Students disengage; no learning occurs\nToo Hard: Students become overwhelmed; working memory overloads\nJust Right: Students experience productive struggle; learning occurs\n\nDesign Implementation:\n\nStart with student’s current capability level\nAdd one new element of complexity\nProvide support for struggle, not elimination of it\nAllow adequate time for effortful processing"
+  },
+  {
+    "objectID": "03-lernumgebungen/learning-environment/index.html#subject-specific-applications",
+    "href": "03-lernumgebungen/learning-environment/index.html#subject-specific-applications",
+    "title": "Productive Struggle by Design",
+    "section": "Subject-Specific Applications",
+    "text": "Subject-Specific Applications\n\nMathematicsWritingScienceProgramming\n\n\nApply Interleaving:\n\nMix problem types within practice sets\nAlternate between different mathematical procedures\nInclude word problems requiring strategy selection\n\nUse Worked Examples:\n\nShow step-by-step solutions before independent practice\nGradually fade support as expertise develops\n\n\n\nImplement Spaced Revision:\n\nDraft → Week gap → Revision → Week gap → Final edit\nMultiple low-stakes feedback loops\n\nDesign-Based Learning:\n\nConnect writing to real problems\nAuthentic audiences beyond the instructor\n\n\n\nRetrieval Practice Applications:\n\nPredict-observe-explain cycles with delayed feedback\nConcept mapping from memory before consulting notes\n\nDesirable Difficulties:\n\nGenerate hypotheses before receiving information\nExplain phenomena before learning the mechanism\n\nStruggle with “failed” experiments that reveal misconceptions\n\n\n\nCognitive Load Considerations:\n\nWorked examples for syntax, problem-solving for logic\nPair programming as cognitive apprenticeship\nDebug others’ code to build pattern recognition"
+  },
+  {
+    "objectID": "03-lernumgebungen/learning-environment/index.html#implementation-guide",
+    "href": "03-lernumgebungen/learning-environment/index.html#implementation-guide",
+    "title": "Productive Struggle by Design",
+    "section": "Implementation Guide",
+    "text": "Implementation Guide\n\nReframing Difficulty for Students\nHelp students understand that cognitive effort is not a design flaw to be eliminated, but the very mechanism of learning:\n\n\n\n\n\n\nNoteReframing Difficulty\n\n\n\nInstead of: “This is too hard”\nReframe as: “My brain is working hard to build new connections”\nInstead of: “I don’t get it”\nReframe as: “I’m in the productive struggle zone where learning happens”\nInstead of: “I made a mistake”\nReframe as: “I generated useful information about my current understanding”\nInstead of: “This should be easier”\nReframe as: “Appropriate difficulty is necessary for growth”\n\n\n\n\nStruggle Documentation Strategies\n\n\n\n\n\n\nTipThe Learning Process Portfolio\n\n\n\nTrack the struggle, not just the solution:\n\nConfusion Logs: Students document what confused them and why it was valuable\nError Analysis Sheets: Systematic reflection on mistakes and misconceptions\nStruggle Time Tracking: Record time spent in productive struggle (celebrate this!)\n“Aha!” Moment Documentation: Connect struggles to breakthrough insights\nMethod Evolution Maps: Show how problem-solving approaches improved over time\n\n\n\n\n\nBuilding an Error-Positive Culture\nAssessment Design:\n\n\n\n\n\n\nNoteError-Friendly Grading\n\n\n\n\nError Portfolio Bonus: Extra credit for collecting and analyzing mistakes\nMost Valuable Error: Students nominate their most instructive mistake\nError Pattern Recognition: Points for identifying recurring error types\nTeaching Your Mistake: Students explain their errors to help others avoid them\nMistake-to-Mastery Progression: Grade improvement from error to correction\n\n\n\nClassroom Culture Shifts:\n\n\n\n\n\n\nImportantEnvironmental Changes\n\n\n\nVisual Environment:\n\n“Beautiful Mistakes” Wall: Display instructive errors with analysis\nStruggle Tracker Charts: Visual progress through difficult concepts\n\nProblem-Solving Journey Maps: Show the messy path to understanding\n\nLanguage Environment:\n\n“I’m confused and that’s perfect”: Normalize confusion as learning\n“What a beautiful mistake!”: Celebrate errors that reveal thinking\n“That struggle is your brain growing”: Connect effort to growth\n“Errors are data”: Frame mistakes as information, not failure\n\nActivity Environment:\n\nDaily Struggle Sharing: 2-minute reflections on productive difficulties\nError of the Day: Collective analysis of valuable mistakes\nConfusion Conferences: One-on-one discussions about struggles\nMistake-Making Competitions: Gamify error generation and analysis\n\n\n\n\n\nStructured Learning Activities\nPre-Learning Struggle (Generation Effect):\n\nAttempt problems before instruction\nGenerate possible solutions to unfamiliar challenges\n\nPredict outcomes before demonstrations\nCreate questions about upcoming material\n\nDuring-Learning Struggle:\n\nThink-Pair-Share Confusion: Share what’s unclear, then work together\nError Speed Dating: Rotate through common mistakes, discuss each\nProductive Failure Challenges: Deliberately tackle problems slightly above current level\nExplain-Before-You-Know: Attempt explanations before receiving information\n\nPost-Learning Struggle:\n\nTransfer Challenges: Apply concepts to novel situations\nError Diagnosis: Identify mistakes in sample work\nPeer Coaching: Help others through their productive struggles\n\n\n\nScaffolding Support Systems\nThe Struggle Support Ladder:\n\nIndependent Attempt (5-10 minutes minimum)\nPeer Consultation (share struggles, not solutions)\nResource Access (strategic hints, not full answers)\nInstructor Coaching (guide thinking, don’t solve)\nCollaborative Problem-Solving (work together on remaining challenges)\n\nStrategic Hint System:\n\nProcess Hints (not content): “What type of problem is this?”\nStrategy Suggestions: “What worked for similar problems?”\nError Alerts: “Check your third step” (without giving the answer)\nMetacognitive Prompts: “What are you thinking right now?”"
+  },
+  {
+    "objectID": "03-lernumgebungen/learning-environment/index.html#the-environmental-perspective",
+    "href": "03-lernumgebungen/learning-environment/index.html#the-environmental-perspective",
+    "title": "Productive Struggle by Design",
+    "section": "The Environmental Perspective",
+    "text": "The Environmental Perspective\nThe goal is not to eliminate struggle, but to design learning environments where productive struggle becomes the most rewarding and supported path to achieving the outcomes we want for students: deep understanding, durable skills, and authentic expertise.\nWhen environments align with how humans actually learn through effortful processing, students naturally choose deeper engagement because they experience the satisfaction of genuine capability development."
+  },
+  {
+    "objectID": "03-lernumgebungen/handout-make-it-stick/index.html",
+    "href": "03-lernumgebungen/handout-make-it-stick/index.html",
+    "title": "Die 8 Make it Stick Strategien",
+    "section": "",
+    "text": "Effortful Learning ist effektiver—Anstrengung beim Lernen ist ein Feature, nicht ein Bug. Schwieriges Lernen führt zu tieferem, dauerhafterem Wissen (Brown, III, and McDaniel 2014).",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Die 8 Make it Stick Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/handout-make-it-stick/index.html#kernprinzip",
+    "href": "03-lernumgebungen/handout-make-it-stick/index.html#kernprinzip",
+    "title": "Die 8 Make it Stick Strategien",
+    "section": "",
+    "text": "Effortful Learning ist effektiver—Anstrengung beim Lernen ist ein Feature, nicht ein Bug. Schwieriges Lernen führt zu tieferem, dauerhafterem Wissen (Brown, III, and McDaniel 2014).",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Die 8 Make it Stick Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/handout-make-it-stick/index.html#die-8-bewährten-lernstrategien",
+    "href": "03-lernumgebungen/handout-make-it-stick/index.html#die-8-bewährten-lernstrategien",
+    "title": "Die 8 Make it Stick Strategien",
+    "section": "Die 8 bewährten Lernstrategien",
+    "text": "Die 8 bewährten Lernstrategien\n\n1. Abrufpraxis (Retrieval Practice)\nPrinzip: Aktives Erinnern statt passives Wiederlesen\nWarum effektiv?\n\nJeder Abruf stärkt die neuronalen Verbindungen\n“Testing Effect”: Abrufen verstärkt Gedächtnis mehr als erneutes Studieren\n\nPraktische Umsetzung:\n\nSelbsttests, Karteikarten, Übungsfragen\nOhne Notizen erklären können\nFrequent low-stakes quizzes\n\n\n\n\n\n\n\nAgent-potentialAgent-Potential\n\n\n\nQuiz-Generierung, Adaptive Fragenerstellung, Spaced Repetition\n\n\n\n\n2. Verteiltes Lernen (Spacing)\nPrinzip: Über Zeit verteilen statt Pauken\nWarum effektiv?\n\nGrössere Anstrengung nach Vergessen als Lernhilfe\nGegen die Intuition: Schwieriger → Besser für Langzeitretention (Konsolidierung)\n\nPraktische Umsetzung:\n\nWarten bis Vergessen eingesetzt hat, dann wiederholen\nVerteilte Übung über Wochen/Monate\nSpaced Repetition Systeme (z.B. Anki)\n\n\n\n\n\n\n\nAgent-potentialAgent-Potential\n\n\n\nIntelligente Zeitplanung, Erinnerungen, Optimale Intervalle berechnen\n\n\n\n\n3. Abwechslung (Interleaving)\nPrinzip: Verschiedene Aufgaben/Themen mischen statt blockweise üben\nWarum effektiv?\n\nTrainiert flexible Anwendung\nErhöht Anstrengung → Besserer Transfer zwischen Konzepten\n\nPraktische Umsetzung:\n\nVerschiedene Aufgabentypen mischen\nBeispiel Mathe: Addition, Multiplikation, Brüche durchmischen\nNicht alle gleichen Aufgaben hintereinander\n\n\n\n\n\n\n\nAgent-potentialAgent-Potential\n\n\n\nIntelligente Aufgabenmischung, Adaptive Sequenzierung\n\n\n\n\n4. Variation\nPrinzip: In unterschiedlichen Kontexten üben\nWarum effektiv?\n\nFördert Transfer auf neue Situationen\nMacht Wissen weniger abhängig vom ursprünglichen Lernkontext\n\nPraktische Umsetzung:\n\nVerschiedene Beispiele, Umgebungen, Anwendungen\nGleiche Konzepte in unterschiedlichen Situationen\nVielfältige Übungsformate\n\n\n\n\n\n\n\nAgent-potentialAgent-Potential\n\n\n\nKontextvariation generieren, Neue Anwendungsszenarien erstellen\n\n\n\n\n5. Wünschenswerte Schwierigkeiten (Desirable Difficulties)\nPrinzip: Fehler, Anstrengung und Herausforderungen nutzen\nWarum effektiv?\n\nVertieft Verständnis durch kognitive Anstrengung\nKurzfristig schwieriger, langfristig mehr Retention\n\nPraktische Umsetzung:\n\nTests ohne Ankündigung\nVariation in der Übung\nForcing functions1 die zum Nachdenken zwingen\nErst raten, dann lernen\n\n\n\n\n\n\n\nAgent-potentialAgent-Potential\n\n\n\nAdaptive Schwierigkeit, Challenge-Generierung, “Productive Struggle” fördern2\n\n\n\n\n6. Verstehen vs. Vertrautheit\nPrinzip: In eigenen Worten erklären = echtes Verständnis\nWarum effektiv?\n\nUnterscheidet echtes Wissen von Fluency-Illusion\nZwingt zu aktiver Verarbeitung und Verknüpfung\n\nPraktische Umsetzung:\n\nErklären, als ob man es jemand anderem beibringt\nVerbindungen zu Vorwissen herstellen\nSelbst Antworten generieren vor dem Lernen der Lösung\n\n\n\n\n\n\n\nAgent-potentialAgent-Potential\n\n\n\nFeynman-Technik3, Erklärungen bewerten, Verständnis testen\n\n\n\n\n7. Feedback & Reflexion\nPrinzip: Korrektur und bewusstes Nachdenken\nWarum effektiv?\n\nKorrektes Feedback sorgt dafür, dass richtige Informationen verankert werden\nReflexion fördert Metakognition und Selbstregulation\n\nPraktische Umsetzung:\n\nNach Lernsitzung fragen: “Was habe ich gelernt?”\nÜber Lernprozess und -strategien reflektieren\nRegelmässiges, konstruktives Feedback holen\n\n\n\n\n\n\n\nAgent-potentialAgent-Potential\n\n\n\nPersonalisiertes Feedback, Reflexions-Prompts, Lernprozess-Tracking\n\n\n\n\n8. Anwendung\nPrinzip: Wissen in verschiedenen Kontexten einsetzen\nWarum effektiv?\n\nEntwickelt Transferfähigkeit\nMacht abstraktes Wissen konkret anwendbar\n\nPraktische Umsetzung:\n\nReal-world Probleme lösen\nWissen in neuen Situationen anwenden\nVon Theorie zur Praxis\n\n\n\n\n\n\n\nAgent-potentialAgent-Potential\n\n\n\nRealitätsnahe Szenarien, Transfer-Aufgaben, Anwendungs-Coaching",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Die 8 Make it Stick Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/handout-make-it-stick/index.html#ki-tool-design-prinzipien",
+    "href": "03-lernumgebungen/handout-make-it-stick/index.html#ki-tool-design-prinzipien",
+    "title": "Die 8 Make it Stick Strategien",
+    "section": "KI-Tool Design Prinzipien",
+    "text": "KI-Tool Design Prinzipien\n\n✅ Gute KI-Unterstützung:\n\nFördert die 8 Strategien\nErhält lernrelevante Anstrengung\nUnterstützt ohne zu ersetzen\nPersonalisiert den Lernprozess\n\n\n\n❌ Problematische KI-Nutzung:\n\nEliminiert kognitive Anstrengung\nÜbernimmt das Denken\nErzeugt Illusion of Knowing\nMacht Lernen nur einfacher, nicht besser",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Die 8 Make it Stick Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/handout-make-it-stick/index.html#leitfragen-für-agent-entwicklung",
+    "href": "03-lernumgebungen/handout-make-it-stick/index.html#leitfragen-für-agent-entwicklung",
+    "title": "Die 8 Make it Stick Strategien",
+    "section": "Leitfragen für Agent-Entwicklung",
+    "text": "Leitfragen für Agent-Entwicklung\n\nWelche der 8 Strategien wird gefördert?\nWas tut der Agent? Was tut der Lernende?\nBleibt die gewünschte Schwierigkeit erhalten?\nMacht der Agent das Lernen besser oder nur einfacher?\nWie wird echter Lernfortschritt messbar?",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Die 8 Make it Stick Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/handout-make-it-stick/index.html#footnotes",
+    "href": "03-lernumgebungen/handout-make-it-stick/index.html#footnotes",
+    "title": "Die 8 Make it Stick Strategien",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nForcing Functions sind Design-Entscheidungen oder Einschränkungen, die bestimmte Verhaltensweisen erzwingen und unerwünschte Aktionen verhindern. Prinzip: Das System macht es unmöglich, einen Fehler zu machen.↩︎\nProductive Struggle implementiert mehrere der 8 Strategien gleichzeitig: Retrieval Practice, Elaboration, Generation, Reflection.↩︎\nEine Methode zum Test des eigenen Verständnisses, benannt nach dem Physiker Richard Feynman. Die Technik hat vier Schritte: (1) Wähle ein Konzept, (2) Erkläre es in einfachster Sprache, als würdest du es einem Kind beibringen, (3) Identifiziere Lücken und kehre zum Quellmaterial zurück, (4) Vereinfache und verwende Analogien. Der Kern: Wenn du etwas nicht einfach erklären kannst, verstehst du es nicht wirklich. Die Technik funktioniert als Forcing Function—sie zwingt zur Übersetzung von Fachwissen in Alltagssprache und deckt dabei Verständnislücken schonungslos auf.↩︎",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Die 8 Make it Stick Strategien"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html",
+    "title": "How Skill Acquisition Works",
+    "section": "",
+    "text": "Expertise requires progressive skill building through weak → strong methods\nCognitive effort is not a bug—it’s the feature that enables learning through prediction errors\nAI bypasses the very struggles that build lasting capabilities\nExpert methods actively harm novices by creating cognitive overload and dependency\nReal understanding emerges from thousands of effortful practice cycles with prediction errors\nChoose your tools wisely: Use AI to reduce irrelevant cognitive load, not to skip essential learning"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#key-takeaways",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#key-takeaways",
+    "title": "How Skill Acquisition Works",
+    "section": "",
+    "text": "Expertise requires progressive skill building through weak → strong methods\nCognitive effort is not a bug—it’s the feature that enables learning through prediction errors\nAI bypasses the very struggles that build lasting capabilities\nExpert methods actively harm novices by creating cognitive overload and dependency\nReal understanding emerges from thousands of effortful practice cycles with prediction errors\nChoose your tools wisely: Use AI to reduce irrelevant cognitive load, not to skip essential learning"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#connecting-to-your-experience",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#connecting-to-your-experience",
+    "title": "How Skill Acquisition Works",
+    "section": "Connecting to Your Experience",
+    "text": "Connecting to Your Experience\nThink back to the exercise you just completed:\n\nWithout AI: You engaged in deep thinking and struggle\nSingle prompt: You got quick answers with low effort\nIterative AI: You maintained some cognitive engagement\n\nWhich mode built lasting understanding? Let’s explore the science behind skill acquisition to understand why struggle matters for learning."
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#the-journey-from-novice-to-expert",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#the-journey-from-novice-to-expert",
+    "title": "How Skill Acquisition Works",
+    "section": "The Journey from Novice to Expert",
+    "text": "The Journey from Novice to Expert\nWhen we learn new skills, our brains undergo a remarkable transformation. Understanding this process helps us appreciate why offloading cognitive processing to AI can prevent genuine expertise development—and why expert-level tools can actively harm novice learning."
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#the-weak-to-strong-methods-progression",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#the-weak-to-strong-methods-progression",
+    "title": "How Skill Acquisition Works",
+    "section": "The Weak-to-Strong Methods Progression",
+    "text": "The Weak-to-Strong Methods Progression\nAccording to John Anderson’s ACT-R theory (Anderson 1982, 2007), expertise develops through a predictable progression:\n\n1. Weak Methods (Novice Stage)\nWeak methods are domain-general problem-solving strategies that novices use when they lack specific knowledge:\n\nMeans-End Analysis: What's the difference between where I am and where I need to be?\nWorking Backward: Start from the goal and work toward current state\nAnalogy: This reminds me of... (often based on surface features)\nTrial and Error: Let me try different things until something works\nHill Climbing: Always move toward what seems better\n\n\n\n\n\n\n\nNoteExample: Novice solving \\(3x + 5 = 20\\)\n\n\n\nUsing weak methods:\n\nGoal is to find \\(x\\)\nCurrent state: \\(3x + 5 = 20\\)\nHow to reduce difference?\nMaybe subtract \\(5\\)?\nWhy? Um… to get \\(x\\) alone?\nOK, so \\(3x = 15\\)\nNow what reduces the difference?\nDivide by \\(3\\)?\n\\(x = 5\\)\n\nNote the deliberative, step-by-step reasoning!\n\n\n\n\n2. Proceduralization (Intermediate Stage)\n\nRepeated patterns become procedures\nStill conscious but more fluid\nReduced cognitive load\nFaster with fewer errors\nExample: Using multiplication tables from memory\n\nDuring this stage, knowledge begins forming into production rules. These are IF-THEN condition-action pairs:\n\nIF I see “3 × 4” THEN answer “12”\nIF equation has form \\(ax + b = c\\) THEN subtract b from both sides\nIF code won’t compile THEN check for syntax errors first\n\n\n\n3. Compilation (Expert Stage)\n\nKnowledge becomes automatic through many practice episodes\nPattern recognition dominates\nMinimal cognitive load\nFast and accurate\nCannot explain steps anymore!\n\nProduction strength determines which rules fire: frequently successful rules become stronger and fire faster. This is why practice improves both speed AND accuracy—stronger productions outcompete weaker alternatives.\n\n\n\n\n\n\nNoteExample: Expert solving \\(3x + 5 = 20\\)\n\n\n\nExpert sees equation and can instantly recognize → \\(x = 5\\)\nWhen asked to explain:\n\n“I just… know?”\n“You subtract 5 and divide by 3”\n“How did I know that? I’m not sure…”\n\nThe knowledge has compiled into automatic procedures."
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#why-cognitive-effort-matters-the-biology-of-learning",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#why-cognitive-effort-matters-the-biology-of-learning",
+    "title": "How Skill Acquisition Works",
+    "section": "Why Cognitive Effort Matters: The Biology of Learning",
+    "text": "Why Cognitive Effort Matters: The Biology of Learning\n\nThe Prediction Error Learning System\nThe human brain learns through a sophisticated prediction error system that can easily be bypassed when outsourcing cognitive processing. This biological reality explains why struggle is essential for learning."
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#understanding-cognitive-load-theory",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#understanding-cognitive-load-theory",
+    "title": "How Skill Acquisition Works",
+    "section": "Understanding Cognitive Load Theory",
+    "text": "Understanding Cognitive Load Theory\n\nThe Evolutionary Foundation of Learning\nCognitive Load Theory (CLT) (Sweller 2023) is specifically concerned with how humans acquire biologically secondary knowledge—the academic content that schools exist to teach. Understanding this distinction is crucial for grasping why AI can disrupt learning so profoundly.\n\nBiologically Primary vs. Secondary Knowledge\n\n\n\n\n\n\n\nKnowledge Type\nExamples\n\n\n\n\nBiologically Primary (we evolved to learn)\n• Recognizing faces and voices• Understanding basic social interactions• Learning spoken language• Basic spatial navigation• Recognizing danger and safety\n\n\nBiologically Secondary (we didn’t evolve to learn)\n• Reading and writing• Mathematics and algebra• Programming and data analysis• Scientific reasoning• Historical analysis\n\n\n\n\n\n\n\n\n\nImportantWhy This Distinction Matters\n\n\n\n\nPrimary knowledge can be learned through natural discovery and play\nSecondary knowledge requires explicit instruction and guided practice\nSchools exist precisely because secondary knowledge doesn’t develop naturally\nAI disruption is particularly damaging for secondary knowledge acquisition\n\n\n\n\n\n\nThe Cognitive Architecture of Learning\nCLT is based on how human cognition actually processes information, using an architecture that mirrors evolution by natural selection (Sweller 2023):\n\nTwo Pathways for Novel Information\nHumans can acquire new biologically secondary information through two routes:\n\nDiscovery During Problem Solving: Working through challenges independently\nLearning From Others: Receiving information through instruction\n\nCrucially: Both these acquisition skills are themselves biologically primary—we evolved to be excellent at discovering things and learning from others. This is why humans dominate the mammalian world.\n\n\nThe Processing Bottleneck\nOnce information is acquired through either pathway, it must be processed through:\nWorking Memory:\n\nSeverely limited capacity (Miller’s 7±2, more recently Cowan’s 4±1 chunks)\nSeverely limited duration (15-30 seconds without rehearsal)\nThe bottleneck where all conscious learning occurs\n\nLong-Term Memory:\n\nNo known limits of capacity or duration\nWhere expertise lives through domain-specific information storage\nThe goal of all instruction\n\n\n\n\n\n\n\nNoteElement Interactivity in Action\n\n\n\nConsider solving: \\((x + 3)(x - 2) = 0\\)\nFor a novice, each element must be held in working memory: - What \\(x\\) represents - The meaning of parentheses - Addition and subtraction operations - Implied multiplication - The significance of “equals zero” - How to find solutions\nTotal: 7+ interacting elements = Working memory overload\nFor an expert, this is one chunk retrieved from long-term memory: - “Factored form, so \\(x = -3\\) or \\(x = 2\\)”\nTotal: 1 chunk = Minimal working memory load\nWith Offloading to AI: - Input → Answer\nTotal: 0 working memory processing = No learning, no long-term memory storage\n\n\n\n\n\nHow Expertise Actually Develops\nAs De Groot first demonstrated in 1965 (Groot and Groot 1978; Sweller 2024), expertise is domain-specific and results from enormous amounts of domain-specific information stored in long-term memory. This isn’t just “knowing more facts”—it’s having organized knowledge structures (schemas) that allow experts to:\n\nChunk multiple elements into single units\nRecognize patterns automatically\nAccess procedures without conscious effort\nFree up working memory for higher-level thinking"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#the-ai-bypass-problem",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#the-ai-bypass-problem",
+    "title": "How Skill Acquisition Works",
+    "section": "The AI Bypass Problem",
+    "text": "The AI Bypass Problem\n\nHow AI Disrupts Cognitive Architecture\nOffloading cognitive processing to AI can short-circuit this entire learning system:\n\nBypasses working memory processing: No cognitive effort means no encoding\nPrevents long-term memory storage: Information that isn’t processed isn’t stored\nEliminates schema construction: Students get answers without building knowledge structures\nBlocks the novice→expert transition: No pathway from limited to unlimited knowledge\n\n\n\n\n\n\n\nThe fundamental problem: AI provides the benefits of expertise (instant access to organized knowledge) without requiring the process that creates expertise (working memory struggle → long-term memory storage)."
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#pedagogical-implications",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#pedagogical-implications",
+    "title": "How Skill Acquisition Works",
+    "section": "Pedagogical Implications",
+    "text": "Pedagogical Implications\n\nThe Expert-Novice Teaching Trap\nThe most dangerous mistake in education is assuming that novices should learn the way experts work. This leads to what Kirschner (Kirschner, Hendrick, and Heal 2022) calls confusing “the epistemology of the expert with the pedagogy for the learner.”\nWhat Experts Do (Producing Knowledge):\n\nWork forward from automated principles\nRecognize deep patterns instantly\nApply strong, domain-specific methods\nCreate and discover new knowledge\nProcess multiple elements simultaneously\n\nWhat Novices Need (Learning Knowledge):\n\nWork backward using means-end analysis\nBuild basic pattern recognition through practice\nStart with weak, general methods\nReconstruct and understand existing knowledge\nProcess elements sequentially to avoid overload\n\n\n\nWhy Expert Methods Actively Harm Novices\nGiving novices expert-level tools isn’t just ineffective—it’s actively harmful to learning:\n\n1. Cognitive Load Mismatch\n\nExperts can handle multiple interacting elements because they’ve chunked them into patterns\nNovices become overwhelmed when given the same complexity\nResult: Cognitive overload prevents any learning from occurring\n\n\n\n2. Production Rule Interference\n\nExperts have strong, successful production rules that fire automatically\nNovices need to build these rules through repeated weak-method practice\nAI shortcuts prevent the repetition needed for rule strengthening\nResult: Weak rules never develop, leaving permanent dependency\n\n\n\n3. Schema Construction Bypass\n\nExperts have rich schemas (organized knowledge structures) built through experience\nNovices must construct these schemas element by element\nAI answers provide the outcome without the construction process\nResult: No schemas form, preventing transfer to new situations\n\n\n\n4. Metacognitive Damage\n\nExperts know when and why to apply different strategies\nNovices develop this awareness through monitoring their own thinking\nAI dependency eliminates the need for self-monitoring\nResult: Students become unable to evaluate their own understanding\n\n\n\n\n\n\n\nWarningThe Dependency Cascade\n\n\n\nWhen novices use expert-level tools prematurely:\n\nInitial success creates false confidence\nWeak methods atrophy from disuse\nProblem-solving skills deteriorate without practice\nDependency deepens as internal capabilities weaken\nTransfer fails when AI isn’t available\nLearned helplessness develops when facing novel challenges\n\nThis isn’t just “not learning”—it’s unlearning existing capabilities.\n\n\n\n\n\nTeaching That Matches How Brains Learn\n\nPrinciple 1: Respect the Developmental Sequence\n\nWeak methods must come first—they’re not a bug, they’re a feature\nProceduralization requires extensive practice with deliberative processes\nCompilation happens automatically after sufficient repetition\n\n\n\nPrinciple 2: Calibrate Cognitive Load\n\nNovices need simplified, sequential presentation\nExperts can handle complex, parallel processing\nThe same material must be presented differently based on expertise level\n\n\n\nPrinciple 3: Protect the Struggle Window\n\nAllow sufficient time for independent struggle before AI consultation\nDocument thinking process before seeking external help\nMultiple attempts required before accessing solutions\n\n\n\nPrinciple 4: Scaffold, Don’t Substitute\n\nUse AI to reduce irrelevant cognitive load, not eliminate all effort\nProvide worked examples that show the process, not just answers\nGradually fade support as competence develops (scaffolding)\n\n\n\n\nHow Prediction Errors Drive Learning\n\nHow Prediction Errors Drive Learning\nStep 1: Prediction Formation\nWhen you encounter a problem, your brain automatically predicts what should happen based on your current (prior) knowledge:\n\n“If I subtract 5 from both sides, I should get closer to solving for \\(x\\)”\n“If I apply this formula, I should get the right answer”\n“This code structure should compile without errors”\n\nStep 2: Reality Check\nYou attempt the solution and compare the actual outcome to your prediction:\n\nPositive prediction error: “That worked better than expected!”\nNegative prediction error: “That didn’t work as I thought it would”\nZero prediction error: “That went exactly as predicted”\n\nStep 3: Neural Update\nYour brain uses these errors to update its knowledge:\n\nDopamine release marks prediction errors as important learning moments\nEligibility traces tag the neural pathways involved for strengthening\nSynaptic weights adjust based on the magnitude and direction of the error\nMemory consolidation during sleep makes these changes permanent\n\n\n\n\n\n\n\nNoteExample: Learning Algebra Through Prediction Errors\n\n\n\n\n\nAttempt 1: Student thinks “I need to eliminate the 5, so I’ll add 5 to both sides”\n\nPrediction: This should help solve for x\nReality: Gets \\(3x + 10 = 25\\) (moving away from solution)\nPrediction Error: Negative! This approach made things worse\nLearning: Brain tags “adding same number” as unsuccessful strategy\n\nAttempt 2: Student tries “I’ll subtract 5 from both sides”\n\nPrediction: This might work better\nReality: Gets \\(3x = 15\\) (much cleaner!)\nPrediction Error: Positive! This approach worked well\nLearning: Brain strengthens “subtract to isolate” pathway\n\nAfter many cycles: The “subtract to isolate” rule becomes automatic\n\n\n\n\n\nWhy Offloading Cognitive Processing to AI Eliminates the Learning Signal\nAI provides perfect answers instantly:\n\nNo prediction phase (student doesn’t generate expectations)\nNo attempt phase (student doesn’t try solutions)\nNo error phase (no comparison between expected and actual)\nResult: Zero prediction errors = zero learning signal\n\nThe brain literally has nothing to learn from because the prediction-error cycle never occurs.\nThis explains why students can watch hundreds of worked examples or get thousands of correct AI answers and still not learn. Learning requires errors, not perfection.\n\n\n\nThe Desirable Difficulties Principle\nLearning requires what researchers call “desirable difficulties” (Bjork and Bjork 2011)—challenges that feel hard but promote long-term retention:\n\nRetrieval Practice: Pulling information from memory strengthens it\nSpaced Repetition: Forgetting and relearning creates durable knowledge\nInterleaving: Mixing problem types improves discrimination\nGeneration: Creating answers (even wrong ones) beats passive consumption\n\n\n\nThe Compilation Process\nReal expertise emerges through thousands of practice cycles:\nEncounter problem → Make prediction → Attempt solution → Compare to prediction → Get feedback → Neural adjustment\n                                                    ↓\n                                            Neural pathway strengthens\n                                                    ↓\n                                            Pattern becomes automatic\nEach cycle:\n\nStrengthens neural connections through prediction errors\nReduces processing time through repetition\nFrees working memory for higher-level thinking\nEnables creative problem-solving through strong foundations\n\nHow expertise actually works: When you encounter a problem, multiple production rules compete. The rule with highest “utility” (based on past success through prediction errors) fires. Each successful use strengthens that rule, making it more likely to win future competitions. This is why experts seem to “just know”—their strongest productions fire automatically.\n\n\nWhat We Lose When We Skip the Struggle\n\n\n\n\n\n\nWarningWhat We Lose\n\n\n\n\nNo Memory Formation: The brain doesn’t encode what it doesn’t process\nNo Pattern Development: Can’t recognize what we haven’t practiced\nNo Transfer Ability: Can’t apply unlearned principles to new contexts\nNo Metacognition: Don’t develop awareness of our own thinking\nNo Prediction Error Learning: The fundamental mechanism of learning is bypassed\n\n\n\n\n\nThe Expertise Illusion\nOffloading cognitive processing to AI creates a dangerous illusion:\n\nSurface Fluency: Perfect answers without understanding\nFalse Confidence: Believing we “get it” without practice\nFragile Knowledge: Collapses without AI support\nLimited Transfer: Can’t adapt to novel situations\n\n\n\nResearch Evidence: The Cost of Cognitive Offloading\nRecent studies show alarming impacts of AI use on learning:\n\n68% reduction in critical thinking among knowledge workers with high AI confidence (Lee et al. 2025)\nSurface learning only for programming students using ChatGPT (Yang, Hsu, and Wu 2025)\nDecreased problem-solving ability in math students using AI tools (Bastani et al. 2024)\n“The fluency illusion”: Mistaking AI’s competence for your own"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#the-biological-reality-of-learning",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#the-biological-reality-of-learning",
+    "title": "How Skill Acquisition Works",
+    "section": "The Biological Reality of Learning",
+    "text": "The Biological Reality of Learning\nLearning isn’t just a cognitive process—it’s a biological one that physically changes your brain (Oakley et al. 2025):\n\nSleep Consolidation is Essential\nLearning doesn’t stop when practice ends: - Sharp wave ripples during sleep replay daily experiences - Brain decides what to keep vs. discard - Memories transfer from hippocampus to cortex - New neural connections solidify\nYou can’t download sleep any more than you can download expertise!\n\n\nThe Grokking Phenomenon\nEven machinel learning models show this pattern: - Long plateau with no apparent progress - Sudden jump to generalization - Previously dismissed as “overfitting” - Now recognized as deep pattern learning"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#the-memory-paradox",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#the-memory-paradox",
+    "title": "How Skill Acquisition Works",
+    "section": "The Memory Paradox",
+    "text": "The Memory Paradox\n\n\n\n\n\n\nWarningFlynn Effect Reversal\n\n\n\nSince the 1970s-80s, when education moved away from memorization: - IQ scores began declining for the first time in history - “Why memorize when you can look it up?” became the mantra - Exactly when neuroscience was proving memorization builds critical thinking - We abandoned proven methods just as we discovered why they work (Oakley et al. 2025)"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#building-real-expertise",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#building-real-expertise",
+    "title": "How Skill Acquisition Works",
+    "section": "Building Real Expertise",
+    "text": "Building Real Expertise\n\n\n\n\n\n\nTipEvidence-Based Strategies\n\n\n\n\nEmbrace the Struggle\n\nYour confusion is a necessary stage of learning\nErrors provide valuable prediction error signals\nDifficulty signals brain growth\n\nPractice Retrieval\n\nTest yourself before checking answers\nExplain concepts without notes\nTeach others what you’re learning\n\nSpace Your Learning\n\nReturn to concepts over days/weeks\nAllow forgetting between sessions\nRelearn in different contexts\n\nVary Your Practice\n\nMix problem types\nChange contexts\nSeek novel applications\n\nProtect Your Prediction Errors\n\nMake attempts before seeking help\nNotice when your expectations are wrong\nUse errors as learning opportunities, not failures"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#connecting-to-our-exercise",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#connecting-to-our-exercise",
+    "title": "How Skill Acquisition Works",
+    "section": "Connecting to Our Exercise",
+    "text": "Connecting to Our Exercise\nThe exercise you just completed demonstrated these principles:\n\nWithout AI: You engaged in effortful retrieval and reasoning, generating prediction errors\nWith AI (single prompt): You practiced prompt engineering but bypassed deep thinking\nWith AI (iterative): You maintained some cognitive engagement through questioning\n\nNotice how your understanding differed across modes? That’s the compilation process (or its absence) in action."
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#reflection-questions",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#reflection-questions",
+    "title": "How Skill Acquisition Works",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nWhen have you experienced the satisfaction of mastering something difficult?\nHow might you redesign your learning to embrace rather than avoid cognitive effort?\nWhat would change if we viewed struggle as evidence of growth rather than failure?\nHow can you protect the prediction error cycle in your own learning?"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/skill-acquisition/index.html#quick-reference-how-theories-work-together",
+    "href": "02-wie-menschen-lernen/skill-acquisition/index.html#quick-reference-how-theories-work-together",
+    "title": "How Skill Acquisition Works",
+    "section": "Quick Reference: How Theories Work Together",
+    "text": "Quick Reference: How Theories Work Together\n\nWeak → Strong MethodsKnowledge CompilationRed Flags\n\n\n\n\n\nWeak Methods (Novices)\nStrong Methods (Experts)\n\n\n\n\nMeans-end analysis\nPattern recognition\n\n\nWorking backward from goal\nForward chaining from principles\n\n\nTrial and error\nAutomated procedures\n\n\nSurface analogies\nDeep structure\n\n\nStep-by-step conscious\nChunked automatic\n\n\n\n\n\n\n\n\n\n\n\n\n\nStage\nWhat’s Happening\nTeaching Implications\n\n\n\n\nDeclarative\nFollowing memorized rules\nProvide clear worked examples\n\n\nCompilation\nRepeated sequences chunking\nMany similar practice problems\n\n\nProcedural\nAutomated expertise\nReady for complex applications\n\n\n\n\n\nWatch for these signs of cognitive bypassing:\n\nSmooth performance without ability to explain\nCannot handle problem variations\nNo improvement despite practice\nDependent on AI for basic tasks\nMistaking AI output for understanding\nImmediate AI consultation without attempt\nNo prediction errors (always getting “right” answers)"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/index.html",
+    "href": "02-wie-menschen-lernen/index.html",
+    "title": "Wie Menschen lernen",
+    "section": "",
+    "text": "Warum Anstrengung beim Lernen kein Bug ist—sondern das Feature.",
+    "crumbs": [
+      "2: Lernen",
+      "Wie Menschen lernen"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/index.html#lernpsychologie-trifft-ki-20-min",
+    "href": "02-wie-menschen-lernen/index.html#lernpsychologie-trifft-ki-20-min",
+    "title": "Wie Menschen lernen",
+    "section": "",
+    "text": "Warum Anstrengung beim Lernen kein Bug ist—sondern das Feature.",
+    "crumbs": [
+      "2: Lernen",
+      "Wie Menschen lernen"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/index.html#vom-wissen-zum-können-wie-durch-kognitive-anstrengung-expertise-entsteht",
+    "href": "02-wie-menschen-lernen/index.html#vom-wissen-zum-können-wie-durch-kognitive-anstrengung-expertise-entsteht",
+    "title": "Wie Menschen lernen",
+    "section": " Vom Wissen zum Können: Wie durch kognitive Anstrengung Expertise entsteht",
+    "text": "Vom Wissen zum Können: Wie durch kognitive Anstrengung Expertise entsteht\n    View slides in full screen",
+    "crumbs": [
+      "2: Lernen",
+      "Wie Menschen lernen"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/index.html#die-zentrale-erkenntnis",
+    "href": "02-wie-menschen-lernen/index.html#die-zentrale-erkenntnis",
+    "title": "Wie Menschen lernen",
+    "section": "Die zentrale Erkenntnis",
+    "text": "Die zentrale Erkenntnis\nDas Lernparadox verstehen:\n\nProduktivität ≠ Lernen: KI macht uns produktiver, aber verhindert oft echtes Lernen\nCognitive Load ist essentiell: Ohne kognitive Anstrengung keine Expertise-Entwicklung\nGefühl ≠ Realität: Was sich wie Lernen anfühlt, ist oft das Gegenteil\n\nUnsere Aufgabe: Lernumgebungen mit KI gestalten, die gezielt lernrelevante kognitive Last fördern—z.B. durch die 8 Strategien aus Make-it-Stick (Brown, III, and McDaniel 2014).\n\n\n\n\n\n\nTipÜberleitung zur Praxis\n\n\n\nJetzt seid ihr dran: Entwickelt einen Agent, der wissenschaftlich fundiert eine der 8 Strategien für euer Lehrthema umsetzt.",
+    "crumbs": [
+      "2: Lernen",
+      "Wie Menschen lernen"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/index.html#vertiefende-ressourcen",
+    "href": "02-wie-menschen-lernen/index.html#vertiefende-ressourcen",
+    "title": "Wie Menschen lernen",
+    "section": "Vertiefende Ressourcen",
+    "text": "Vertiefende Ressourcen\n\nDie 8 Make it Stick Strategien im Detail\nAgent-Beispiele für jede Strategie\n\n\nFür das Selbststudium:\n\nWie man Kompetenzen erwirbt - Wissenschaftliche Grundlagen der Expertise-Entwicklung",
+    "crumbs": [
+      "2: Lernen",
+      "Wie Menschen lernen"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/aktive-verarbeitung/index.html",
+    "href": "02-wie-menschen-lernen/aktive-verarbeitung/index.html",
+    "title": "Aktive Verarbeitung",
+    "section": "",
+    "text": "Active-processingThink-Pair-Share: Kognitive Anstrengung und Lernen\n\n\n\n\nThink (5 Minuten)\nIndividuelle Reflexion zu den Fragen:\nWähle eine Frage aus, die dir am ehesten zusagt:\n\nWann hast du die Befriedigung erlebt, etwas Schwieriges gemeistert zu haben?\nWie könntest du dein Lernen neu gestalten, um kognitive Anstrengung zu nutzen statt zu vermeiden?\nWas würde sich ändern, wenn wir Anstrengung als Zeichen von Wachstum statt als Scheitern betrachten?\n\nNotiere kurz:\n\nDeine gewählte Frage und warum sie dich anspricht\nEin konkretes Beispiel aus deiner eigenen Lern-/Lehrerfahrung\nEine konkrete Veränderung, die du basierend auf dieser Erkenntnis vornehmen könntest\n\n\n\nPair (5 Minuten)\nFinde eine*n Partner*in und:\n\nJe 2 Minuten zum Teilen der gewählten Frage und des Beispiels\n1 Minute gemeinsam, um ein gemeinsames Thema zwischen euren Erfahrungen zu identifizieren\n\n\n\nShare (5 Minuten)\nJedes Paar trägt eine Erkenntnis zur gesamten Gruppe bei:\n\n“Wir haben beide bemerkt, dass…” oder “Ein Muster, das wir sahen, war…”\nFokus auf praktische Implikationen für die Lehrpraxis\n\n\n\n\n\n\n\n Back to topReuseCC BY 4.0"
+  },
+  {
+    "objectID": "workshop/index.html",
+    "href": "workshop/index.html",
+    "title": "Ablauf",
+    "section": "",
+    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nAktivierende Begrüssung\n10 min\n\n\n09:10 - 10:10\n Teil 1: KI verstehen\n\n\n\n\nHauptpräsentation: KI & Agents\n60 min\n\n\n10:10 - 10:25\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:25 - 10:45\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n20 min\n\n\n10:45 - 11:45\n Teil 3: KI-gestütztes Lerndesign\n\n\n\n\nThink-Pair-Share: Agent-Design\n60 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
+    "crumbs": [
+      "Workshop",
+      "Ablauf"
+    ]
+  },
+  {
+    "objectID": "workshop/index.html#workshop-ablauf-ki-in-der-lehre-intermediate-3-stunden",
+    "href": "workshop/index.html#workshop-ablauf-ki-in-der-lehre-intermediate-3-stunden",
+    "title": "Ablauf",
+    "section": "",
+    "text": "Zeit\n Thema\n Dauer\n\n\n\n\n09:00 - 09:10\n Einstieg\n\n\n\n\nAktivierende Begrüssung\n10 min\n\n\n09:10 - 10:10\n Teil 1: KI verstehen\n\n\n\n\nHauptpräsentation: KI & Agents\n60 min\n\n\n10:10 - 10:25\n Pause\n\n\n\n\nKaffee\n15 min\n\n\n10:25 - 10:45\n Teil 2: Lernen verstehen\n\n\n\n\nWie Menschen lernen\n20 min\n\n\n10:45 - 11:45\n Teil 3: KI-gestütztes Lerndesign\n\n\n\n\nThink-Pair-Share: Agent-Design\n60 min\n\n\n11:45 - 12:00\n Transfer & Abschluss\n\n\n\n\nUmsetzung & nächste Schritte\n15 min",
+    "crumbs": [
+      "Workshop",
+      "Ablauf"
+    ]
+  },
+  {
+    "objectID": "workshop/index.html#lernziele",
+    "href": "workshop/index.html#lernziele",
+    "title": "Ablauf",
+    "section": "Lernziele",
+    "text": "Lernziele\nAm Ende des Workshops können die Teilnehmer:\n\nKI verstehen: Unterschied zwischen Tools und Agents erkennen\nLernen verstehen: Wissenschaftlich etablierte Lernstrategien anwenden\nPraxis umsetzen: Einen Copilot Agent für ihr eigenes Lehrthema konzipieren\nTransfer leisten: Konkrete nächste Schritte für die eigene Lehre formulieren",
+    "crumbs": [
+      "Workshop",
+      "Ablauf"
+    ]
+  },
+  {
+    "objectID": "workshop/index.html#vorbereitung",
+    "href": "workshop/index.html#vorbereitung",
+    "title": "Ablauf",
+    "section": "Vorbereitung",
+    "text": "Vorbereitung\n\nInhaltliche Vorbereitung (10 Min.)\nWähle ein Thema aus deiner Lehre, das du im Workshop bearbeiten möchtest (z.B. ein schwieriges Konzept, ein Prüfungsthema, ein häufiges Verständnisproblem). Überlege dir dazu:\n\nWelche Hürden haben mein Studierende beim Lernen?\nWie könnten KI-Tools dabei helfen?\n\n\n\nLektüre und Reflexion (15 Min.)\nLies diesen Blog Post von Barbara Geyer zum Thema Künstliche Intelligenz und Lernstrategien. Notiere dir:\n\nWelche der Strategien sind für deine Lehre spannend?\nWie wirken die gezeigten Prompting-Ansätze auf dich?\nWas würdest du verbessern oder anders formulieren?",
+    "crumbs": [
+      "Workshop",
+      "Ablauf"
+    ]
+  },
+  {
+    "objectID": "workshop/diskussion/index.html",
+    "href": "workshop/diskussion/index.html",
+    "title": "Transfer & Abschluss",
+    "section": "",
+    "text": "Entwickle deinen konkreten nächsten Schritt:\n\n\n\nWelche Make-it-Stick-Strategie will ich als erstes umsetzen?\nWelches Agent-Konzept ist realistisch für meine Lehre?\nWas ist mein konkreter erster Schritt?\n\n\n\n\n\nTool-Wahl: GPT, Copilot, oder andere KI-Tools?\nPilotversuch: Wo teste ich meinen Agent zuerst?\nErfolg messen: Woran erkenne ich, dass es funktioniert?\n\n\n\n\n\n\n\n\n\n\n\nJeder teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop\nEinen konkreten nächsten Schritt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nWissenschaftlich fundierter KI Einsatz bedeutet: KI-Tools sollen die bewährten Lernstrategien fördern, nicht ersetzen.",
+    "crumbs": [
+      "Workshop",
+      "Transfer & Abschluss"
+    ]
+  },
+  {
+    "objectID": "workshop/diskussion/index.html#von-der-idee-zur-umsetzung-15-min",
+    "href": "workshop/diskussion/index.html#von-der-idee-zur-umsetzung-15-min",
+    "title": "Transfer & Abschluss",
+    "section": "",
+    "text": "Entwickle deinen konkreten nächsten Schritt:\n\n\n\nWelche Make-it-Stick-Strategie will ich als erstes umsetzen?\nWelches Agent-Konzept ist realistisch für meine Lehre?\nWas ist mein konkreter erster Schritt?\n\n\n\n\n\nTool-Wahl: GPT, Copilot, oder andere KI-Tools?\nPilotversuch: Wo teste ich meinen Agent zuerst?\nErfolg messen: Woran erkenne ich, dass es funktioniert?\n\n\n\n\n\n\n\n\n\n\n\nJeder teilt in 30 Sekunden:\n\nEine Erkenntnis aus dem heutigen Workshop\nEinen konkreten nächsten Schritt\n\n\n\n\n\n\n\nTipTake-Away Message\n\n\n\nWissenschaftlich fundierter KI Einsatz bedeutet: KI-Tools sollen die bewährten Lernstrategien fördern, nicht ersetzen.",
+    "crumbs": [
+      "Workshop",
+      "Transfer & Abschluss"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "KI in der Lehre: Intermediate",
+    "section": "",
+    "text": "19. September 2025\n9:00–12:00 Uhr\nS112 Seminarraum, Hallerstrasse 8, 3012 Bern"
+  },
+  {
+    "objectID": "index.html#dozent",
+    "href": "index.html#dozent",
+    "title": "KI in der Lehre: Intermediate",
+    "section": "Dozent",
+    "text": "Dozent\nDr. Andrew Ellis ist Kognitionspsychologe und Wissenschaftlicher Mitarbeiter an der Virtuellen Akademie der Berner Fachhochschule. Er erforscht, wie künstliche Intelligenz in Bildungssystemen wirkungsvoll eingesetzt werden kann."
+  },
+  {
+    "objectID": "index.html#website",
+    "href": "index.html#website",
+    "title": "KI in der Lehre: Intermediate",
+    "section": "Website",
+    "text": "Website\n virtuelleakademie.github.io/ki-lehre-intermediate/"
+  },
+  {
+    "objectID": "workshop/einstieg/index.html",
+    "href": "workshop/einstieg/index.html",
+    "title": "Aktivierende Einstieg",
+    "section": "",
+    "text": "Stelle dich kurz vor:\n\nName & Institut\nKI-Erfahrung (Skala 0-10)\nLehrthema das du heute mitgebracht hast",
+    "crumbs": [
+      "Workshop",
+      "Aktivierende Einstieg"
+    ]
+  },
+  {
+    "objectID": "workshop/einstieg/index.html#kurze-vorstellungsrunde-5-min",
+    "href": "workshop/einstieg/index.html#kurze-vorstellungsrunde-5-min",
+    "title": "Aktivierende Einstieg",
+    "section": "",
+    "text": "Stelle dich kurz vor:\n\nName & Institut\nKI-Erfahrung (Skala 0-10)\nLehrthema das du heute mitgebracht hast",
+    "crumbs": [
+      "Workshop",
+      "Aktivierende Einstieg"
+    ]
+  },
+  {
+    "objectID": "workshop/einstieg/index.html#heute-entwickeln-wir-gemeinsam-5-min",
+    "href": "workshop/einstieg/index.html#heute-entwickeln-wir-gemeinsam-5-min",
+    "title": "Aktivierende Einstieg",
+    "section": "Heute entwickeln wir gemeinsam (5 Min)",
+    "text": "Heute entwickeln wir gemeinsam (5 Min)\nUnser Ziel: Jeder entwickelt einen wissenschaftlich fundierten Copilot Agent für sein eigenes Lehrthema.\n\nWas ihr mitgebracht habt:\n\nEuer spezifisches Lehrthema (aus der Vorbereitung)\nKonkrete Lernprobleme eurer Studierenden\nErste Ideen für KI-Unterstützung\n\n\n\nWas ihr heute lernt:\n\nUnterschied zwischen Tools und Agents\n8 wissenschaftlich bewährte Lernstrategien\nPraktisches Agent-Design mit Think-Pair-Share\nKonkrete Umsetzung für eure Lehre",
+    "crumbs": [
+      "Workshop",
+      "Aktivierende Einstieg"
+    ]
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html",
+    "href": "01-ki-verstehen/index.html",
+    "title": "KI verstehen",
+    "section": "",
+    "text": "In diesem ersten Teil des Workshops legen wir die Grundlagen für ein fundiertes Verständnis von Künstlicher Intelligenz im Bildungskontext. Wir beginnen mit einer klaren Einordnung, was KI ist und wie sie funktioniert – insbesondere die Large Language Models (LLMs), die hinter Chatbots wie ChatGPT stehen. Du lernst die Mechanismen der Textvorhersage kennen, verstehst die Stärken und Grenzen dieser Technologie und erhältst praktische Einblicke ins effektive Prompting.\nDieses Grundverständnis ist essentiell, um später informierte Entscheidungen über den didaktisch sinnvollen Einsatz von KI in deiner Lehre treffen zu können. Der Fokus liegt dabei nicht auf technischen Details, sondern auf dem für die Lehre relevanten Verständnis: Was kann KI leisten, was nicht, und was bedeutet das für das Lernen deiner Studierenden?"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#was-ist-künstliche-intelligenz",
+    "href": "01-ki-verstehen/index.html#was-ist-künstliche-intelligenz",
+    "title": "KI verstehen",
+    "section": " Was ist Künstliche Intelligenz",
+    "text": "Was ist Künstliche Intelligenz\n\n\n\n\n\n\nNoteOptional\n\n\n\n\n\n    View slides in full screen"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#wie-funktionieren-chatbots",
+    "href": "01-ki-verstehen/index.html#wie-funktionieren-chatbots",
+    "title": "KI verstehen",
+    "section": " Wie funktionieren Chatbots?",
+    "text": "Wie funktionieren Chatbots?\n    View slides in full screen"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#aktive-verarbeitung",
+    "href": "01-ki-verstehen/index.html#aktive-verarbeitung",
+    "title": "KI verstehen",
+    "section": " Aktive Verarbeitung",
+    "text": "Aktive Verarbeitung\n\n\n\n\n\n\nActive-processingWie funktionieren LLMs? (5 Min)\n\n\n\n\n\nAufgabe: Erkläre deinem Nachbarn in eigenen Worten:\nPhase 1 (2 Min): Partner A erklärt Partner B:\n\nWie “lernt” ein LLM aus Texten?\nWas bedeutet “Vorhersage des nächsten Wortes”?\n\nPhase 2 (2 Min): Partner B erklärt Partner A:\n\nWas können LLMs?\nWas können sie nicht?\n\nPhase 3 (1 Min): Gemeinsam identifizieren:\n\nWas sind die Implikationen für das Lernen eurer Studierenden?"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#was-sind-agents",
+    "href": "01-ki-verstehen/index.html#was-sind-agents",
+    "title": "KI verstehen",
+    "section": " Was sind Agents?",
+    "text": "Was sind Agents?\n    View slides in full screen"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#möglichkeiten-und-grenzen",
+    "href": "01-ki-verstehen/index.html#möglichkeiten-und-grenzen",
+    "title": "KI verstehen",
+    "section": " Möglichkeiten und Grenzen",
+    "text": "Möglichkeiten und Grenzen\n    View slides in full screen"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#prompting-tipps",
+    "href": "01-ki-verstehen/index.html#prompting-tipps",
+    "title": "KI verstehen",
+    "section": " Prompting Tipps",
+    "text": "Prompting Tipps\n\n\n\n\n\n\nNoteOptional\n\n\n\n\n\n    View slides in full screen"
+  },
+  {
+    "objectID": "01-ki-verstehen/index.html#weiterführende-kurse",
+    "href": "01-ki-verstehen/index.html#weiterführende-kurse",
+    "title": "KI verstehen",
+    "section": " Weiterführende Kurse",
+    "text": "Weiterführende Kurse\n\nKI in der Lehre: Beginner\nKI in der Lehre: Intermediate\nKI in der Lehre: Advanced\nKI in der Lehre: Refresher"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/how-humans-learn/index.html",
+    "href": "02-wie-menschen-lernen/how-humans-learn/index.html",
+    "title": "How Humans Learn",
+    "section": "",
+    "text": "This presentation reveals why offloading cognitive processing to AI can undermine the development of genuine expertise. Through ACT-R (Anderson 2013, 2007) theory, it explains how learning transforms declarative knowledge into procedural skills via productive struggle. The process involves grappling with confusion, making mistakes, and adjusting strategies—steps that are easily bypassed when using AI.\nThe key takeaway: Struggling, confusion and effort aren’t obstacles to learning—they’re the very mechanisms that build lasting expertise."
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/how-humans-learn/index.html#presentation",
+    "href": "02-wie-menschen-lernen/how-humans-learn/index.html#presentation",
+    "title": "How Humans Learn",
+    "section": " Presentation",
+    "text": "Presentation\n    View slides in full screen"
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "",
+    "text": "Expertise erfordert schrittweisen Kompetenzaufbau durch schwache → starke Methoden\nKognitive Anstrengung ist kein Fehler, sondern die Funktion, die Lernen durch Vorhersagefehler ermöglicht\nOffloading an KI umgeht genau die Anstrengungen, die dauerhafte Fähigkeiten aufbauen\nExpertenmethoden schaden Anfängern aktiv, indem sie kognitive Überlastung und Abhängigkeit erzeugen\nEchtes Verständnis entsteht durch tausende anstrengende Übungszyklen mit Vorhersagefehlern\nWähle deine Werkzeuge mit Bedacht: Nutze KI, um irrelevante kognitive Belastung zu reduzieren, nicht um essentielles Lernen zu überspringen",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#zentrale-erkenntnisse",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#zentrale-erkenntnisse",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "",
+    "text": "Expertise erfordert schrittweisen Kompetenzaufbau durch schwache → starke Methoden\nKognitive Anstrengung ist kein Fehler, sondern die Funktion, die Lernen durch Vorhersagefehler ermöglicht\nOffloading an KI umgeht genau die Anstrengungen, die dauerhafte Fähigkeiten aufbauen\nExpertenmethoden schaden Anfängern aktiv, indem sie kognitive Überlastung und Abhängigkeit erzeugen\nEchtes Verständnis entsteht durch tausende anstrengende Übungszyklen mit Vorhersagefehlern\nWähle deine Werkzeuge mit Bedacht: Nutze KI, um irrelevante kognitive Belastung zu reduzieren, nicht um essentielles Lernen zu überspringen",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#die-reise-vom-anfänger-zum-experten",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#die-reise-vom-anfänger-zum-experten",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Die Reise vom Anfänger zum Experten",
+    "text": "Die Reise vom Anfänger zum Experten\nWenn wir neue Fähigkeiten erlernen, durchläuft unser Gehirn eine bemerkenswerte Transformation. Das Verständnis dieses Prozesses hilft uns zu erkennen, warum das Auslagern kognitiver Prozesse an KI die Entwicklung echter Expertise verhindern kann – und warum Expertenwerkzeuge Anfängern aktiv schaden können.",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#die-progression-von-schwachen-zu-starken-methoden",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#die-progression-von-schwachen-zu-starken-methoden",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Die Progression von schwachen zu starken Methoden",
+    "text": "Die Progression von schwachen zu starken Methoden\nNach John Andersons ACT-R-Theorie (Anderson 1982, 2007) entwickelt sich Expertise durch eine vorhersehbare Progression:\n\n1. Schwache Methoden (Anfänger-Stadium)\nSchwache Methoden sind domänenübergreifende Problemlösungsstrategien, die Anfänger verwenden, wenn ihnen spezifisches Wissen fehlt:\n\nMittel-Ziel-Analyse: Was ist der Unterschied zwischen meinem aktuellen Stand und dem Ziel?\nRückwärtsarbeiten: Vom Ziel zurück zum Ausgangszustand gehen\nAnalogie: Das erinnert mich an... (oft basierend auf Oberflächenmerkmalen)\nVersuch und Irrtum: Ich probiere Verschiedenes aus, bis etwas funktioniert\nBergsteigen: Immer in Richtung dessen bewegen, was besser erscheint\n\n\n\n\n\n\n\nNoteBeispiel: Anfänger löst \\(3x + 5 = 20\\)\n\n\n\nMit schwachen Methoden:\n\nZiel ist, \\(x\\) zu finden\nAktueller Zustand: \\(3x + 5 = 20\\)\nWie kann ich den Unterschied verringern?\nVielleicht \\(5\\) subtrahieren?\nWarum? Ähm… um \\(x\\) allein zu bekommen?\nOk, also \\(3x = 15\\)\nWas reduziert jetzt den Unterschied?\nDurch \\(3\\) teilen?\n\\(x = 5\\)\n\nBeachte das überlegte, schrittweise Vorgehen!\n\n\n\n\n2. Prozeduralisierung (Fortgeschrittenen-Stadium)\n\nWiederkehrende Muster werden zu Prozeduren\nImmer noch bewusst, aber flüssiger\nGeringere kognitive Belastung\nSchneller mit weniger Fehlern\nBeispiel: Nutzung des Einmaleins aus dem Gedächtnis\n\nIn dieser Phase beginnen sich Produktionsregeln zu bilden. Das sind WENN-DANN-Bedingungs-Aktionspaare:\n\nWENN ich “3 × 4” sehe DANN antworte “12”\nWENN eine Gleichung die Form \\(ax + b = c\\) hat DANN subtrahiere b von beiden Seiten\nWENN der Code nicht kompiliert DANN prüfe zuerst auf Syntaxfehler\n\n\n\n3. Kompilierung (Experten-Stadium)\n\nWissen wird durch zahlreiche Übungsdurchläufe automatisch\nMustererkennung dominiert\nMinimale kognitive Belastung\nSchnell und fehlerfrei\nKann die Schritte nicht mehr erklären!\n\nProduktionsstärke bestimmt, welche Regeln ausgelöst werden: Häufig erfolgreiche Regeln werden stärker und schneller aktiviert. Deshalb verbessert Übung sowohl die Geschwindigkeit ALS AUCH die Genauigkeit – stärkere Produktionen setzen sich gegen schwächere Alternativen durch.\n\n\n\n\n\n\nNoteBeispiel: Experte löst \\(3x + 5 = 20\\)\n\n\n\nExperte sieht die Gleichung und erkennt sofort → \\(x = 5\\)\nWenn nach Erklärung gefragt:\n\n“Ich weiß es einfach…”\n“Du subtrahierst 5 und teilst durch 3”\n“Wie wusste ich das? Ich bin mir nicht sicher…”\n\nDas Wissen ist zu automatischen Prozeduren kompilert.",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#warum-kognitive-anstrengung-zählt-die-biologie-des-lernens",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#warum-kognitive-anstrengung-zählt-die-biologie-des-lernens",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Warum kognitive Anstrengung zählt: Die Biologie des Lernens",
+    "text": "Warum kognitive Anstrengung zählt: Die Biologie des Lernens\n\nDas Vorhersagefehler-Lernsystem\nDas menschliche Gehirn lernt durch ein ausgefeiltes Vorhersagefehler-System, das leicht umgangen werden kann, wenn die kognitive Verarbeitung ausgelagert wird. Diese biologische Realität erklärt, warum Anstrengung für das Lernen unerlässlich ist.",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#cognitive-load-theory-verstehen",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#cognitive-load-theory-verstehen",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Cognitive Load Theory verstehen",
+    "text": "Cognitive Load Theory verstehen\n\nDie evolutionäre Grundlage des Lernens\nDie Cognitive Load Theory (CLT) (Sweller 2023) beschäftigt sich speziell damit, wie Menschen biologisch sekundäres Wissen erwerben – das akademische Wissen, das Schulen vermitteln sollen. Das Verständnis dieses Unterschieds ist entscheidend, um zu begreifen, warum KI das Lernen so tiefgreifend stören kann.\n\nBiologisch primäres vs. sekundäres Wissen\n\n\n\n\n\n\n\nWissenstyp\nBeispiele\n\n\n\n\nBiologisch primär (wir sind dafür evolutionär angepasst)\n• Gesichter und Stimmen erkennen• Soziale Interaktionen verstehen• Gesprochene Sprache lernen• Räumliche Orientierung• Gefahr und Sicherheit erkennen\n\n\nBiologisch sekundär (wir sind NICHT dafür evolutionär angepasst)\n• Lesen und Schreiben• Mathematik und Algebra• Programmieren und Datenanalyse• Wissenschaftliches Denken• Historische Analyse\n\n\n\n\n\n\n\n\n\nImportantWarum diese Unterscheidung wichtig ist\n\n\n\n\nPrimäres Wissen kann durch natürliche Entdeckung und Spiel erlernt werden\nSekundäres Wissen erfordert explizite Instruktion und angeleitetes Üben\nSchulen existieren, weil sich sekundäres Wissen nicht natürlich entwickelt\nKI-Störung ist besonders schädlich für den Erwerb sekundären Wissens\n\n\n\n\n\n\nDie kognitive Architektur des Lernens\nCLT basiert darauf, wie die menschliche Kognition Informationen verarbeitet und nutzt eine Architektur, die die Evolution durch natürliche Selektion widerspiegelt (Sweller 2023):\n\nZwei Wege für neue Informationen\nMenschen können neues biologisch sekundäres Wissen auf zwei Arten erwerben:\n\nEntdeckung durch Problemlösen: Eigenständiges Durcharbeiten von Herausforderungen\nLernen von anderen: Aufnahme von Informationen durch Instruktion\n\nEntscheidend: Beide Erwerbsarten sind selbst biologisch primär – wir sind hervorragend darin, Dinge zu entdecken und von anderen zu lernen. Deshalb dominieren Menschen die Säugetierwelt.\n\n\nDie Engstelle der Verarbeitung\nSobald Information durch einen der beiden Wege erworben wurde, muss sie verarbeitet werden durch:\nArbeitsgedächtnis:\n\nStark begrenzte Kapazität (Millers 7±2, neuer: Cowans 4±1 Chunks)\nStark begrenzte Dauer (15–30 Sekunden ohne Wiederholung)\nDie Engstelle, in der alles bewusste Lernen stattfindet\n\nLangzeitgedächtnis:\n\nKeine bekannten Begrenzungen für Kapazität oder Dauer\nHier lebt die Expertise durch fachspezifische Informationsspeicherung\nDas Ziel aller Instruktion\n\n\n\n\n\n\n\nNoteElementinteraktivität in der Praxis\n\n\n\nBetrachte das Lösen: \\((x + 3)(x - 2) = 0\\)\nFür einen Anfänger muss jedes Element im Arbeitsgedächtnis gehalten werden:\n\nWas \\(x\\) bedeutet\nDie Bedeutung der Klammern\nAdditions- und Subtraktionsoperationen\nImplizite Multiplikation\nDie Bedeutung von „gleich Null“\nWie man Lösungen findet\n\nInsgesamt: 7+ interagierende Elemente = Überlastung des Arbeitsgedächtnisses\nFür einen Experten ist das ein Chunk aus dem Langzeitgedächtnis: - “Faktorisierte Form, also \\(x = -3\\) oder \\(x = 2\\)”\nInsgesamt: 1 Chunk = Minimale Belastung des Arbeitsgedächtnisses\nBeim Auslagern an KI: - Eingabe → Antwort\nInsgesamt: 0 Arbeitsgedächtnisverarbeitung = Kein Lernen, keine Speicherung im Langzeitgedächtnis\n\n\n\n\n\nWie Expertise wirklich entsteht\nWie De Groot 1965 erstmals zeigte (Groot and Groot 1978; Sweller 2024), ist Expertise fächerspezifisch und resultiert aus riesigen Mengen fachspezifischer Informationen im Langzeitgedächtnis. Das ist nicht einfach “mehr Fakten wissen”, sondern organisierte Wissensstrukturen (Schemata), die Experten ermöglichen:\n\nMehrere Elemente zu Chunks bündeln\nMuster automatisch erkennen\nProzeduren ohne bewusste Anstrengung abrufen\nDas Arbeitsgedächtnis für höheres Denken freimachen",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#das-ki-bypass-problem",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#das-ki-bypass-problem",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Das KI-Bypass-Problem",
+    "text": "Das KI-Bypass-Problem\n\nWie KI die kognitive Architektur stört\nDas Auslagern kognitiver Prozesse an KI kann das gesamte Lernsystem kurzschließen:\n\nUmgeht Verarbeitung im Arbeitsgedächtnis: Keine kognitive Anstrengung bedeutet keine Kodierung\nVerhindert Speicherung im Langzeitgedächtnis: Unverarbeitete Informationen werden nicht gespeichert\nEliminiert Schemabildung: Lernende erhalten Antworten, ohne Wissensstrukturen aufzubauen\nBlockiert den Übergang vom Anfänger zum Experten: Kein Weg von begrenztem zu unbegrenztem Wissen\n\n\n\n\n\n\n\nDas Grundproblem: KI bietet die Vorteile von Expertise (sofortiger Zugriff auf organisiertes Wissen), ohne den Prozess, der Expertise schafft (Arbeitsgedächtnisanstrengung → Speicherung im Langzeitgedächtnis).",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#pädagogische-implikationen",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#pädagogische-implikationen",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Pädagogische Implikationen",
+    "text": "Pädagogische Implikationen\n\nDie Experten-Anfänger-Unterrichtsfalle\nDer gefährlichste Fehler in der Bildung ist anzunehmen, dass Anfänger so lernen sollten, wie Experten arbeiten. Das führt zu dem, was Kirschner (Kirschner, Hendrick, and Heal 2022) als Verwechslung der „Epistemologie des Experten mit der Pädagogik für Lernende“ bezeichnet.\nWas Experten tun (Wissen produzieren):\n\nArbeiten von automatisierten Prinzipien aus vorwärts\nErkennen tiefe Muster sofort\nWenden starke, fachspezifische Methoden an\nErschaffen und entdecken neues Wissen\nVerarbeiten mehrere Elemente gleichzeitig\n\nWas Anfänger brauchen (Wissen lernen):\n\nRückwärtsarbeiten mit Mittel-Ziel-Analyse\nGrundlegende Mustererkennung durch Übung aufbauen\nMit schwachen, allgemeinen Methoden beginnen\nVorhandenes Wissen rekonstruieren und verstehen\nElemente nacheinander verarbeiten, um Überlastung zu vermeiden\n\n\n\nWarum Expertenmethoden Anfängern aktiv schaden\nAnfängern Expertenwerkzeuge zu geben, ist nicht nur ineffektiv – es ist aktiv schädlich für das Lernen:\n\n1. Mismatch der kognitiven Belastung (cognitive load)\n\nExperten können viele Elemente verarbeiten, weil sie diese zu Mustern gebündelt haben\nAnfänger werden mit derselben Komplexität überfordert\nErgebnis: Kognitive Überlastung verhindert jegliches Lernen\n\n\n\n2. Störung der Produktionsregeln\n\nExperten haben starke, erfolgreiche Produktionsregeln, die automatisch feuern\nAnfänger müssen diese Regeln durch wiederholte Anwendung schwacher Methoden aufbauen\nKI-Abkürzungen verhindern die notwendige Wiederholung zur Stärkung der Regeln\nErgebnis: Schwache Regeln entwickeln sich nie, dauerhafte Abhängigkeit bleibt\n\n\n\n3. Schemabildungs-Bypass\n\nExperten haben reichhaltige Schemata, aufgebaut durch Erfahrung\nAnfänger müssen diese Schemata Element für Element konstruieren\nKI-Antworten liefern das Ergebnis ohne den Konstruktionsprozess\nErgebnis: Es entstehen keine Schemata, Transfer auf neue Situationen ist unmöglich\n\n\n\n4. Metakognitive Schädigung\n\nExperten wissen, wann und warum sie verschiedene Strategien anwenden\nAnfänger entwickeln dieses Bewusstsein durch Überwachung des eigenen Denkens\nKI-Abhängigkeit beseitigt die Notwendigkeit zur Selbstüberwachung\nErgebnis: Lernende können ihr eigenes Verständnis nicht mehr bewerten\n\n\n\n\n\n\n\nWarningDie Abhängigkeitskaskade\n\n\n\nWenn Anfänger zu früh Expertenwerkzeuge nutzen:\n\nAnfänglicher Erfolg schafft falsches Selbstvertrauen\nSchwache Methoden verkümmern durch Nichtgebrauch\nProblemlösefähigkeiten verschlechtern sich ohne Übung\nAbhängigkeit vertieft sich, da interne Fähigkeiten schwinden\nTransfer scheitert, wenn KI nicht verfügbar ist\nErlernte Hilflosigkeit entsteht bei neuen Herausforderungen\n\nDas ist nicht nur „kein Lernen“, sondern Verlernen vorhandener Fähigkeiten.\n\n\n\n\n\nLehren im Einklang mit dem Gehirn\n\nPrinzip 1: Die Entwicklungssequenz respektieren\n\nSchwache Methoden müssen zuerst kommen – sie sind keine Fehler, sondern notwendig\nProzeduralisierung erfordert umfangreiche Übung mit überlegten Prozessen\nKompilierung geschieht automatisch nach ausreichender Wiederholung\n\n\n\nPrinzip 2: Kognitive Belastung kalibrieren\n\nAnfänger brauchen vereinfachte, sequenzielle Darstellung\nExperten können komplexe, parallele Verarbeitung bewältigen\nDasselbe Material muss je nach Expertenniveau unterschiedlich präsentiert werden\n\n\n\nPrinzip 3: Das „Struggle Window“ schützen\n\nGenügend Zeit für eigenständiges Ringen vor KI-Konsultation geben\nDenkprozesse dokumentieren, bevor externe Hilfe gesucht wird\nMehrere Versuche, bevor Lösungen zugänglich sind\n\n\n\nPrinzip 4: Scaffolding statt Substitution\n\nKI nutzen, um irrelevante kognitive Belastung zu reduzieren, nicht jede Anstrengung zu eliminieren\nDurchgearbeitete Beispiele liefern, die den Prozess zeigen, nicht nur die Antworten\nUnterstützung schrittweise abbauen, sobald Kompetenz entsteht (Scaffolding)\n\n\n\n\nWie Vorhersagefehler Lernen antreiben\n\nWie Vorhersagefehler Lernen antreiben\nSchritt 1: Bildung einer Vorhersage\nBeim Auftreten eines Problems prognostiziert das Gehirn automatisch, was passieren sollte – basierend auf dem aktuellen Wissen:\n\n„Wenn ich 5 von beiden Seiten subtrahiere, komme ich näher an \\(x\\) heran“\n„Wenn ich diese Formel anwende, sollte ich das richtige Ergebnis bekommen“\n„Diese Code-Struktur sollte kompilieren“\n\nSchritt 2: Realitätsabgleich\nMan versucht eine Lösung und vergleicht das tatsächliche Ergebnis mit der Vorhersage:\n\nPositiver Vorhersagefehler: „Das lief besser als erwartet!“\nNegativer Vorhersagefehler: „Das hat nicht wie gedacht funktioniert“\nNull-Fehler: „Es lief genau wie vorhergesagt“\n\nSchritt 3: Neuronales Update\nDas Gehirn nutzt diese Fehler zur Anpassung des Wissens:\n\nDopamin-Ausschüttung markiert Vorhersagefehler als wichtige Lernmomente\nEligibility Traces markieren beteiligte neuronale Pfade zur Stärkung\nSynaptische Gewichte werden je nach Fehlergröße angepasst\nKonsolidierung im Schlaf macht diese Änderungen dauerhaft\n\n\n\n\n\n\n\nNoteBeispiel: Algebra durch Vorhersagefehler lernen\n\n\n\n\n\nVersuch 1: Lernender denkt „Ich muss die 5 eliminieren, also addiere ich 5 auf beiden Seiten“\n\nVorhersage: Das sollte helfen, \\(x\\) zu finden\nRealität: Erhält \\(3x + 10 = 25\\) (weiter vom Ziel entfernt)\nVorhersagefehler: Negativ! Dieser Ansatz verschlechtert es\nLernen: Gehirn markiert „gleiches Hinzufügen“ als erfolglos\n\nVersuch 2: Lernender versucht „Ich subtrahiere 5 von beiden Seiten“\n\nVorhersage: Das könnte besser funktionieren\nRealität: Erhält \\(3x = 15\\) (viel sauberer!)\nVorhersagefehler: Positiv! Ansatz funktioniert\nLernen: Gehirn stärkt „Subtrahiere zur Isolierung“-Pfad\n\nNach vielen Zyklen: Die Regel „Subtrahiere zur Isolierung“ wird automatisch\n\n\n\n\n\nWarum das Auslagern kognitiver Prozesse an KI das Lernsignal eliminiert\nKI liefert sofort perfekte Antworten:\n\nKeine Vorhersagephase (Lernende generieren keine Erwartungen)\nKeine Versuch-Phase (es werden keine Lösungen ausprobiert)\nKeine Fehlerphase (kein Vergleich zwischen Erwartung und Realität)\nErgebnis: Null Vorhersagefehler = kein Lernsiganl\n\nDas Gehirn hat buchstäblich nichts, woraus es lernen kann, weil der Vorhersagefehler-Zyklus nie stattfindet.\nDas erklärt, warum Lernende hunderte Beispiele anschauen oder tausende korrekte KI-Antworten bekommen und trotzdem nicht lernen. Lernen braucht Fehler, nicht Perfektion.\n\n\n\nDas Prinzip der “Desirable Difficulties”\nLernen erfordert sogenannte “desirable difficulties” (Bjork and Bjork 2011) – Herausforderungen, die sich schwierig anfühlen, aber das langfristige Behalten fördern:\n\nAbrufübung: Abrufen aus dem Gedächtnis stärkt es\nVerteiltes Wiederholen: Vergessen und erneutes Lernen schafft dauerhaftes Wissen\nInterleaving: Verschiedene Problemarten mischen fördert Unterscheidungsfähigkeit\nGenerierung: Selbst Antworten erstellen (auch falsche) ist besser als Konsum\n\n\n\nDer Kompilierungsprozess\nEchte Expertise entsteht durch tausende Übungszyklen:\nProblem begegnen → Vorhersage treffen → Lösung versuchen → Mit Vorhersage vergleichen → Feedback bekommen → Neuronale Anpassung  \n↓  \nNeuronaler Pfad wird gestärkt  \n↓  \nMuster wird automatisch\nJeder Zyklus:\n\nStärkt neuronale Verbindungen durch Vorhersagefehler\nVerringert die Bearbeitungszeit durch Wiederholung\nEntlastet das Arbeitsgedächtnis für höheres Denken\nErmöglicht kreatives Problemlösen durch starke Grundlagen\n\nSo funktioniert Expertise wirklich: Bei einem Problem konkurrieren mehrere Produktionsregeln. Die Regel mit dem höchsten „Nutzen“ (basierend auf vergangenem Erfolg durch Vorhersagefehler) setzt sich durch. Jede erfolgreiche Anwendung stärkt diese Regel, wodurch sie künftig wahrscheinlicher gewinnt. Deshalb wirken Experten, als „wüssten sie es einfach“ – ihre stärksten Produktionen feuern automatisch.\n\n\nWas wir verlieren, wenn wir die Anstrengung überspringen\n\n\n\n\n\n\nWarningWas wir verlieren\n\n\n\n\nKeine Gedächtnisbildung: Das Gehirn kodiert nicht, was es nicht verarbeitet\nKeine Musterentwicklung: Können nicht erkennen, was wir nicht geübt haben\nKeine Transferfähigkeit: Können ungeübte Prinzipien nicht auf neue Kontexte anwenden\nKeine Metakognition: Entwickeln kein Bewusstsein über das eigene Denken\nKein Lernen durch Vorhersagefehler: Der fundamentale Lernmechanismus wird umgangen\n\n\n\n\n\nDie Expertise-Illusion\nDas Auslagern kognitiver Prozesse an KI erzeugt eine gefährliche Illusion:\n\nOberflächenflüssigkeit: Perfekte Antworten ohne Verständnis\nFalsches Selbstvertrauen: Glauben, es „verstanden zu haben“ ohne Übung\nFragiles Wissen: Bricht ohne KI-Unterstützung zusammen\nBegrenzter Transfer: Kann nicht auf neue Situationen angewandt werden\n\n\n\nForschungsergebnisse: Die Kosten des kognitiven Auslagerns\nAktuelle Studien zeigen alarmierende Auswirkungen von KI-Nutzung auf das Lernen:\n\nWeniger kritisches Denken bei Wissensarbeitenden mit hoher KI-Vertrauenswürdigkeit (Lee et al. 2025)\nNur oberflächliches Lernen bei Programmierstudierenden mit ChatGPT (Yang, Hsu, and Wu 2025)\nVerminderte Problemlösefähigkeiten bei Mathematiklernenden mit KI-Tools (Bastani et al. 2024)\n„Die Fluency-Illusion“: KI-Kompetenz wird mit eigenem Können verwechselt",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#die-biologische-realität-des-lernens",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#die-biologische-realität-des-lernens",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Die biologische Realität des Lernens",
+    "text": "Die biologische Realität des Lernens\nLernen ist nicht nur ein kognitiver, sondern ein biologischer Prozess, der das Gehirn physisch verändert (Oakley et al. 2025):\n\nSchlafkonsolidierung ist essenziell\nLernen endet nicht mit dem Üben:\n\nSharp wave ripples im Schlaf spielen Erlebtes erneut ab\nDas Gehirn entscheidet, was bleibt und was gelöscht wird\nErinnerungen wandern vom Hippocampus in den Kortex\nNeue neuronale Verbindungen festigen sich\n\nMan kann Schlaf nicht herunterladen – genauso wenig wie Expertise!\n\n\nDas “Grokking”-Phänomen\n“Grokking” bedeutet etwas intuitiv und vollständig verstehen. Sogar maschinelle Lernmodelle zeigen dieses Muster:\n\nLange Plateauphase ohne sichtbaren Fortschritt\nPlötzlicher Sprung zur Generalisierung\nFrüher als “overfitting” missverstanden\nHeute als tiefes Musterlernen erkannt\n\nGrokking (im machinellen Lernen) zeigt:\n\nNach perfektem Memorieren kann echtes Verstehen entstehen\nManchmal braucht es viel mehr Trainingsschritte als bis zum Memorieren\nDas Modell findet plötzlich die zugrundeliegende Regel statt nur Beispiele auswendig zu lernen",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#das-gedächtnisparadoxon",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#das-gedächtnisparadoxon",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Das Gedächtnisparadoxon",
+    "text": "Das Gedächtnisparadoxon\n\n\n\n\n\n\nWarningUmkehrung des Flynn-Effekts\n\n\n\nSeit den 1970er/80er Jahren, als Bildung sich vom Auswendiglernen abkehrte:\n\nIQ-Werte sanken erstmals in der Geschichte\n“Warum auswendig lernen, wenn man nachschlagen kann?”\nGenau zu dem Zeitpunkt, als Neurowissenschaften bewiesen, dass Auswendiglernen kritisches Denken fördert\nWir verwarfen bewährte Methoden, gerade als wir ihren Nutzen verstanden (Oakley et al. 2025)",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#echte-expertise-aufbauen",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#echte-expertise-aufbauen",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Echte Expertise aufbauen",
+    "text": "Echte Expertise aufbauen\n\n\n\n\n\n\nTipEvidenzbasierte Strategien\n\n\n\n\nDie Anstrengung annehmen\n\nDeine Verwirrung ist ein notwendiger Lernschritt\nFehler liefern wertvolle Vorhersagefehler-Signale\nSchwierigkeit zeigt Gehirnwachstum an\n\nAbruf üben\n\nSelbst testen, bevor Antworten überprüft werden\nKonzepte ohne Notizen erklären\nAnderen das Gelernte beibringen\n\nLernen verteilen\n\nNach Tagen/Wochen zu Konzepten zurückkehren\nVergessen zwischen den Sitzungen zulassen\nIn verschiedenen Kontexten erneut lernen\n\nPraxis variieren\n\nProblemtypen mischen\nKontexte wechseln\nNeue Anwendungen suchen\n\nVorhersagefehler schützen\n\nErst eigene Versuche unternehmen, bevor Hilfe gesucht wird\nBemerkenswertes Nichterwarten identifizieren\nFehler als Lernchancen, nicht als Scheitern sehen",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#schnellreferenz-wie-theorien-zusammenwirken",
+    "href": "02-wie-menschen-lernen/kompetenz-erwerben/index.html#schnellreferenz-wie-theorien-zusammenwirken",
+    "title": "Wie man Kompetenzen erwirbt",
+    "section": "Schnellreferenz: Wie Theorien zusammenwirken",
+    "text": "Schnellreferenz: Wie Theorien zusammenwirken\n\nSchwach → Stark MethodenWissenskompilierungWarnsignale\n\n\n\n\n\nSchwache Methoden (Anfänger)\nStarke Methoden (Experten)\n\n\n\n\nMittel-Ziel-Analyse\nMustererkennung\n\n\nRückwärtsarbeiten vom Ziel\nVorwärtsverkettung aus Prinzipien\n\n\nVersuch und Irrtum\nAutomatisierte Prozeduren\n\n\nOberflächenanalogien\nTiefenstruktur\n\n\nSchrittweise bewusst\nAutomatisch gechunkt\n\n\n\n\n\n\n\n\n\n\n\n\n\nStadium\nWas passiert\nDidaktische Implikation\n\n\n\n\nDeklarativ\nAuswendig gelernte Regeln befolgen\nKlare durchgearbeitete Beispiele geben\n\n\nKompilierung\nWiederholte Sequenzen werden zu Chunks\nViele ähnliche Übungsaufgaben\n\n\nProzedural\nAutomatisierte Expertise\nBereit für komplexe Anwendungen\n\n\n\n\n\nAchte auf diese Anzeichen für kognitives Auslagern:\n\nGlatte Leistung ohne Erklärungsfähigkeit\nUnfähigkeit, Problemvarianten zu lösen\nKein Fortschritt trotz Übung\nAbhängigkeit von KI bei Grundaufgaben\nKI-Ausgabe wird mit eigenem Verständnis verwechselt\nSofortige KI-Konsultation ohne eigenen Versuch\nKeine Vorhersagefehler (immer „richtige“ Antworten)",
+    "crumbs": [
+      "2: Lernen",
+      "Wie man Kompetenzen erwirbt"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html",
+    "href": "03-lernumgebungen/agent-beispiele/index.html",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "",
+    "text": "Jedes Beispiel zeigt:\n\nLehrthema & Problem\nGewählte Make-it-Stick-Strategie\nAgent-Design (Was tut der Agent?)\nLernende-Aktivität (Was bleibt beim Lernenden?)\nWarum es funktioniert",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#wie-diese-beispiele-nutzen",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#wie-diese-beispiele-nutzen",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "",
+    "text": "Jedes Beispiel zeigt:\n\nLehrthema & Problem\nGewählte Make-it-Stick-Strategie\nAgent-Design (Was tut der Agent?)\nLernende-Aktivität (Was bleibt beim Lernenden?)\nWarum es funktioniert",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#abrufpraxis-retrieval-practice",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#abrufpraxis-retrieval-practice",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "1. Abrufpraxis (Retrieval Practice)",
+    "text": "1. Abrufpraxis (Retrieval Practice)\n\nBeispiel: Statistik-Tutor\n\nLehrthema: Inferenzstatistik (Hypothesentests)\nProblem: Studierende können Konzepte erkennen, aber nicht aktiv anwenden\n\nAgent macht:\n\nGeneriert personalisierte Übungsaufgaben\nAnalysiert Fehlermuster und passt Schwierigkeit an\nErstellt adaptive Quizzes ohne Mehrfachwahl\nTracking von Abruf-Erfolg über Zeit\n\nLernende tun:\n\nLösen Aufgaben ohne Nachschlagen\nErklären ihre Lösungswege\nReflektieren über Fehlerquellen\nSelbsteinschätzung vor Feedback\n\nWarum es funktioniert: Agent generiert die Übung, aber Lernende müssen aktiv abrufen und denken.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#verteiltes-lernen-spacing",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#verteiltes-lernen-spacing",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "2. Verteiltes Lernen (Spacing)",
+    "text": "2. Verteiltes Lernen (Spacing)\n\nBeispiel: Anatomie-Coach\n\nLehrthema: Medizin—Anatomische Strukturen\nProblem: Bulimie-Lernen vor Prüfungen, schnelles Vergessen\n\nAgent macht:\n\nBerechnet optimale Wiederholungsintervalle\nSendet personalisierte Erinnerungen\nPasst Timing basierend auf individuellem Vergessen an\nVisualisiert Lernfortschritt über Zeit\n\nLernende tun:\n\nAnatomie aktiv benennen (ohne Hilfe)\nStrukturen zeichnen und beschriften\nVerbindungen zwischen Systemen erklären\nLangzeit-Commitment zum regelmässigen Üben\n\nWarum es funktioniert: Agent optimiert wann gelernt wird, aber nicht was und wie.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#abwechslung-interleaving",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#abwechslung-interleaving",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "3. Abwechslung (Interleaving)",
+    "text": "3. Abwechslung (Interleaving)\n\nBeispiel: Programmier-Mentor\n\nLehrthema: Algorithmen und Datenstrukturen\nProblem: Können isolierte Konzepte, aber nicht entscheiden wann welches\n\nAgent macht:\n\nMischt verschiedene Problemtypen intelligent\nErstellt “Mixed Practice” Sessions\nVermeidet predictable Patterns\nAnalysiert welche Kombinationen am besten funktionieren\n\nLernende tun:\n\nIdentifizieren welcher Algorithmus/welche Datenstruktur benötigt wird\nImplementieren ohne vorherige Ankündigung des Typs\nVergleichen und kontrastieren verschiedene Ansätze\nEntwickeln “Problem-Pattern-Recognition”\n\nWarum es funktioniert: Agent mixt die Aufgaben, Lernende müssen Problem identifizieren und lösen.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#variation",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#variation",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "4. Variation",
+    "text": "4. Variation\n\nBeispiel: Physik-Simulator\n\nLehrthema: Newtonsche Mechanik\nProblem: Können Formeln anwenden, aber nicht in neuen Kontexten\n\nAgent macht:\n\nGeneriert vielfältige Anwendungsszenarien\nVariiert Parameter, Kontexte, Darstellungsformen\nErstellt real-world Problemsituationen\n\nLernende tun:\n\nPhysikalische Prinzipien in verschiedenen Situationen erkennen\nVon abstrakten Formeln zu konkreten Anwendungen\nProblem-Situationen selbst analysieren und modellieren\nTransfer auf völlig neue Bereiche leisten\n\nWarum es funktioniert: Agent variiert die Kontexte, Lernende müssen Prinzipien erkennen und anwenden.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#wünschenswerte-schwierigkeiten",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#wünschenswerte-schwierigkeiten",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "5. Wünschenswerte Schwierigkeiten",
+    "text": "5. Wünschenswerte Schwierigkeiten\n\nBeispiel: Sozialpsychologie-Challenger\nLehrthema: Kognitive Verzerrungen und Biases Problem: Oberflächliches Verständnis, keine kritische Anwendung\nAgent macht:\n\nErstellt mehrdeutige Situationen\nPräsentiert widersprüchliche Evidenz\nGeneriert “Productive Struggle” Szenarien\nGibt delayed und minimales Feedback\n\nLernende tun:\n\nErst eigene Hypothesen aufstellen\nMit Unsicherheit und Ambiguität umgehen\nBiases in eigenen Denkprozessen entdecken\nKomplexe, nuancierte Analysen entwickeln\n\nWarum es funktioniert: Agent erzeugt Struggle, Lernende müssen durch die Schwierigkeit durcharbeiten.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#verstehen-vs.-vertrautheit",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#verstehen-vs.-vertrautheit",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "6. Verstehen vs. Vertrautheit",
+    "text": "6. Verstehen vs. Vertrautheit\n\nBeispiel: Erklärungs-Coach (Feynman-Technik)\n\nLehrthema: Computernetzwerke (TCP/IP-Protokoll)\nProblem: Können Fachbegriffe verwenden, aber nicht einfach erklären was passiert\n\nAgent macht:\n\nFordert Erklärungen für 8-Jährige (“Erkläre TCP so, dass es ein Kind versteht”)\nIdentifiziert verwendete Fachbegriffe und verlangt Übersetzung\nGeneriert Analogie-Aufgaben (“TCP ist wie…”)\nTestet Verständnis durch Vereinfachungs-Challenges\n\nLernende tun:\n\nKomplexe Konzepte ohne Jargon erklären\nEigene Analogien entwickeln und testen\nVerständnislücken selbst entdecken beim Erklärungsversuch\nKonzepte in verschiedenen Abstraktionsebenen darstellen\n\nWarum es funktioniert: Agent zwingt zur Vereinfachung ohne Bedeutungsverlust—die ultimative Verstehens-Prüfung.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#feedback-reflexion",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#feedback-reflexion",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "7. Feedback & Reflexion",
+    "text": "7. Feedback & Reflexion\n\nBeispiel: Schreibtrainer-Coach\n\nLehrthema: Akademisches Schreiben\nProblem: Wenig Bewusstsein für eigene Schreibprozesse und -qualität\n\nAgent macht:\n\nAnalysiert Schreibmuster und gibt spezifisches Feedback\nStellt Reflexionsfragen zum Schreibprozess\nTracked Fortschritt in verschiedenen Dimensionen\nGibt formatives (nicht summatives) Feedback\n\nLernende tun:\n\nEigene Texte kritisch evaluieren\nSchreibstrategien bewusst reflektieren\nFeedback in Überarbeitungen umsetzen\nMetakognitive Awareness für Schreibprozess entwickeln\n\nWarum es funktioniert: Agent analysiert und fragt, Lernende müssen reflektieren und verbessern.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/agent-beispiele/index.html#anwendung",
+    "href": "03-lernumgebungen/agent-beispiele/index.html#anwendung",
+    "title": "Agent-Beispiele für die 8 Strategien",
+    "section": "8. Anwendung",
+    "text": "8. Anwendung\n\nBeispiel: Case-Study-Generator\n\nLehrthema: Betriebswirtschaft - Strategisches Management\nProblem: Theoretisches Wissen kann nicht auf reale Situationen übertragen werden\n\nAgent macht:\n\nErstellt realistische, komplexe Unternehmensszenarien\nSimuliert Stakeholder-Perspektiven\nGeneriert “What-if” Szenarien\nSammelt aktuelle Business Cases\n\nLernende tun:\n\nTheoretische Frameworks auf reale Probleme anwenden\nStrategische Entscheidungen treffen und begründen\nMultiple Perspektiven berücksichtigen\nLangfristige Konsequenzen durchdenken\n\nWarum es funktioniert: Agent erstellt realistische Szenarien, Lernende müssen anwenden und entscheiden.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Agent-Beispiele für die 8 Strategien"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html",
+    "href": "03-lernumgebungen/index.html",
+    "title": "KI-gestütztes Lerndesign",
+    "section": "",
+    "text": "Active-processingCopilot Agent für effektives Lernen entwickeln (60 Min)\n\n\n\nErstelle und teste einen funktionsfähigen Copilot Agent, der eine der 8 bewährten Lernstrategien aus “Make it Stick” für dein eigenes Lehrthema umsetzt.\nZiel: Durch Prompting einen Agent bauen, der das Lernen fördert, nicht ersetzt - und dabei die praktischen Herausforderungen erleben.\nFormat: Think-Pair-Share mit Live-Testing und Padlet-Reflexion",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "KI-gestütztes Lerndesign"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#einführung-die-8-make-it-stick-strategien-10-min",
+    "href": "03-lernumgebungen/index.html#einführung-die-8-make-it-stick-strategien-10-min",
+    "title": "KI-gestütztes Lerndesign",
+    "section": "Einführung: Die 8 Make it Stick Strategien (10 Min)",
+    "text": "Einführung: Die 8 Make it Stick Strategien (10 Min)\n\nDie wissenschaftlich bewährten Lernstrategien:\n Vertiefung: Die 8 Make it Stick Strategien im Detail\n\n\n\n\n\n\n\n\nStrategie\nKern-Prinzip\nWarum effektiv?\n\n\n\n\n1. Abrufpraxis\nAktives Erinnern statt Wiederlesen\nStärkt neuronale Verbindungen\n\n\n2. Verteiltes Lernen\nÜber Zeit verteilen statt Pauken\nNutzt Vergessen als Lernhilfe\n\n\n3. Abwechslung\nVerschiedene Aufgaben/Themen mischen\nTrainiert flexible Anwendung\n\n\n4. Variation\nIn unterschiedlichen Kontexten üben\nFördert Transfer\n\n\n5. Wünschenswerte Schwierigkeiten\nFehler und Anstrengung nutzen\nVertieft Verständnis\n\n\n6. Verstehen vs. Vertrautheit\nIn eigenen Worten erklären\nEchtes vs. oberflächliches Wissen\n\n\n7. Feedback & Reflexion\nKorrektur und bewusstes Nachdenken\nSelbstregulation\n\n\n8. Anwendung\nWissen in verschiedenen Kontexten\nTransferfähigkeit\n\n\n\n\n\n\n\n\n\nActive-processingErinnerung\n\n\n\nIhr habt als Vorbereitung ein eigenes Lehrthema mitgebracht—das ist euer Anwendungsbereich!\nInspiration: Agent-Beispiele für jede Strategie",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "KI-gestütztes Lerndesign"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#think-phase-agent-erstellen-25-min",
+    "href": "03-lernumgebungen/index.html#think-phase-agent-erstellen-25-min",
+    "title": "KI-gestütztes Lerndesign",
+    "section": "THINK Phase: Agent erstellen (25 Min)",
+    "text": "THINK Phase: Agent erstellen (25 Min)",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "KI-gestütztes Lerndesign"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#schritt-1-strategie-wählen-5-min",
+    "href": "03-lernumgebungen/index.html#schritt-1-strategie-wählen-5-min",
+    "title": "KI-gestütztes Lerndesign",
+    "section": "Schritt 1: Strategie wählen (5 Min)",
+    "text": "Schritt 1: Strategie wählen (5 Min)\nAufgabe: Wähle eine der 8 Strategien, die am besten zu deinem Lehrproblem passt.\nLeitfragen:\n\nWelches spezifische Problem haben meine Lernenden?\nWelche Strategie könnte dieses Problem am besten lösen?\nBei welcher Strategie sehe ich das grösste Potenzial?\n\nNotiere:\n\nGewählte Strategie: ________________________\nMein Lehrthema: ________________________\nDas spezifische Problem: ________________________",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "KI-gestütztes Lerndesign"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#schritt-2-agent-erstellen-testen-20-min",
+    "href": "03-lernumgebungen/index.html#schritt-2-agent-erstellen-testen-20-min",
+    "title": "KI-gestütztes Lerndesign",
+    "section": "Schritt 2: Agent erstellen & testen (20 Min)",
+    "text": "Schritt 2: Agent erstellen & testen (20 Min)\nErstelle deinen funktionsfähigen Copilot Agent:\n\nAgent-Prompt entwickeln\nVerwende das Agent-Design-Template, um einen effektiven Prompt zu schreiben:\nTemplate-Struktur:\n\nRolle & Mission: “Du bist ein [Typ] Agent für [Lehrthema], der [spezifische Make-it-Stick-Strategie] fördert”\nWas der Agent TUT: Konkrete Funktionen und Verhaltensweisen\nWas der Agent NICHT tut: Grenzen setzen (keine direkten Antworten geben, etc.)\nInteraktionsstil: Wie soll der Agent mit Lernenden kommunizieren?\n\n\n\nTesten\n\nTeste deinen Agent mit einer typischen Lernsituation\nIdentifiziere Prompting-Herausforderungen\nVerfeinere den Prompt basierend auf dem Test\n\n\n\nQualitätskontrolle\n\nStrategie: Fördert der Agent wirklich die gewählte Make-it-Stick-Strategie?\nAnstrengung: Muss der Lernende noch selbst denken und arbeiten?\nGefahr: Wo nimmt der Agent dem Lernenden zu viel ab?\nVerbesserung: Wo musst du den Prompt noch anpassen?",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "KI-gestütztes Lerndesign"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#pair-phase-agents-testen-erfahrungen-teilen-20-min",
+    "href": "03-lernumgebungen/index.html#pair-phase-agents-testen-erfahrungen-teilen-20-min",
+    "title": "KI-gestütztes Lerndesign",
+    "section": "PAIR Phase: Agents testen & Erfahrungen teilen (20 Min)",
+    "text": "PAIR Phase: Agents testen & Erfahrungen teilen (20 Min)\n\nPartner finden (2 Min)\n\nSuche dir einen Partner\nAm besten jemand mit einer anderen Strategie oder anderem Fachbereich\n\n\n\nAgents teilen (3 Min)\nDemo: Wie ihr eure Copilot Agents miteinander teilt (wird demonstriert)\n\n\nGegenseitiges Agent-Testing (7 Min)\n\n\n\n\n\n\nActive-processingCross-Testing der Agents (parallel)\n\n\n\nBeide Partner testen gleichzeitig (7 Min):\n\nPerson A testet Agent von Person B\nPerson B testet Agent von Person A\nParallel arbeiten - jeder fokussiert auf den anderen Agent\n\nWorauf achten:\n\nVerwende den Agent für eine typische Lernsituation aus dem Fachbereich deines Partners\nFördert der Agent wirklich die gewählte Strategie?\nNotiere Herausforderungen und Überraschungen\n\n\n\n\n\nErfahrungen auf Padlet dokumentieren (8 Min)\n\n\n\n\n\n\nActive-processingPadlet-Reflexion (via Moodle)\n\n\n\nTeilt eure Erkenntnisse auf dem Kurs-Padlet:\nDokumentiert:\n\nWas funktioniert gut? Welche Prompting-Strategien waren erfolgreich?\nWo hakt es? Welche Herausforderungen beim Agent-Design sind aufgetaucht?\nÜberraschende Entdeckungen: Was war anders als erwartet?\nTheorie vs. Praxis: Wo klafft eine Lücke zwischen Konzept und Umsetzung?\n\nLest auch die Beiträge der anderen und ergänzt mit Kommentaren oder Reactions.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "KI-gestütztes Lerndesign"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#share-phase-erkenntnisse-aus-der-praxis-15-min",
+    "href": "03-lernumgebungen/index.html#share-phase-erkenntnisse-aus-der-praxis-15-min",
+    "title": "KI-gestütztes Lerndesign",
+    "section": "SHARE Phase: Erkenntnisse aus der Praxis (15 Min)",
+    "text": "SHARE Phase: Erkenntnisse aus der Praxis (15 Min)\n\nPadlet-Review & Patterns (8 Min)\nGemeinsame Auswertung der Padlet-Beiträge:\n\nWelche Prompting-Herausforderungen tauchen wiederholt auf?\nWo war die Theorie-Praxis-Lücke am größten?\nWelche erfolgreichen Strategien können wir identifizieren?\nWas haben wir über Agent-Verhalten vs. Agent-Intention gelernt?\n\n\n\nSynthese & Transfer (7 Min)\nVon der Praxis zur Anwendung:\n\nReality Check: Was ist realistisch umsetzbar in der eigenen Lehre?\nPrompting: Welche Erkenntnisse nehmt ihr für zukünftige Agent-Entwicklung mit?\nMake-it-Stick und KI: Wo funktioniert die Kombination gut, wo nicht?\n\nNächste Schritte:\n\nWie könnt ihr das Gelernte in eurer Lehre einsetzen?\n\n\n\n\n\n\n\nPro-tipWichtiger Reminder\n\n\n\n\n\nDas Ziel war nicht, den perfekten Agent zu bauen, sondern durch praktisches Ausprobieren zu verstehen, wie KI die bewährten Lernstrategien unterstützen kann, und wo die Herausforderungen beim Prompting liegen.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "KI-gestütztes Lerndesign"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/index.html#ressourcen",
+    "href": "03-lernumgebungen/index.html#ressourcen",
+    "title": "KI-gestütztes Lerndesign",
+    "section": "Ressourcen",
+    "text": "Ressourcen\n\nHandout\nDie 8 Make it Stick Strategien\n\n\nVertiefung\nProduktive Anstrengung durch Design\n\n\nBeispiele\nAgent-Beispiele für jede Strategie",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "KI-gestütztes Lerndesign"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/produktive-anstrengung/index.html",
+    "href": "03-lernumgebungen/produktive-anstrengung/index.html",
+    "title": "Produktive Anstrengung durch Design",
+    "section": "",
+    "text": "Wie James Lang in Cheating Lessons (Lang 2013) argumentiert, ist „Schummeln eine unangemessene Reaktion auf eine Lernumgebung, die für den Studierenden nicht funktioniert.“ Statt den Fokus auf das Verhalten der Studierenden zu richten, müssen wir Lernumgebungen so gestalten, dass produktives Ringen der lohnendste Weg ist.\nForschung zu “desirable difficulties” (R. A. Bjork 1994; E. L. Bjork and Bjork 2011) zeigt, dass Lernen kognitive Anstrengung erfordert—wenn wir den “struggle” entfernen, entfernen wir das Lernen. Doch Studierende erhalten oft keinen Anreiz, sich auf anstrengende Verarbeitung einzulassen. Das Ziel ist es, Umgebungen zu schaffen, in denen Lernende sich bewusst auf diese Anstrengung einlassen, weil sie deren Notwendigkeit für tiefes Lernen verstehen.\n\n\n\n\n\n\nImportantDas Paradox des Lernens\n\n\n\nBedingungen, die die Leistung während des Trainings gut aussehen lassen, fördern häufig kein nachhaltiges Lernen. Die folgenden Schwierigkeiten erscheinen im Moment härter und weniger effizient, führen aber zu überlegenem Langzeitbehalten und besserem Transfer:\n\nGenerationseffekt: Lernende generieren (auch falsche) Antworten, bevor sie Informationen erhalten\nSpacing-Effekt: Übung über die Zeit verteilen statt sie zu bündeln\nTesting-Effekt: Wiederholtes Abrufen statt passivem Wiederholen nutzen\nInterleaving: Verschiedene Aufgabentypen mischen statt zu blocken\n\nDiese „wünschenswerten Schwierigkeiten“ sind der eigentliche Lernmechanismus—nicht Hindernisse, die eliminiert werden sollten.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Produktive Anstrengung durch Design"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/produktive-anstrengung/index.html#zentrales-prinzip",
+    "href": "03-lernumgebungen/produktive-anstrengung/index.html#zentrales-prinzip",
+    "title": "Produktive Anstrengung durch Design",
+    "section": "",
+    "text": "Wie James Lang in Cheating Lessons (Lang 2013) argumentiert, ist „Schummeln eine unangemessene Reaktion auf eine Lernumgebung, die für den Studierenden nicht funktioniert.“ Statt den Fokus auf das Verhalten der Studierenden zu richten, müssen wir Lernumgebungen so gestalten, dass produktives Ringen der lohnendste Weg ist.\nForschung zu “desirable difficulties” (R. A. Bjork 1994; E. L. Bjork and Bjork 2011) zeigt, dass Lernen kognitive Anstrengung erfordert—wenn wir den “struggle” entfernen, entfernen wir das Lernen. Doch Studierende erhalten oft keinen Anreiz, sich auf anstrengende Verarbeitung einzulassen. Das Ziel ist es, Umgebungen zu schaffen, in denen Lernende sich bewusst auf diese Anstrengung einlassen, weil sie deren Notwendigkeit für tiefes Lernen verstehen.\n\n\n\n\n\n\nImportantDas Paradox des Lernens\n\n\n\nBedingungen, die die Leistung während des Trainings gut aussehen lassen, fördern häufig kein nachhaltiges Lernen. Die folgenden Schwierigkeiten erscheinen im Moment härter und weniger effizient, führen aber zu überlegenem Langzeitbehalten und besserem Transfer:\n\nGenerationseffekt: Lernende generieren (auch falsche) Antworten, bevor sie Informationen erhalten\nSpacing-Effekt: Übung über die Zeit verteilen statt sie zu bündeln\nTesting-Effekt: Wiederholtes Abrufen statt passivem Wiederholen nutzen\nInterleaving: Verschiedene Aufgabentypen mischen statt zu blocken\n\nDiese „wünschenswerten Schwierigkeiten“ sind der eigentliche Lernmechanismus—nicht Hindernisse, die eliminiert werden sollten.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Produktive Anstrengung durch Design"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/produktive-anstrengung/index.html#evidenzbasierte-umweltgestaltung",
+    "href": "03-lernumgebungen/produktive-anstrengung/index.html#evidenzbasierte-umweltgestaltung",
+    "title": "Produktive Anstrengung durch Design",
+    "section": "Evidenzbasierte Umweltgestaltung",
+    "text": "Evidenzbasierte Umweltgestaltung\n\n1. Prüfungen mit niedrigen Einsätzen (Lang 2013)\nErsetze Einzelprüfungen mit hohem Gewicht durch häufigere, weniger bedeutsame Bewertungen:\n\n\n\n\n\n\nTipForschungsbasierter Ansatz\n\n\n\nStatt einer Abschlussprüfung mit 50% Gewicht:\n\nFünf Prüfungen mit je 10%\nWöchentliche Reflexionsjournale\nMehrfache Möglichkeiten, Lernen zu zeigen\n\nDies reduziert von Angst getriebene Abkürzungen und fördert das Behalten durch den Testing-Effekt (Roediger and Karpicke 2006).\n\n\n\n\n2. Gestaltung intrinsischer Motivation (Lang 2013)\nGestalte Kurse um bedeutungsvolle Probleme statt um reine Inhaltsabdeckung:\nInhaltsorientiert: „Lies Kapitel 7 über Klimawandel“\nProblembasiert: „Analysiere, wie sich das Klima in deinem Heimatort mit lokalen Wetterdaten verändert hat“\nProbleme, die im Umfeld der Studierenden wurzeln, können intrinsische Motivation ansprechen und sind weniger anfällig für KI-Generierung.\n\n\n3. Verteiltes Wiederholen (Cepeda et al. 2006)\nVerteile Übung über die Zeit statt sie zu bündeln:\nWoche 1: Konzept A einführen\nWoche 3: Konzept A wiederholen und Konzept B lernen\nWoche 6: A & B in neuem Kontext anwenden\nWoche 10: A & B mit Konzept C verknüpfen\nForschung zeigt, dass verteilte Übung das Langzeitbehalten um 200–300% verbessert.\n\n\n4. Abrufübung (Roediger and Karpicke 2006)\nNutze Tests als Lernwerkzeug, nicht nur zur Bewertung:\n\n\n\n\n\n\nNoteUmsetzungsstrategie\n\n\n\nAbruf mit geringem Risiko:\n\nJede Sitzung mit einem 2-Minuten-Quiz zum Vorwissen starten\nWöchentliche „Brain Dumps“: alles aufschreiben, was man erinnert\nPeer-Teaching-Übungen\nÜbungsaufgaben ohne Nachschlagen lösen\n\nForschung zeigt, dass Abrufübung besseren Transfer als reines Wiederholen bringt.\n\n\n\n\n5. Vermischtes Üben (Rohrer 2012)\nMische verschiedene Aufgabentypen in Übungsaufgaben:\nStatt 20 Algebra- und dann 20 Geometrieaufgaben zu geben, mische sie:\n\nAufgaben 1, 4, 7: Algebra\nAufgaben 2, 5, 8: Geometrie\n\nAufgaben 3, 6, 9: Textaufgaben mit beidem\n\nInterleaving verbessert die Unterscheidung ähnlicher Konzepte und das Langzeitbehalten.\n\n\n6. Kognitive Belastung steuern (Sweller 2023)\nGestalte Instruktion so, dass sie die Arbeitsgedächtniskapazität optimiert und produktives Ringen erhält:\nFür Anfänger:\n\nDurchgearbeitete Beispiele vor eigenständiger Übung bereitstellen\nÜberflüssige Belastung reduzieren, aber die eigentliche Herausforderung erhalten\n\nFür Fortgeschrittene:\n\nElementinteraktivität schrittweise erhöhen\nProduktives Ringen durch passende Schwierigkeitsgrade fördern\nFokus auf lernproduktive kognitive Belastung",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Produktive Anstrengung durch Design"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/produktive-anstrengung/index.html#optimale-herausforderungs-architektur",
+    "href": "03-lernumgebungen/produktive-anstrengung/index.html#optimale-herausforderungs-architektur",
+    "title": "Produktive Anstrengung durch Design",
+    "section": "Optimale Herausforderungs-Architektur",
+    "text": "Optimale Herausforderungs-Architektur\nSchaffe strukturierte Gelegenheiten für anstrengende Verarbeitung, indem du den optimalen Schwierigkeitsgrad findest:\n\nZu leicht: Lernende schalten ab; kein Lernen\nZu schwer: Überforderung, Arbeitsgedächtnis überlastet\nGenau richtig: Produktives Ringen, Lernen findet statt\n\nGestaltungs-Implementierung:\n\nBeginne auf dem aktuellen Fähigkeitsniveau\nFüge ein neues Element an Komplexität hinzu\nUnterstützung für das Ringen, nicht dessen Beseitigung bieten\nAusreichend Zeit für anstrengende Verarbeitung lassen",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Produktive Anstrengung durch Design"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/produktive-anstrengung/index.html#fächerübergreifende-anwendungen",
+    "href": "03-lernumgebungen/produktive-anstrengung/index.html#fächerübergreifende-anwendungen",
+    "title": "Produktive Anstrengung durch Design",
+    "section": "Fächerübergreifende Anwendungen",
+    "text": "Fächerübergreifende Anwendungen\n\nMathematikSchreibenNaturwissenschaftenProgrammieren\n\n\nInterleaving anwenden:\n\nAufgabentypen in Sets mischen\nZwischen mathematischen Verfahren wechseln\nTextaufgaben einbeziehen, die Strategieauswahl erfordern\n\nDurchgearbeitete Beispiele:\n\nSchritt-für-Schritt-Lösungen vor Eigenübung zeigen\nUnterstützung allmählich abbauen, sobald Expertise wächst\n\n\n\nVerteilte Überarbeitung implementieren:\n\nEntwurf → Woche Pause → Überarbeitung → Woche Pause → Endfassung\nMehrere Feedback-Schleifen mit niedrigen Einsätzen\n\nDesignbasiertes Lernen:\n\nSchreiben an reale Probleme binden\nEchte Zielgruppen außerhalb des Unterrichts\n\n\n\nAbrufübungen:\n\nVorhersagen-Beobachten-Erklären-Zyklen mit verzögertem Feedback\nKonzeptmapping aus dem Gedächtnis vor Nachschlagen\n\nWünschenswerte Schwierigkeiten:\n\nHypothesen generieren vor Wissensvermittlung\nPhänomene erklären, bevor der Mechanismus gelehrt wird\n\nMit „gescheiterten“ Experimenten ringen, die Fehlvorstellungen aufdecken\n\n\n\nKognitive Belastung beachten:\n\nDurchgearbeitete Beispiele für Syntax, Problemlösen für Logik\nPair Programming als kognitive Meisterlehre\nAnderen Code debuggen, um Mustererkennung aufzubauen",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Produktive Anstrengung durch Design"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/produktive-anstrengung/index.html#umsetzungshilfe",
+    "href": "03-lernumgebungen/produktive-anstrengung/index.html#umsetzungshilfe",
+    "title": "Produktive Anstrengung durch Design",
+    "section": "Umsetzungshilfe",
+    "text": "Umsetzungshilfe\n\nSchwierigkeit für Lernende umdeuten\nHilf Lernenden zu verstehen, dass kognitive Anstrengung kein Designfehler ist, sondern der eigentliche Lernmechanismus:\n\n\n\n\n\n\nNoteSchwierigkeit umdeuten\n\n\n\nStatt: „Das ist zu schwer“\nUmdeuten als: „Mein Gehirn arbeitet hart, um neue Verbindungen zu schaffen“\nStatt: „Ich verstehe es nicht“\nUmdeuten als: „Ich bin in der produktiven Ringen-Zone, wo Lernen passiert“\nStatt: „Ich habe einen Fehler gemacht“\nUmdeuten als: „Ich habe nützliche Information über meinen aktuellen Stand erzeugt“\nStatt: „Es sollte einfacher sein“\nUmdeuten als: „Passende Schwierigkeit ist notwendig für Wachstum“\n\n\n\n\nDokumentation des Ringens\n\n\n\n\n\n\nTipLernprozess-Portfolio\n\n\n\nDas Ringen dokumentieren, nicht nur die Lösung:\n\nVerwirrungsprotokolle: Was hat verwirrt, warum war das wertvoll?\nFehleranalysebögen: Systematische Reflexion über Fehler und Fehlkonzepte\nZeitaufzeichnung fürs Ringen: Produktive Ringen-Zeit protokollieren (und feiern!)\n„Aha!“-Momente dokumentieren: Verknüpfe Ringen mit Durchbrüchen\nMethoden-Evolutionskarten: Zeigen, wie Lösungswege sich verbessert haben\n\n\n\n\n\nFehler-positive Kultur aufbauen\nBewertungsgestaltung:\n\n\n\n\n\n\nNoteFehlerfreundliche Benotung\n\n\n\n\nFehler-Portfolio-Bonus: Extra-Punkte für das Sammeln und Analysieren von Fehlern\nWertvollster Fehler: Lernende nominieren ihren lehrreichsten Fehler\nFehlermuster-Erkennung: Punkte für das Identifizieren wiederkehrender Fehler\nLehre deinen Fehler: Erkläre deinen Fehler, damit andere ihn vermeiden\nFehler-zu-Kompetenz-Progression: Notenverbesserung vom Fehler zur Korrektur\n\n\n\nVeränderungen der Lernumgebung:\n\n\n\n\n\n\nImportantVeränderungen der Lernumgebung\n\n\n\nVisuelle Umgebung:\n\n„Schöne Fehler“-Wand: Lehrreiche Fehler mit Analyse ausstellen\nRingen-Tracker-Diagramme: Fortschritt durch schwierige Konzepte sichtbar machen\n\nProblemlöse-Reisekarten: Zeigen den „unordentlichen“ Weg zum Verständnis\n\nSprachliche Umgebung:\n\n„Ich bin verwirrt und das ist perfekt“: Verwirrung als Lernen normalisieren\n„Was für ein schöner Fehler!“: Fehler feiern, die Denken offenbaren\n„Das Ringen ist dein Gehirn, das wächst“: Anstrengung mit Wachstum verbinden\n„Fehler sind Daten“: Fehler als Information, nicht als Versagen rahmen\n\nAktivitätsumgebung:\n\nTägliches Ringen teilen: 2-Minuten-Reflexion zu produktiven Schwierigkeiten\nFehler des Tages: Gemeinsame Analyse wertvoller Fehler\nVerwirrungskonferenzen: 1:1 Gespräche über Schwierigkeiten\nFehler-Wettbewerbe: Fehlerproduktion und -analyse spielerisch machen\n\n\n\n\n\nStrukturierte Lernaktivitäten\nVor dem Lernen (Generationseffekt):\n\nProbleme vor der Instruktion versuchen\nLösungen zu unbekannten Herausforderungen generieren\n\nErgebnisse vor Demonstrationen vorhersagen\nFragen zum neuen Stoff entwickeln\n\nWährend des Lernens:\n\nThink-Pair-Share Verwirrung: Unklares teilen, gemeinsam daran arbeiten\nFehler-Speed-Dating: Durch häufige Fehler rotieren und diskutieren\nProduktive Scheiter-Challenges: Absichtlich Aufgaben leicht über dem Niveau stellen\nErklären-vor-dem-Wissen: Vor der Antwort Erklärungen versuchen\n\nNach dem Lernen:\n\nTransfer-Aufgaben: Konzepte auf neue Situationen anwenden\nFehlerdiagnose: Fehler in Beispielarbeiten erkennen\nPeer-Coaching: Anderen durch deren produktives Ringen helfen\n\n\n\nUnterstützungs-Systeme für das Ringen\nStruggle Support Ladder (Unterstützungsleiter):\n\nEigenständiger Versuch (mindestens 5–10 Minuten)\nAustausch mit Peers (Schwierigkeiten teilen, keine Lösungen)\nZugang zu Ressourcen (strategische Hinweise, keine Komplettlösungen)\nLehrer-Coaching (Denken leiten, nicht lösen)\nKollaboratives Problemlösen (gemeinsam letzte Hürden nehmen)\n\nStrategisches Hinweis-System:\n\nProzesshinweise (keine Inhalte): „Was für ein Aufgabentyp ist das?“\nStrategievorschläge: „Was hat bei ähnlichen Problemen geholfen?“\nFehleralarme: „Überprüfe Schritt drei“ (ohne Lösung zu geben)\nMetakognitive Impulse: „Was denkst du gerade?“",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Produktive Anstrengung durch Design"
+    ]
+  },
+  {
+    "objectID": "03-lernumgebungen/produktive-anstrengung/index.html#die-lernumgebungs-perspektive",
+    "href": "03-lernumgebungen/produktive-anstrengung/index.html#die-lernumgebungs-perspektive",
+    "title": "Produktive Anstrengung durch Design",
+    "section": "Die Lernumgebungs-Perspektive",
+    "text": "Die Lernumgebungs-Perspektive\nDas Ziel ist nicht, den “Struggle” zu beseitigen, sondern Lernumgebungen so zu gestalten, dass produktives “Struggling” der lohnendste und unterstützte Weg zum gewünschten Ergebnis ist: den Aufbau von tiefem Verständnis und Expertise.",
+    "crumbs": [
+      "3: KI-gestütztes Lerndesign",
+      "Produktive Anstrengung durch Design"
+    ]
+  },
+  {
+    "objectID": "resources/resources.html",
+    "href": "resources/resources.html",
+    "title": "KI in der Lehre: Intermediate",
+    "section": "",
+    "text": "KI-basierte Schreibtools in der Lehre – Knowledge Base"
+  },
+  {
+    "objectID": "resources/resources.html#ki-orientierungshilfe-der-bfh",
+    "href": "resources/resources.html#ki-orientierungshilfe-der-bfh",
+    "title": "KI in der Lehre: Intermediate",
+    "section": "",
+    "text": "KI-basierte Schreibtools in der Lehre – Knowledge Base"
+  },
+  {
+    "objectID": "slides/prompting/index.html#was-ist-ein-prompt",
+    "href": "slides/prompting/index.html#was-ist-ein-prompt",
+    "title": "Prompting: Eine Einführung",
+    "section": "Was ist ein Prompt?",
+    "text": "Was ist ein Prompt?\n  \n\nEin Prompt ist ein Text (Anweisung), das einem generativen KI-Modell gegeben wird, um bestimmte Informationen zu generieren oder zu verstehen.\nPrompts dienen als Startpunkt beispielsweise für die Generierung von Ideen, Texten, Übersetzungen und Antworten auf Fragen."
+  },
+  {
+    "objectID": "slides/prompting/index.html#wie-wird-text-output-erzeugt",
+    "href": "slides/prompting/index.html#wie-wird-text-output-erzeugt",
+    "title": "Prompting: Eine Einführung",
+    "section": "Wie wird Text (Output) erzeugt?",
+    "text": "Wie wird Text (Output) erzeugt?"
+  },
+  {
+    "objectID": "slides/prompting/index.html#wie-kann-ich-den-output-beeinflussen",
+    "href": "slides/prompting/index.html#wie-kann-ich-den-output-beeinflussen",
+    "title": "Prompting: Eine Einführung",
+    "section": "Wie kann ich den Output beeinflussen?\u000b",
+    "text": "Wie kann ich den Output beeinflussen?"
+  },
+  {
+    "objectID": "slides/prompting/index.html#prompting-grundlagen",
+    "href": "slides/prompting/index.html#prompting-grundlagen",
+    "title": "Prompting: Eine Einführung",
+    "section": "Prompting: Grundlagen",
+    "text": "Prompting: Grundlagen\n\nSei klar und präzise\nFange einfach an und verbessere\nVerwende Beispiele und Kontext\nLeite den Denkprozess\nNutze ChatGPT/Copilots “Wissen”\nVerwende Rollenspieltechniken"
+  },
+  {
+    "objectID": "slides/prompting/index.html#sei-klar-und-präzise",
+    "href": "slides/prompting/index.html#sei-klar-und-präzise",
+    "title": "Prompting: Eine Einführung",
+    "section": "1. Sei klar und präzise",
+    "text": "1. Sei klar und präzise\n\nFormuliere deine Aufgabe oder Frage präzise\nGib relevanten Kontext und Details an\nUnterteile komplexe Aufgaben in kleinere Schritte\n\n\n\n\n\n❌\n\n\nBeschreibe, wie KI in der Musikproduktion eingesetzt wird.\n\n\n\n\n\n\n\n\n✅\n\n\nBeschreibe in etwa 200 Wörter, wie Künstliche Intelligenz zur Analyse und zum Arrangement von Jazz-Kompositionen verwendet werden kann. Gib konkrete Beispiele für Algorithmen oder Werkzeuge an, die in der Musikproduktion genutzt werden, um Muster zu erkennen und Vorschläge für Harmonievariationen zu generieren."
+  },
+  {
+    "objectID": "slides/prompting/index.html#fange-einfach-an-und-verbessere",
+    "href": "slides/prompting/index.html#fange-einfach-an-und-verbessere",
+    "title": "Prompting: Eine Einführung",
+    "section": "2. Fange einfach an und verbessere",
+    "text": "2. Fange einfach an und verbessere\nBeispiel 1:\n\n\n\n\n❌\n\n\nEntwickle ein vollständiges Regiekonzept für eine moderne Adaption von Shakespeares Hamlet, einschliesslich Bühnenbild, Kostümgestaltung, Lichtdesign und einer Analyse der Charaktere.\n\n\n\n\n\n\n\n\n✅\n\n\nErstelle drei zentrale Ideen, wie eine moderne Version von Hamlet durch Bühnenbild und Kostüme visuell vermittelt werden könnte.\n\n\n\n\n\nWichtig: Dies ist nur der Ausgangspunkt. Basierend auf der Antwort solltest du weitere Fragen stellen oder um Erklärungen bitten. Zum Beispiel:\n\n“Kannst du ein Beispiel für ein spezifisches Kostümdetail geben, das moderne Elemente einbezieht?”\n“Wie könnte das Bühnenbild die Stimmung oder den inneren Konflikt der Charaktere widerspiegeln?”"
+  },
+  {
+    "objectID": "slides/prompting/index.html#fange-einfach-an-und-verbessere-1",
+    "href": "slides/prompting/index.html#fange-einfach-an-und-verbessere-1",
+    "title": "Prompting: Eine Einführung",
+    "section": "2. Fange einfach an und verbessere",
+    "text": "2. Fange einfach an und verbessere\nBeispiel 2:\n\n\n\n\n❌\n\n\nErstelle einen umfassenden, mehrstufigen Behandlungsplan für einen Patienten mit chronischer Hypertonie, einschließlich Medikamentenregime, Lebensstiländerungen, Nachsorgezeitplan und möglichen Komplikationen.\n\n\n\n\n\n\n\n\n✅\n\n\nSchlage drei wichtige Lebensstiländerungen für einen Patienten vor, bei dem kürzlich eine leichte Hypertonie diagnostiziert wurde.\n\n\n\n\n\nWichtig: Dies ist nur der Ausgangspunkt. Basierend auf der Antwort solltest du weitere Fragen stellen oder um Erklärungen bitten. Zum Beispiel:\n\n“Kannst du mehr Details zu einer dieser Änderungen geben?”\n“Welche Auswirkungen hätte jede dieser Änderungen auf den Blutdruck?”\n“Gibt es mögliche Herausforderungen bei der Umsetzung dieser Änderungen?”"
+  },
+  {
+    "objectID": "slides/prompting/index.html#verwende-beispiele-und-kontext",
+    "href": "slides/prompting/index.html#verwende-beispiele-und-kontext",
+    "title": "Prompting: Eine Einführung",
+    "section": "3. Verwende Beispiele und Kontext",
+    "text": "3. Verwende Beispiele und Kontext\nBeschreibe, welche Art von Output du erwartest Gib ein Muster vor, wenn du ein bestimmtes Format oder einen Stil wünschst\n\n\n\n\n❌\n\n\nErkläre, wie man eine Skulptur restauriert.\n\n\n\n\n\n\n\n\n✅\n\n\nErkläre, wie man eine Marmorskulptur mit sichtbaren Rissen restauriert. Berücksichtige dabei Schritte wie:\n\nSichtung und Dokumentation des Schadens\nAuswahl und Testen geeigneter Materialien zur Rissfüllung\nAnwendung und Glättung des Füllmaterials\n\nGib Details zu den Werkzeugen, Materialien und Techniken an, die für jeden Schritt notwendig sind."
+  },
+  {
+    "objectID": "slides/prompting/index.html#leite-den-denkprozess",
+    "href": "slides/prompting/index.html#leite-den-denkprozess",
+    "title": "Prompting: Eine Einführung",
+    "section": "4. Leite den Denkprozess",
+    "text": "4. Leite den Denkprozess\nBitte ChatGPT/Copilot, “Schritt für Schritt” zu denken oder seine Überlegungen zu erklären. Dies führt oft zu genaueren und detaillierteren Antworten.\n\n\n\n\n❌\n\n\nRestauriere ein beschädigtes Ölgemälde mit mehreren Rissen und Farbverlusten.\n\n\n\n\n\n\n\n\n✅\n\n\nLass uns die Restaurierung eines beschädigten Ölgemäldes mit Rissen und Farbverlust Schritt für Schritt angehen:\n\nZuerst beschreibe die Art und das Ausmass der Schäden.\nWelche Faktoren könnten für die Schäden verantwortlich sein (z.B. Alterung, Lagerungsbedingungen)?\nWelche Materialien und Techniken könnten zur Stabilisierung der Risse verwendet werden?\nWelche Farbpigmente und Fixiermittel könnten zur Ausbesserung des Farbverlustes geeignet sein?\nWelche Tests könnten vorher an kleinen Stellen des Gemäldes durchgeführt werden, um die Wirkung der Materialien zu prüfen?\n\nBeginne mit Schritt 1."
+  },
+  {
+    "objectID": "slides/prompting/index.html#nutze-chatgptcopilots-wissen",
+    "href": "slides/prompting/index.html#nutze-chatgptcopilots-wissen",
+    "title": "Prompting: Eine Einführung",
+    "section": "5. Nutze ChatGPT/Copilots “Wissen”",
+    "text": "5. Nutze ChatGPT/Copilots “Wissen”\n\nLLMs verfügen über breites Wissen\nFrage nach Erklärungen oder Hintergrundinformationen\nGib relevanten Kontext an, damit ChatGPT/Copilot gezielter antworten kann\n\n\n\n\n\n❌\n\n\nErkläre, wie ein Orchester funktioniert.\n\n\n\n\n\n\n\n\n✅\n\n\nErkläre, wie ein Sinfonieorchester funktioniert, als würdest du Musikstudierenden im ersten Semester eine Einführung geben.\nVergleiche dabei die Struktur eines Orchesters mit einem gut koordinierten Team, bei dem jede Gruppe eine spezifische Aufgabe übernimmt.\nErkläre die Rolle der verschiedenen Instrumentengruppen (Streicher, Bläser, Schlagwerk) und die des Dirigenten und zeige, wie sie zusammenarbeiten, um ein harmonisches Ganzes zu erzeugen."
+  },
+  {
+    "objectID": "slides/prompting/index.html#nutze-chatgptcopilots-wissen-1",
+    "href": "slides/prompting/index.html#nutze-chatgptcopilots-wissen-1",
+    "title": "Prompting: Eine Einführung",
+    "section": "5. Nutze ChatGPT/Copilots “Wissen”",
+    "text": "5. Nutze ChatGPT/Copilots “Wissen”\n \n\n\n\n\n\n\n\nAchtung\n\n\nImmer den Output eines LLM anhand externer Quellen überprüfen. Sprachmodelle sind keine Nachschlagewerke."
+  },
+  {
+    "objectID": "slides/prompting/index.html#verwende-rollenspieltechniken",
+    "href": "slides/prompting/index.html#verwende-rollenspieltechniken",
+    "title": "Prompting: Eine Einführung",
+    "section": "6. Verwende Rollenspieltechniken",
+    "text": "6. Verwende Rollenspieltechniken\n\nBitte ChatGPT/Copilot, eine bestimmte Rolle oder Perspektive einzunehmen\nDies kann zu spezifischeren und relevanteren Antworten führen\n\n\n\n\n\n❌\n\n\nGib Tipps zur Verbesserung der Bühnenpräsenz.\u000b\n\n\n\n\n\n\n\n\n✅\n\n\nDu bist eine erfahrene Theaterregisseurin, die seit über 15 Jahren mit Schauspielstudierenden arbeitet.\nWas sind deine drei wichtigsten Tipps für junge Schauspieler, um ihre Bühnenpräsenz zu stärken?\nBerücksichtige dabei Aspekte wie Körperhaltung, Stimme und Interaktion mit dem Publikum und gib konkrete Übungen oder Techniken an, die die Schauspieler ausprobieren können."
+  },
+  {
+    "objectID": "slides/prompting/index.html#bonustips",
+    "href": "slides/prompting/index.html#bonustips",
+    "title": "Prompting: Eine Einführung",
+    "section": "Bonustips",
+    "text": "Bonustips\n \n\n\n\n\nMentales Modell: Ein LLM wie einen “Junior Assistant” behandeln.\nStruktierten Output verlangen (Tabellen, Listen, etc.)\nInput strukturieren (LLMs können diesen besser “verstehen”)\nEin LLM (z.B. ChatGPT/Copilot) nach Prompting Tips fragen. LLMs sind nicht auf dem neuesten Stand, aber haben sehr wahrscheinlich die bis vor kurzem aktuelle Literatur “gelesen”.\nChatGPT Tip: Anweisen, Python zu benutzen. Python ist eine Programmiersprache, die ChatGPT sehr gut beherrscht. Mit Python kann ChatGPT Daten analysieren, Grafiken erstellen, Word/Excel/Powerpoint Dateien erstellen."
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#erster-schritt-eigene-ki-kompetenz-entwickeln",
+    "href": "slides/was-ist-ki/index.html#erster-schritt-eigene-ki-kompetenz-entwickeln",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Erster Schritt: Eigene KI-Kompetenz entwickeln",
+    "text": "Erster Schritt: Eigene KI-Kompetenz entwickeln\n\n\nWarum du beginnen solltest\n\nBlog Post: KI integrieren\n\n\n\n\nGrafik von Barbara Geyer"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#erster-schritt-eigene-ki-kompetenz-entwickeln-1",
+    "href": "slides/was-ist-ki/index.html#erster-schritt-eigene-ki-kompetenz-entwickeln-1",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Erster Schritt: Eigene KI-Kompetenz entwickeln",
+    "text": "Erster Schritt: Eigene KI-Kompetenz entwickeln\n\n\nWarum du beginnen solltest\n\nBlog Post: KI integrieren\n\nKommerzielle Tools\n\nChatGPT\nClaude\nCopilot\nGemini\n\nLokale Sprachmodelle\n\nLM Studio\nOllama\n\n\n\nGrafik von Barbara Geyer"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#was-is-ki",
+    "href": "slides/was-ist-ki/index.html#was-is-ki",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Was is KI?",
+    "text": "Was is KI?"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#symbolische-ki-maschinelles-lernen",
+    "href": "slides/was-ist-ki/index.html#symbolische-ki-maschinelles-lernen",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Symbolische KI / Maschinelles Lernen",
+    "text": "Symbolische KI / Maschinelles Lernen\n\n\nSymbolische KI:\n\nExplizite Regeln und Logik, programmiert von Menschen\nBasiert auf Wenn-Dann-Anweisungen und vordefiniertem Wissen\nFolgt klaren, erklärbaren Schritten\nGut für Probleme mit eindeutigen Regeln\nWeniger anpassungsfähig an neue Situationen\nKann schlecht mit Unsicherheit umgehen\n\n\nMachine Learning:\n\nLernt automatisch statistische Muster und Beziehungen aus Daten\nFunktioniert wie eine “Black Box” - Entscheidungen schwerer zu erklären\nKann sich durch Training an neue Situationen anpassen\nGut für komplexe Muster und unklare Regeln"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#machine-learning",
+    "href": "slides/was-ist-ki/index.html#machine-learning",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Machine learning",
+    "text": "Machine learning"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#machine-learning-1",
+    "href": "slides/was-ist-ki/index.html#machine-learning-1",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Machine learning",
+    "text": "Machine learning\n\n\n\nSupervised learning\nUnsupervised learning\nReinforcement learning"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#machine-learning-2",
+    "href": "slides/was-ist-ki/index.html#machine-learning-2",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Machine learning",
+    "text": "Machine learning\n\n\n\nSupervised learning\nUnsupervised learning\nReinforcement learning"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#machine-learning-3",
+    "href": "slides/was-ist-ki/index.html#machine-learning-3",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Machine learning",
+    "text": "Machine learning\n\n\n\nSupervised learning\nUnsupervised learning\nReinforcement learning"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#klassifizierung",
+    "href": "slides/was-ist-ki/index.html#klassifizierung",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Klassifizierung",
+    "text": "Klassifizierung\n\n\n\n\n\n\n\nFigure courtesy of Branav Kumar Gnanamoorthy"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#mit-symbolischer-ki",
+    "href": "slides/was-ist-ki/index.html#mit-symbolischer-ki",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Mit Symbolischer KI",
+    "text": "Mit Symbolischer KI\n \n\n\n\nIF has_whiskers = true\nAND has_pointed_ears = true\nAND has_fur = true\nAND has_tail = true\nTHEN is_cat = true"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#mit-machine-learning",
+    "href": "slides/was-ist-ki/index.html#mit-machine-learning",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Mit Machine learning",
+    "text": "Mit Machine learning\n\n\n\nSystem lernt automatisch Muster (Formen, Farben, Texturen) aus tausenden Bildern.\nKann Katzen in neuen Bildern erkennen, auch in ungewöhnlichen Positionen oder Beleuchtungen.\nBraucht keine expliziten Regeln."
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#was-kann-ki",
+    "href": "slides/was-ist-ki/index.html#was-kann-ki",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Was kann KI?",
+    "text": "Was kann KI?"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#was-kann-ki-1",
+    "href": "slides/was-ist-ki/index.html#was-kann-ki-1",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Was kann KI?",
+    "text": "Was kann KI?\n\n\nAlphaFold ist ein von Google DeepMind entwickeltes KI-System, das die 3D-Struktur eines Proteins aus seiner Aminosäuresequenz vorhersagt.\n\n\n\n\nQuelle: AlphaFold"
+  },
+  {
+    "objectID": "slides/was-ist-ki/index.html#was-kann-ki-2",
+    "href": "slides/was-ist-ki/index.html#was-kann-ki-2",
+    "title": "Was ist Künstliche Intelligenz?",
+    "section": "Was kann KI?",
+    "text": "Was kann KI?"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#was-sind-chatbots",
+    "href": "slides/was-sind-chatbots/index.html#was-sind-chatbots",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Was sind Chatbots?",
+    "text": "Was sind Chatbots?"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#was-sind-llms",
+    "href": "slides/was-sind-chatbots/index.html#was-sind-llms",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Was sind LLMs?",
+    "text": "Was sind LLMs?\n\n\nEin LLM kann man sich wie einen ausgefeilten Autocomplete-Mechanismus vorstellen.\n\n\n\n\nBildquelle: www.apple.com"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#was-sind-llms-1",
+    "href": "slides/was-sind-chatbots/index.html#was-sind-llms-1",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Was sind LLMs?",
+    "text": "Was sind LLMs?\n\nStatistische Modelle, die Text analysieren, um das nächste Wort vorherzusagen.\n\n\n\\[\n\\newcommand{\\green}[1]{\\color{green}{#1}}\n\\newcommand{\\purple}[1]{\\color{purple}{#1}}\n\\newcommand{\\red}[1]{\\color{red}{#1}}\n\\newcommand{\\blue}[1]{\\color{blue}{#1}}\n\\]\n\n\\[\\green{P(\\text{Wort}_{i+1}} \\mid \\red{\\text{Kontext}}, \\blue{\\text{Modell}})\\]\n\nJede \\(\\purple{\\text{Vorhersage}}\\) basiert auf dem \\(\\blue{\\text{Kontext}}\\) und dem internen \\(\\red{\\text{Modell}}\\)."
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#vorhersage",
+    "href": "slides/was-sind-chatbots/index.html#vorhersage",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Vorhersage",
+    "text": "Vorhersage\nNicht alle Teile des Kontexts sind gleich wichtig:\n \n\n\n“Die Familie, die sehr wohlhabend war, lebte in einem grossen Haus. Das Haus stand inmitten eines weitläufigen Gartens. Es war bekannt für seine prächtige Fassade und die grosszügigen _“\n\n\nNach Thomas Mann, Buddenbrooks\n\n \nWelche Wörter sind besonders wichtig, um\n\ndie Bedeutung des Satzes zu erfassen?\ndas nächste Wort vorherzusagen?"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#kontext-verstehen",
+    "href": "slides/was-sind-chatbots/index.html#kontext-verstehen",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Kontext verstehen",
+    "text": "Kontext verstehen\n\n\n\n“Die Familie, die sehr wohlhabend war, lebte in einem grossen Haus. Das Haus stand inmitten eines weitläufigen Gartens. Es war bekannt für seine prächtige Fassade und die grosszügigen ___”\n\n\n\nSyntaktische Struktur (Grammatik und Struktur des Satzes):\n\nDas Wort “grosszügigen” ist ein Adjektiv, das wahrscheinlich ein Nomen—im Plural—beschreibt (Dativ oder Akkusativ wegen der Endung “-en”).\nDer Satz bezieht sich auf das Haus und den Garten, daher liegt der Fokus vermutlich auf deren Eigenschaften.\n\nSemantischer Kontext (Bedeutung):\nDie Beschreibung hebt Wohlstand hervor. Das nächste Wort beschreibt vermutlich etwas Luxuriöses oder Weitläufiges.\nLexikalische Kohärenz (Wörter und deren Bedeutungen im Kontext):\nNach “grosszügigen” folgen häufig Nomen, die Räume, Flächen oder architektonische Elemente beschreiben, z. B. “Räume”, “Gärten”, “Fenster”."
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#wie-generieren-llms-text",
+    "href": "slides/was-sind-chatbots/index.html#wie-generieren-llms-text",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Wie generieren LLMs Text?",
+    "text": "Wie generieren LLMs Text?\n \n\n\\[\n\\newcommand{\\green}[1]{\\color{green}{#1}}\n\\newcommand{\\purple}[1]{\\color{purple}{#1}}\n\\newcommand{\\red}[1]{\\color{red}{#1}}\n\\newcommand{\\blue}[1]{\\color{blue}{#1}}\n\\]\n\n\\[\\green{P(\\text{Wort}_{i+1}} \\mid \\red{\\text{Kontext}}, \\blue{\\text{Modell}})\\]"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#wie-werden-llms-trainiert",
+    "href": "slides/was-sind-chatbots/index.html#wie-werden-llms-trainiert",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Wie werden LLMs trainiert?",
+    "text": "Wie werden LLMs trainiert?"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#gefahren-und-herausforderungen",
+    "href": "slides/was-sind-chatbots/index.html#gefahren-und-herausforderungen",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Gefahren und Herausforderungen",
+    "text": "Gefahren und Herausforderungen\n\n\n\nDie verschiedenen Stufen des Trainings sind mit verschiedenen Arten von Bedenken verbunden:\n\nUrheberrecht: Die trainierten Modelle werden mit Texten trainiert, die möglicherweise Urheberrechtlich geschützt sind.\nBias: Die trainierten Modelle können bestehende Vorurteile aus den Trainingsdaten lernen.\nEnergieverbrauch: Das Training der Modelle verbraucht viel Energie und ist damit umweltbelastend.\nSycophancy: Die Modelle neigen dazu, die Meinungen oder Präferenzen ihrer Benutzer zu bestätigen."
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#gefahren-und-herausforderungen-1",
+    "href": "slides/was-sind-chatbots/index.html#gefahren-und-herausforderungen-1",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Gefahren und Herausforderungen",
+    "text": "Gefahren und Herausforderungen\n\n\n\n\nObschon sich LLMs viel Wissen aneignen1, werden sie nicht trainiert, faktisch korrekte Aussagen zu machen.\nDies bedeutet, dass wir alle Aussagen, die LLMs uns präsentieren, immer kritisch hinterfragen müssen.\nLLMs sind keine Wissensdatenbanken. Informationen immer anhand externer Quellen überprüfen.\n\n\n\n\n\nDas ganze Wissen, welches nötig ist, um Texte Wort für Wort vorherzusagen."
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#chatgpt",
+    "href": "slides/was-sind-chatbots/index.html#chatgpt",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "ChatGPT",
+    "text": "ChatGPT"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#fragen-beantworten",
+    "href": "slides/was-sind-chatbots/index.html#fragen-beantworten",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Fragen beantworten",
+    "text": "Fragen beantworten"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#bilder-analysieren",
+    "href": "slides/was-sind-chatbots/index.html#bilder-analysieren",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Bilder analysieren",
+    "text": "Bilder analysieren"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#dokumente-zusammenfassen",
+    "href": "slides/was-sind-chatbots/index.html#dokumente-zusammenfassen",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Dokumente zusammenfassen",
+    "text": "Dokumente zusammenfassen"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#output-strukturieren",
+    "href": "slides/was-sind-chatbots/index.html#output-strukturieren",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Output strukturieren",
+    "text": "Output strukturieren"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#websuche",
+    "href": "slides/was-sind-chatbots/index.html#websuche",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Websuche",
+    "text": "Websuche"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#datenanalyse",
+    "href": "slides/was-sind-chatbots/index.html#datenanalyse",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Datenanalyse",
+    "text": "Datenanalyse"
+  },
+  {
+    "objectID": "slides/was-sind-chatbots/index.html#custom-gpts",
+    "href": "slides/was-sind-chatbots/index.html#custom-gpts",
+    "title": "Wie funktionieren Chatbots?",
+    "section": "Custom GPTs",
+    "text": "Custom GPTs"
+  }
+]

@@ -1,0 +1,40 @@
+---
+title: Transfer & Abschluss
+---
+
+## Von der Idee zur Umsetzung (15 Min)
+
+### Schritt 1: Persönlicher Umsetzungsplan (8 Min)
+
+**Entwickle deinen konkreten nächsten Schritt:**
+
+#### **Was nehme ich mit?**
+
+- Welche **Make-it-Stick-Strategie** will ich als erstes umsetzen?
+- Welches **Agent-Konzept** ist realistisch für meine Lehre?
+- Was ist mein **konkreter erster Schritt**?
+
+#### **Wie setze ich das um?**
+- **Tool-Wahl**: GPT, Copilot, oder andere KI-Tools?
+- **Pilotversuch**: Wo teste ich meinen Agent zuerst?
+- **Erfolg messen**: Woran erkenne ich, dass es funktioniert?
+
+<!-- **Notiere dir:** -->
+<!-- ``` -->
+<!-- Meine Strategie: ____________________ -->
+<!-- Mein erster Schritt: ________________ -->
+<!-- Bis wann: __________________________ -->
+<!-- ``` -->
+
+### Schritt 2: Blitzlicht (7 Min)
+
+**Jeder teilt in 30 Sekunden:**
+
+- **Eine Erkenntnis** aus dem heutigen Workshop
+- **Einen konkreten nächsten Schritt**
+
+::: {.callout-tip}
+## Take-Away Message
+
+**Wissenschaftlich fundierter KI Einsatz** bedeutet: KI-Tools sollen die bewährten Lernstrategien **fördern**, nicht **ersetzen**.
+:::

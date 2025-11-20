@@ -1,0 +1,214 @@
+---
+title: "Agent-Beispiele für die 8 Strategien"
+---
+
+## Wie diese Beispiele nutzen
+
+Jedes Beispiel zeigt:
+
+
+- **Lehrthema & Problem**
+- **Gewählte Make-it-Stick-Strategie**
+- **Agent-Design** (Was tut der Agent?)
+- **Lernende-Aktivität** (Was bleibt beim Lernenden?)
+- **Warum es funktioniert**
+
+---
+
+## 1. Abrufpraxis (Retrieval Practice)
+
+### **Beispiel: Statistik-Tutor**
+
+- **Lehrthema**: Inferenzstatistik (Hypothesentests)
+- **Problem**: Studierende können Konzepte erkennen, aber nicht aktiv anwenden
+
+**Agent macht:**
+
+- Generiert personalisierte Übungsaufgaben
+- Analysiert Fehlermuster und passt Schwierigkeit an
+- Erstellt adaptive Quizzes ohne Mehrfachwahl
+- Tracking von Abruf-Erfolg über Zeit
+
+**Lernende tun:**
+
+- Lösen Aufgaben **ohne** Nachschlagen
+- Erklären ihre Lösungswege
+- Reflektieren über Fehlerquellen
+- Selbsteinschätzung vor Feedback
+
+**Warum es funktioniert**: Agent generiert die Übung, aber Lernende müssen aktiv abrufen und denken.
+
+---
+
+## 2. Verteiltes Lernen (Spacing)
+
+### **Beispiel: Anatomie-Coach**
+
+- **Lehrthema**: Medizin---Anatomische Strukturen
+- **Problem**: Bulimie-Lernen vor Prüfungen, schnelles Vergessen
+
+**Agent macht:**
+
+- Berechnet optimale Wiederholungsintervalle
+- Sendet personalisierte Erinnerungen
+- Passt Timing basierend auf individuellem Vergessen an
+- Visualisiert Lernfortschritt über Zeit
+
+**Lernende tun:**
+
+- Anatomie aktiv benennen (ohne Hilfe)
+- Strukturen zeichnen und beschriften
+- Verbindungen zwischen Systemen erklären
+- Langzeit-Commitment zum regelmässigen Üben
+
+**Warum es funktioniert**: Agent optimiert wann gelernt wird, aber nicht was und wie.
+
+---
+
+## 3. Abwechslung (Interleaving)
+
+### **Beispiel: Programmier-Mentor**
+
+- **Lehrthema**: Algorithmen und Datenstrukturen
+- **Problem**: Können isolierte Konzepte, aber nicht entscheiden wann welches
+
+**Agent macht:**
+
+- Mischt verschiedene Problemtypen intelligent
+- Erstellt "Mixed Practice" Sessions
+- Vermeidet predictable Patterns
+- Analysiert welche Kombinationen am besten funktionieren
+
+**Lernende tun:**
+
+- Identifizieren welcher Algorithmus/welche Datenstruktur benötigt wird
+- Implementieren ohne vorherige Ankündigung des Typs
+- Vergleichen und kontrastieren verschiedene Ansätze
+- Entwickeln "Problem-Pattern-Recognition"
+
+**Warum es funktioniert**: Agent mixt die Aufgaben, Lernende müssen Problem identifizieren und lösen.
+
+---
+
+## 4. Variation
+
+### **Beispiel: Physik-Simulator**
+
+- **Lehrthema**: Newtonsche Mechanik
+- **Problem**: Können Formeln anwenden, aber nicht in neuen Kontexten
+
+**Agent macht:**
+
+- Generiert vielfältige Anwendungsszenarien
+- Variiert Parameter, Kontexte, Darstellungsformen
+- Erstellt real-world Problemsituationen
+
+**Lernende tun:**
+
+- Physikalische Prinzipien in verschiedenen Situationen erkennen
+- Von abstrakten Formeln zu konkreten Anwendungen
+- Problem-Situationen selbst analysieren und modellieren
+- Transfer auf völlig neue Bereiche leisten
+
+**Warum es funktioniert**: Agent variiert die Kontexte, Lernende müssen Prinzipien erkennen und anwenden.
+
+---
+
+## 5. Wünschenswerte Schwierigkeiten
+
+### **Beispiel: Sozialpsychologie-Challenger**
+
+**Lehrthema**: Kognitive Verzerrungen und Biases
+**Problem**: Oberflächliches Verständnis, keine kritische Anwendung
+
+**Agent macht:**
+
+- Erstellt mehrdeutige Situationen
+- Präsentiert widersprüchliche Evidenz
+- Generiert "Productive Struggle" Szenarien
+- Gibt delayed und minimales Feedback
+
+**Lernende tun:**
+
+- Erst eigene Hypothesen aufstellen
+- Mit Unsicherheit und Ambiguität umgehen
+- Biases in eigenen Denkprozessen entdecken
+- Komplexe, nuancierte Analysen entwickeln
+
+**Warum es funktioniert**: Agent erzeugt Struggle, Lernende müssen durch die Schwierigkeit durcharbeiten.
+
+---
+
+## 6. Verstehen vs. Vertrautheit
+
+### **Beispiel: Erklärungs-Coach (Feynman-Technik)**
+
+- **Lehrthema**: Computernetzwerke (TCP/IP-Protokoll)
+- **Problem**: Können Fachbegriffe verwenden, aber nicht einfach erklären was passiert
+
+**Agent macht:**
+
+- Fordert Erklärungen für 8-Jährige ("Erkläre TCP so, dass es ein Kind versteht")
+- Identifiziert verwendete Fachbegriffe und verlangt Übersetzung
+- Generiert Analogie-Aufgaben ("TCP ist wie...")
+- Testet Verständnis durch Vereinfachungs-Challenges
+
+**Lernende tun:**
+
+- Komplexe Konzepte ohne Jargon erklären
+- Eigene Analogien entwickeln und testen
+- Verständnislücken selbst entdecken beim Erklärungsversuch
+- Konzepte in verschiedenen Abstraktionsebenen darstellen
+
+**Warum es funktioniert**: Agent zwingt zur Vereinfachung ohne Bedeutungsverlust---die ultimative Verstehens-Prüfung.
+
+---
+
+## 7. Feedback & Reflexion
+
+### **Beispiel: Schreibtrainer-Coach**
+
+- **Lehrthema**: Akademisches Schreiben
+- **Problem**: Wenig Bewusstsein für eigene Schreibprozesse und -qualität
+
+**Agent macht:**
+
+- Analysiert Schreibmuster und gibt spezifisches Feedback
+- Stellt Reflexionsfragen zum Schreibprozess
+- Tracked Fortschritt in verschiedenen Dimensionen
+- Gibt formatives (nicht summatives) Feedback
+
+**Lernende tun:**
+
+- Eigene Texte kritisch evaluieren
+- Schreibstrategien bewusst reflektieren
+- Feedback in Überarbeitungen umsetzen
+- Metakognitive Awareness für Schreibprozess entwickeln
+
+**Warum es funktioniert**: Agent analysiert und fragt, Lernende müssen reflektieren und verbessern.
+
+---
+
+## 8. Anwendung
+
+### **Beispiel: Case-Study-Generator**
+
+- **Lehrthema**: Betriebswirtschaft - Strategisches Management
+- **Problem**: Theoretisches Wissen kann nicht auf reale Situationen übertragen werden
+
+**Agent macht:**
+
+- Erstellt realistische, komplexe Unternehmensszenarien
+- Simuliert Stakeholder-Perspektiven
+- Generiert "What-if" Szenarien
+- Sammelt aktuelle Business Cases
+
+**Lernende tun:**
+
+- Theoretische Frameworks auf reale Probleme anwenden
+- Strategische Entscheidungen treffen und begründen
+- Multiple Perspektiven berücksichtigen
+- Langfristige Konsequenzen durchdenken
+
+**Warum es funktioniert**: Agent erstellt realistische Szenarien, Lernende müssen anwenden und entscheiden.
+

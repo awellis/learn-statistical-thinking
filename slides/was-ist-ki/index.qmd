@@ -1,0 +1,253 @@
+ ---
+title: "Was ist Künstliche Intelligenz?"
+<!-- subtitle: "Cognitive effort is not a bug---it's the feature" -->
+---
+
+
+## Erster Schritt: Eigene KI-Kompetenz entwickeln
+
+:::: {.columns}
+::: {.column width="60%"}
+### Warum du beginnen solltest
+
+![](../../assets/images/funf-schritte-model.png)
+
+[Blog Post: KI integrieren](https://barbarageyer.substack.com/p/ki-integration)
+:::
+
+::: {.column width="40%"}
+
+:::
+::::
+
+::: {.attribution}
+Grafik von [Barbara Geyer](https://barbarageyer.substack.com/p/ki-integration)
+::: 
+
+## Erster Schritt: Eigene KI-Kompetenz entwickeln
+
+:::: {.columns}
+::: {.column width="60%"}
+### Warum du beginnen solltest
+
+![](../../assets/images/funf-schritte-model.png)
+
+[Blog Post: KI integrieren](https://barbarageyer.substack.com/p/ki-integration)
+:::
+
+::: {.column width="40%"}
+
+**Kommerzielle Tools**
+
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/)
+- [Copilot](https://copilot.microsoft.com/)
+- [Gemini](https://gemini.google.com/)
+  
+**Lokale Sprachmodelle**
+
+- [LM Studio](https://lmstudio.ai/)
+- [Ollama](https://ollama.com/)
+:::
+::::
+
+::: {.attribution}
+Grafik von [Barbara Geyer](https://barbarageyer.substack.com/p/ki-integration)
+::: 
+
+
+## Was is KI?
+
+
+::::{.columns}
+:::{.column width="30%"}
+
+
+:::
+
+:::{.column width="70%"}
+![](../../assets/images/ai-diagram.svg)
+
+:::
+
+::::
+
+## Symbolische KI / Maschinelles Lernen {.smaller}
+
+:::: {.columns} 
+::: {.column width="50%"}
+**Symbolische KI:**
+
+- Explizite Regeln und Logik, programmiert von Menschen
+- Basiert auf Wenn-Dann-Anweisungen und vordefiniertem Wissen
+- Folgt klaren, erklärbaren Schritten
+- Gut für Probleme mit eindeutigen Regeln
+- Weniger anpassungsfähig an neue Situationen
+- Kann schlecht mit Unsicherheit umgehen
+:::
+::: {.column width="50%"}
+**Machine Learning:**
+
+- Lernt automatisch statistische Muster und Beziehungen aus Daten
+- Funktioniert wie eine "Black Box" - Entscheidungen schwerer zu erklären
+- Kann sich durch Training an neue Situationen anpassen
+- Gut für komplexe Muster und unklare Regeln
+:::
+::::
+
+
+## Machine learning
+
+![](../../assets/images/neural-network.gif)
+
+
+## Machine learning
+
+:::: {.columns} 
+::: {.column width="30%"}
+- Supervised learning
+- Unsupervised learning
+- Reinforcement learning
+
+:::
+::: {.column width="70%"}
+
+
+:::
+::::
+
+
+
+## Machine learning
+
+:::: {.columns} 
+::: {.column width="30%"}
+- **Supervised learning**
+- Unsupervised learning
+- Reinforcement learning
+
+:::
+::: {.column width="70%"}
+
+![](../../assets/images/supervised.gif)
+
+:::
+::::
+
+
+## Machine learning
+
+:::: {.columns} 
+::: {.column width="30%"}
+- Supervised learning
+- Unsupervised learning
+- **Reinforcement learning**
+
+:::
+::: {.column width="70%"}
+
+::: {.r-stack}
+![](../../assets/images/control-1.gif){.fragment width="350" height="200"}
+![](../../assets/images/control-2.gif){.fragment width="350" height="200"}
+
+:::
+
+
+:::
+::::
+
+
+## Klassifizierung
+
+
+::::{.columns}
+:::{.column width="30%"}
+
+
+:::
+
+:::{.column width="70%"}
+![](../../assets/images/cats-vs-dogs.png)
+
+:::
+
+::::
+
+::: {.attribution}
+Figure courtesy of [Branav Kumar Gnanamoorthy](https://medium.com/@gnabr/machine-learning-c28daf3cf60a)
+::: 
+
+
+## Mit Symbolischer KI
+
+<br> <br>
+
+:::: {.columns}
+:::{.column width="60%"}
+:::{.r-fit-text}
+```
+IF has_whiskers = true
+AND has_pointed_ears = true
+AND has_fur = true
+AND has_tail = true
+THEN is_cat = true
+```
+
+:::
+:::
+
+:::{.column width="40%"}
+![](../../assets/images/cat.png)
+:::
+
+::::
+
+
+
+## Mit Machine learning
+
+:::: {.columns}
+:::{.column width="40%"}
+-   System lernt automatisch Muster (Formen, Farben, Texturen) aus tausenden Bildern.
+- Kann Katzen in neuen Bildern erkennen, auch in ungewöhnlichen Positionen oder Beleuchtungen.
+- Braucht keine expliziten Regeln.
+
+:::
+:::{.column width="60%"}
+![](../../assets/images/cat-features.png)
+
+:::
+::::
+
+
+
+
+## Was kann KI?
+
+![](../../assets/images/objects.png)
+
+
+## Was kann KI?
+
+:::: {.columns}
+::: {.column width="40%"}
+[AlphaFold](https://alphafold.com/) ist ein von [Google DeepMind](https://deepmind.google/) entwickeltes KI-System, das die 3D-Struktur eines Proteins aus seiner Aminosäuresequenz vorhersagt.
+:::
+::: {.column width="60%"}
+![](../../assets/images/protein.png)
+:::
+::::
+
+
+
+:::{.attribution}
+Quelle: [AlphaFold](https://alphafold.com/)
+:::
+
+
+
+## Was kann KI?
+
+![](../../assets/images/ai-capabilities.png)
+
+
